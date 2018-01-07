@@ -1,0 +1,11 @@
+{
+    "parent": "chinjufumod:block/block_ishitourou_stone",
+	"display": {
+		"gui": {
+			"rotation": [ 5, 45, 0 ],
+			"translation": [ 0, 0, 0],
+			"scale": [ 0.8, 0.8, 0.8 ]
+		}
+	}
+}
+

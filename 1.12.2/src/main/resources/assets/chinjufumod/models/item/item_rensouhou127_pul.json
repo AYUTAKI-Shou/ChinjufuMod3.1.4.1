@@ -1,0 +1,33 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "chinjufumod:items/rensouhou127"
+    },
+    "display": {
+		 "gui": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 0, 0],
+            "scale": [ 0.9, 0.9, 0.9 ]
+        },
+        "thirdperson_righthand": {
+            "rotation": [ 90, 0, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 0.7, 0.7, 0.7 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ 90, 0, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 0.7, 0.7, 0.7 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 120, 6, -7 ],
+            "translation": [ -5, 0, -4 ],
+            "scale": [ 0.9, 0.9, 0.9 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 120, 6, -7 ],
+            "translation": [ -5, 0, -4 ],
+            "scale": [ 0.9, 0.9, 0.9 ]
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+	"parent": "chinjufumod:block/item_kiji_burg",
+    "display": {
+        "gui": {
+            "rotation": [ 90, 0, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 2.0, 2.0, 2.0 ]
+        },
+        "thirdperson_righthand": {
+            "rotation": [ 90, 0, 0 ],
+            "translation": [ 0, 5, 12 ],
+            "scale": [ 1.5, 1.5, 1.5 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 12, 0 ],
+            "scale": [ 1.5, 1.5, 1.5 ]
+        }
+    }
+}

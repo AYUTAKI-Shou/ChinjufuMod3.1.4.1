@@ -1,0 +1,20 @@
+{
+    "parent": "chinjufumod:block/item_cray_kyusu",
+    "display": {
+        "gui": {
+            "rotation": [ 30, 45, 0 ],
+            "translation": [ 0, 8, 0 ],
+            "scale": [ 1.8, 1.8, 1.8 ]
+        },
+        "thirdperson_righthand": {
+            "rotation": [ 90, -90, 0 ],
+            "translation": [ 0, -1, 4 ],
+            "scale": [ 1.0, 1.0, 1.0 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, -90, 0 ],
+            "translation": [ 0, 6, 0 ],
+            "scale": [ 1.0, 1.0, 1.0 ]
+        }
+    }
+}

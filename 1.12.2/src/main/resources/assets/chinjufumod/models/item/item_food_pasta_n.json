@@ -1,0 +1,20 @@
+{
+	"parent": "chinjufumod:block/item_food_pasta_n",
+    "display": {
+        "gui": {
+            "rotation": [ 90, 0, 0 ],
+            "translation": [ 0, -3, 0 ],
+            "scale": [ 1.5, 1.5, 1.5 ]
+        },
+        "thirdperson_righthand": {
+            "rotation": [ 90, 0, 0 ],
+            "translation": [ 0, 2, 8 ],
+            "scale": [ 1.0, 1.0, 1.0 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 7, 0 ],
+            "scale": [ 1.0, 1.0, 1.0 ]
+        }
+    }
+}

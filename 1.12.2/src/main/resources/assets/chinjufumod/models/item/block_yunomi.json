@@ -1,0 +1,20 @@
+{
+    "parent": "chinjufumod:block/block_yunomi_empty",
+    "display": {
+        "gui": {
+            "rotation": [ 30, 45, 0 ],
+            "translation": [  0, 16, 0 ],
+            "scale": [ 3.0, 3.0, 3.0 ]
+        },
+        "thirdperson_righthand": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 6, -1 ],
+            "scale": [ 1.0, 1.0, 1.0 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 7.5, 0 ],
+            "scale": [ 1.0, 1.0, 1.0 ]
+        }
+    }
+}
