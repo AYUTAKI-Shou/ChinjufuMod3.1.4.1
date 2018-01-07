@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"tea=1": { "model": "chinjufumod:block_yunomi_1" },
+		"tea=2": { "model": "chinjufumod:block_yunomi_2" },
+		"tea=3": { "model": "chinjufumod:block_yunomi_3" },
+		"tea=4": { "model": "chinjufumod:block_yunomi_4" }
+    }
+}

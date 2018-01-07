@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "chinjufumod:block_ctruss_orange" },
+    "facing=south": { "model": "chinjufumod:block_ctruss_orange_re" },
+    "facing=west":  { "model": "chinjufumod:block_ctruss_orange_re" },
+    "facing=east":  { "model": "chinjufumod:block_ctruss_orange" }
+  }
+}

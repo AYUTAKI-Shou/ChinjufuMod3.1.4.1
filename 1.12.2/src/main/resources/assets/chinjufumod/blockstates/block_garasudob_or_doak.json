@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "chinjufumod:block_garasudob_or_doak", "y": 180 },
+    "facing=south": { "model": "chinjufumod:block_garasudob_or_doak", "y": 0 },
+    "facing=west":  { "model": "chinjufumod:block_garasudob_or_doak", "y": 90 },
+    "facing=east":  { "model": "chinjufumod:block_garasudob_or_doak", "y": 270 }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "facing=north,pil=1": { "model": "chinjufumod:block_wp_stone_m", "y": 180 },
+    "facing=south,pil=1": { "model": "chinjufumod:block_wp_stone_m" },
+    "facing=west,pil=1":  { "model": "chinjufumod:block_wp_stone_m", "y": 90 },
+    "facing=east,pil=1":  { "model": "chinjufumod:block_wp_stone_m", "y": 270 },
+	"facing=north,pil=2": { "model": "chinjufumod:block_wp_stone_mmos", "y": 180 },
+    "facing=south,pil=2": { "model": "chinjufumod:block_wp_stone_mmos" },
+    "facing=west,pil=2":  { "model": "chinjufumod:block_wp_stone_mmos", "y": 90 },
+    "facing=east,pil=2":  { "model": "chinjufumod:block_wp_stone_mmos", "y": 270 }
+  }
+}

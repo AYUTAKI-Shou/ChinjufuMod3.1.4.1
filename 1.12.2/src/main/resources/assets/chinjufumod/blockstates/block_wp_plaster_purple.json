@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "facing=north,pil=1": { "model": "chinjufumod:block_wp_plaster_purple", "y": 180 },
+    "facing=south,pil=1": { "model": "chinjufumod:block_wp_plaster_purple" },
+    "facing=west,pil=1" : { "model": "chinjufumod:block_wp_plaster_purple", "y": 90 },
+    "facing=east,pil=1" : { "model": "chinjufumod:block_wp_plaster_purple", "y": 270 },
+    "facing=north,pil=2": { "model": "chinjufumod:block_wp_plaster_purple_cr", "y": 180 },
+    "facing=south,pil=2": { "model": "chinjufumod:block_wp_plaster_purple_cr" },
+    "facing=west,pil=2" : { "model": "chinjufumod:block_wp_plaster_purple_cr", "y": 90 },
+    "facing=east,pil=2" : { "model": "chinjufumod:block_wp_plaster_purple_cr", "y": 270 }
+  }
+}

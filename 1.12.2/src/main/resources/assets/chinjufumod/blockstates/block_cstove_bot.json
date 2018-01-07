@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "facing=north,kaihei=1": { "model": "chinjufumod:block_cstove_bot_1", "y": 0 },
+    "facing=south,kaihei=1": { "model": "chinjufumod:block_cstove_bot_1", "y": 180 },
+    "facing=west,kaihei=1":  { "model": "chinjufumod:block_cstove_bot_1", "y": 270 },
+    "facing=east,kaihei=1":  { "model": "chinjufumod:block_cstove_bot_1", "y": 90 },
+    "facing=north,kaihei=2": { "model": "chinjufumod:block_cstove_bot_2", "y": 0 },
+    "facing=south,kaihei=2": { "model": "chinjufumod:block_cstove_bot_2", "y": 180 },
+    "facing=west,kaihei=2":  { "model": "chinjufumod:block_cstove_bot_2", "y": 270 },
+    "facing=east,kaihei=2":  { "model": "chinjufumod:block_cstove_bot_2", "y": 90 }
+  }
+}

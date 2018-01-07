@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=north,pil=1": { "model": "chinjufumod:block_wp_stone_diob", "y": 180 },
+    "facing=south,pil=1": { "model": "chinjufumod:block_wp_stone_diob" },
+    "facing=west,pil=1":  { "model": "chinjufumod:block_wp_stone_diob", "y": 90 },
+    "facing=east,pil=1":  { "model": "chinjufumod:block_wp_stone_diob", "y": 270 },
+	"facing=north,pil=2": { "model": "chinjufumod:block_wp_stone_diobchi", "y": 180 },
+    "facing=south,pil=2": { "model": "chinjufumod:block_wp_stone_diobchi" },
+    "facing=west,pil=2":  { "model": "chinjufumod:block_wp_stone_diobchi", "y": 90 },
+    "facing=east,pil=2":  { "model": "chinjufumod:block_wp_stone_diobchi", "y": 270 },
+	"facing=north,pil=3": { "model": "chinjufumod:block_wp_stone_diobcra", "y": 180 },
+    "facing=south,pil=3": { "model": "chinjufumod:block_wp_stone_diobcra" },
+    "facing=west,pil=3":  { "model": "chinjufumod:block_wp_stone_diobcra", "y": 90 },
+    "facing=east,pil=3":  { "model": "chinjufumod:block_wp_stone_diobcra", "y": 270 },
+	"facing=north,pil=4": { "model": "chinjufumod:block_wp_stone_diobmos", "y": 180 },
+    "facing=south,pil=4": { "model": "chinjufumod:block_wp_stone_diobmos" },
+    "facing=west,pil=4":  { "model": "chinjufumod:block_wp_stone_diobmos", "y": 90 },
+    "facing=east,pil=4":  { "model": "chinjufumod:block_wp_stone_diobmos", "y": 270 }
+  }
+}

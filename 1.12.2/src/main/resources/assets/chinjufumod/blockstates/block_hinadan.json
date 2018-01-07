@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "facing=north,hina=1": { "model": "chinjufumod:block_hinadan_r", "y": 90 },
+    "facing=south,hina=1": { "model": "chinjufumod:block_hinadan_r", "y": 270 },
+    "facing=west,hina=1":  { "model": "chinjufumod:block_hinadan_r" },
+    "facing=east,hina=1":  { "model": "chinjufumod:block_hinadan_r", "y": 180 },
+    "facing=north,hina=2": { "model": "chinjufumod:block_hinadan_l", "y": 90 },
+    "facing=south,hina=2": { "model": "chinjufumod:block_hinadan_l", "y": 270 },
+    "facing=west,hina=2":  { "model": "chinjufumod:block_hinadan_l" },
+    "facing=east,hina=2":  { "model": "chinjufumod:block_hinadan_l", "y": 180 }
+  }
+}

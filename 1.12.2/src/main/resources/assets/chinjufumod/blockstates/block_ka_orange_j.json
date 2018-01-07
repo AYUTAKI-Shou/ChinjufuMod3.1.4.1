@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=north,pil=1": { "model": "chinjufumod:block_ka_orange_j1", "y": 90 },
+    "facing=south,pil=1": { "model": "chinjufumod:block_ka_orange_j1", "y": 270  },
+    "facing=west,pil=1":  { "model": "chinjufumod:block_ka_orange_j1", "y": 0 },
+    "facing=east,pil=1":  { "model": "chinjufumod:block_ka_orange_j1", "y": 180 },
+    "facing=north,pil=2": { "model": "chinjufumod:block_ka_orange_j2", "y": 90 },
+    "facing=south,pil=2": { "model": "chinjufumod:block_ka_orange_j2", "y": 270 },
+    "facing=west,pil=2":  { "model": "chinjufumod:block_ka_orange_j2", "y": 0 },
+    "facing=east,pil=2":  { "model": "chinjufumod:block_ka_orange_j2", "y": 180 },
+    "facing=north,pil=3": { "model": "chinjufumod:block_ka_orange_j3", "y": 90 },
+    "facing=south,pil=3": { "model": "chinjufumod:block_ka_orange_j3", "y": 270 },
+    "facing=west,pil=3":  { "model": "chinjufumod:block_ka_orange_j3", "y": 0 },
+    "facing=east,pil=3":  { "model": "chinjufumod:block_ka_orange_j3", "y": 180 },
+    "facing=north,pil=4": { "model": "chinjufumod:block_ka_orange_j4", "y": 90 },
+    "facing=south,pil=4": { "model": "chinjufumod:block_ka_orange_j4", "y": 270 },
+    "facing=west,pil=4":  { "model": "chinjufumod:block_ka_orange_j4", "y": 0 },
+    "facing=east,pil=4":  { "model": "chinjufumod:block_ka_orange_j4", "y": 180 }
+  }
+}

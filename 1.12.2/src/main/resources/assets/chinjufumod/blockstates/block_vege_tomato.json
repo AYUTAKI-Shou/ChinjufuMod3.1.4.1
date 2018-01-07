@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "age=0": { "model": "chinjufumod:block_vege_tomato_0" },
+        "age=1": { "model": "chinjufumod:block_vege_tomato_1" },
+        "age=2": { "model": "chinjufumod:block_vege_tomato_2" },
+        "age=3": { "model": "chinjufumod:block_vege_tomato_3" },
+        "age=4": { "model": "chinjufumod:block_vege_tomato_4" },
+        "age=5": { "model": "chinjufumod:block_vege_tomato_5" },
+        "age=6": { "model": "chinjufumod:block_vege_tomato_6" },
+        "age=7": { "model": "chinjufumod:block_vege_tomato_7" }
+    }
+}

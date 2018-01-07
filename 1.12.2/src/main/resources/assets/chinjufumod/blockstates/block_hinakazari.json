@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=north,hina=1": { "model": "chinjufumod:block_hina_1l", "y": 180 },
+    "facing=south,hina=1": { "model": "chinjufumod:block_hina_1l" },
+    "facing=west,hina=1":  { "model": "chinjufumod:block_hina_1l", "y": 90 },
+    "facing=east,hina=1":  { "model": "chinjufumod:block_hina_1l", "y": 270 },
+    "facing=north,hina=2": { "model": "chinjufumod:block_hina_1r", "y": 180 },
+    "facing=south,hina=2": { "model": "chinjufumod:block_hina_1r" },
+    "facing=west,hina=2":  { "model": "chinjufumod:block_hina_1r", "y": 90 },
+    "facing=east,hina=2":  { "model": "chinjufumod:block_hina_1r", "y": 270 },
+    "facing=north,hina=3": { "model": "chinjufumod:block_hina_2l", "y": 180 },
+    "facing=south,hina=3": { "model": "chinjufumod:block_hina_2l" },
+    "facing=west,hina=3":  { "model": "chinjufumod:block_hina_2l", "y": 90 },
+    "facing=east,hina=3":  { "model": "chinjufumod:block_hina_2l", "y": 270 },
+    "facing=north,hina=4": { "model": "chinjufumod:block_hina_2r", "y": 180 },
+    "facing=south,hina=4": { "model": "chinjufumod:block_hina_2r" },
+    "facing=west,hina=4":  { "model": "chinjufumod:block_hina_2r", "y": 90 },
+    "facing=east,hina=4":  { "model": "chinjufumod:block_hina_2r", "y": 270 }
+  }
+}

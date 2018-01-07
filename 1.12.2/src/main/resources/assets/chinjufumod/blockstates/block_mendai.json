@@ -1,0 +1,20 @@
+{
+"variants": {
+    "back=false,forward=true,left=false,right=true": {"model": "chinjufumod:block_mendai_corner", "y": 270,"uvlock": true},
+    "back=false,forward=true,left=true,right=false": {"model": "chinjufumod:block_mendai_corner", "y": 180,"uvlock": true},
+    "back=true,forward=false,left=false,right=true": {"model": "chinjufumod:block_mendai_corner","uvlock": true},
+    "back=true,forward=false,left=true,right=false": {"model": "chinjufumod:block_mendai_corner", "y": 90,"uvlock": true },
+    "back=false,forward=true,left=false,right=false": { "model": "chinjufumod:block_mendai_end", "y": 270,"uvlock": true },
+    "back=false,forward=false,left=false,right=true": { "model": "chinjufumod:block_mendai_end","uvlock": true },
+    "back=false,forward=false,left=true,right=false": { "model": "chinjufumod:block_mendai_end", "y": 180,"uvlock": true },
+    "back=true,forward=false,left=false,right=false": { "model": "chinjufumod:block_mendai_end", "y": 90,"uvlock": true },
+    "back=false,forward=false,left=false,right=false": { "model": "chinjufumod:block_mendai_center","uvlock": true },
+    "back=true,forward=true,left=false,right=false": { "model": "chinjufumod:block_mendai_none", "y": 90,"uvlock": true },
+    "back=false,forward=false,left=true,right=true": { "model": "chinjufumod:block_mendai_none","uvlock": true },
+    "back=true,forward=true,left=true,right=false": { "model": "chinjufumod:block_mendai_none", "y": 90,"uvlock": true },
+    "back=true,forward=true,left=false,right=true": { "model": "chinjufumod:block_mendai_none", "y": 90,"uvlock": true },
+    "back=false,forward=true,left=true,right=true": { "model": "chinjufumod:block_mendai_none","uvlock": true },
+    "back=true,forward=false,left=true,right=true": { "model": "chinjufumod:block_mendai_none", "uvlock": true },
+    "back=true,forward=true,left=true,right=true": { "model": "chinjufumod:block_mendai_none2","uvlock": true }
+    }
+}

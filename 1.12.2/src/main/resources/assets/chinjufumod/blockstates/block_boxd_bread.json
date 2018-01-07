@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "half=bottom": { "model": "chinjufumod:block_boxd_bread" },
+    "half=top": { "model": "chinjufumod:block_boxd_bread" }
+  }
+}

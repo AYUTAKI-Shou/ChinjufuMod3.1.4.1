@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "chinjufumod:block_longbirch_top", "y": 0 },
+    "facing=south": { "model": "chinjufumod:block_longbirch_top", "y": 180 },
+    "facing=west":  { "model": "chinjufumod:block_longbirch_top", "y": 270 },
+    "facing=east":  { "model": "chinjufumod:block_longbirch_top", "y": 90 }
+  }
+}

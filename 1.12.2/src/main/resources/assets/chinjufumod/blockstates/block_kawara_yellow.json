@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "cra=1": { "model": "chinjufumod:block_kawara_yellow" },
+    "cra=2": { "model": "chinjufumod:block_kawara_cr_yellow" }
+  }
+}
+

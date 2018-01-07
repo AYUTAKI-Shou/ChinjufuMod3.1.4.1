@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "cra=1,half=bottom": { "model": "chinjufumod:block_plaster_purple" },
+        "cra=1,half=top": { "model": "chinjufumod:block_plaster_purple" },
+        "cra=2,half=bottom": { "model": "chinjufumod:block_plaster_cr_purple" },
+        "cra=2,half=top": { "model": "chinjufumod:block_plaster_cr_purple" }
+    }
+}

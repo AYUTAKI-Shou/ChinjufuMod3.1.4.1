@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "facing=north,log=1": { "model": "chinjufumod:block_wp_log_doak_long", "y": 180 },
+    "facing=south,log=1": { "model": "chinjufumod:block_wp_log_doak_long" },
+    "facing=west,log=1":  { "model": "chinjufumod:block_wp_log_doak_long", "y": 90 },
+    "facing=east,log=1":  { "model": "chinjufumod:block_wp_log_doak_long", "y": 270 },
+    "facing=north,log=2": { "model": "chinjufumod:block_wp_log_doak", "y": 180 },
+    "facing=south,log=2": { "model": "chinjufumod:block_wp_log_doak" },
+    "facing=west,log=2":  { "model": "chinjufumod:block_wp_log_doak", "y": 90 },
+    "facing=east,log=2":  { "model": "chinjufumod:block_wp_log_doak", "y": 270 },
+    "facing=north,log=3": { "model": "chinjufumod:block_wp_logt_doak", "y": 180 },
+    "facing=south,log=3": { "model": "chinjufumod:block_wp_logt_doak" },
+    "facing=west,log=3":  { "model": "chinjufumod:block_wp_logt_doak", "y": 90 },
+    "facing=east,log=3":  { "model": "chinjufumod:block_wp_logt_doak", "y": 270 }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=north,pil=1": { "model": "chinjufumod:block_wp_stone_grab", "y": 180 },
+    "facing=south,pil=1": { "model": "chinjufumod:block_wp_stone_grab" },
+    "facing=west,pil=1":  { "model": "chinjufumod:block_wp_stone_grab", "y": 90 },
+    "facing=east,pil=1":  { "model": "chinjufumod:block_wp_stone_grab", "y": 270 },
+	"facing=north,pil=2": { "model": "chinjufumod:block_wp_stone_grabchi", "y": 180 },
+    "facing=south,pil=2": { "model": "chinjufumod:block_wp_stone_grabchi" },
+    "facing=west,pil=2":  { "model": "chinjufumod:block_wp_stone_grabchi", "y": 90 },
+    "facing=east,pil=2":  { "model": "chinjufumod:block_wp_stone_grabchi", "y": 270 },
+	"facing=north,pil=3": { "model": "chinjufumod:block_wp_stone_grabcra", "y": 180 },
+    "facing=south,pil=3": { "model": "chinjufumod:block_wp_stone_grabcra" },
+    "facing=west,pil=3":  { "model": "chinjufumod:block_wp_stone_grabcra", "y": 90 },
+    "facing=east,pil=3":  { "model": "chinjufumod:block_wp_stone_grabcra", "y": 270 },
+	"facing=north,pil=4": { "model": "chinjufumod:block_wp_stone_grabmos", "y": 180 },
+    "facing=south,pil=4": { "model": "chinjufumod:block_wp_stone_grabmos" },
+    "facing=west,pil=4":  { "model": "chinjufumod:block_wp_stone_grabmos", "y": 90 },
+    "facing=east,pil=4":  { "model": "chinjufumod:block_wp_stone_grabmos", "y": 270 }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "facing=north,pil=1": { "model": "chinjufumod:block_wp_plank_jun", "y": 180 },
+    "facing=south,pil=1": { "model": "chinjufumod:block_wp_plank_jun" },
+    "facing=west,pil=1":  { "model": "chinjufumod:block_wp_plank_jun", "y": 90 },
+    "facing=east,pil=1":  { "model": "chinjufumod:block_wp_plank_jun", "y": 270 },
+    "facing=north,pil=2": { "model": "chinjufumod:block_wp_plank_jun_long", "y": 180 },
+    "facing=south,pil=2": { "model": "chinjufumod:block_wp_plank_jun_long" },
+    "facing=west,pil=2":  { "model": "chinjufumod:block_wp_plank_jun_long", "y": 90 },
+    "facing=east,pil=2":  { "model": "chinjufumod:block_wp_plank_jun_long", "y": 270 },
+	"facing=north,pil=3": { "model": "chinjufumod:block_wp_plank_top_jun", "y": 180 },
+    "facing=south,pil=3": { "model": "chinjufumod:block_wp_plank_top_jun" },
+    "facing=west,pil=3":  { "model": "chinjufumod:block_wp_plank_top_jun", "y": 90 },
+    "facing=east,pil=3":  { "model": "chinjufumod:block_wp_plank_top_jun", "y": 270 }
+  }
+}

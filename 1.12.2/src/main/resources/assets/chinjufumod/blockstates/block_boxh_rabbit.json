@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "half=bottom": { "model": "chinjufumod:block_boxh_rabbit_bot" },
+    "half=top": { "model": "chinjufumod:block_boxh_rabbit_top" }
+  }
+}

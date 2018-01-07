@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "chinjufumod:block_garasudo_cr", "y": 180 },
+    "facing=south": { "model": "chinjufumod:block_garasudo_cr", "y": 0 },
+    "facing=west":  { "model": "chinjufumod:block_garasudo_cr", "y": 90 },
+    "facing=east":  { "model": "chinjufumod:block_garasudo_cr", "y": 270 }
+  }
+}

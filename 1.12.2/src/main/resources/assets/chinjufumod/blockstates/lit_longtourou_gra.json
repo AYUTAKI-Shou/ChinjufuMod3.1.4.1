@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"facing=north": { "model": "chinjufumod:lit_longtourou_gra", "y": 180 },
+		"facing=south": { "model": "chinjufumod:lit_longtourou_gra", "y": 0  },
+		"facing=west":  { "model": "chinjufumod:lit_longtourou_gra", "y": 90 },
+		"facing=east":  { "model": "chinjufumod:lit_longtourou_gra", "y": 270 }
+	}
+}

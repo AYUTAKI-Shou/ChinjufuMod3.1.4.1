@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "cra=1,half=bottom": { "model": "chinjufumod:block_ksh_blue_bottom" },
+        "cra=1,half=top": { "model": "chinjufumod:block_ksh_blue_top" },
+        "cra=2,half=bottom": { "model": "chinjufumod:block_ksh_cr_blue_bottom" },
+        "cra=2,half=top": { "model": "chinjufumod:block_ksh_cr_blue_top" }
+    }
+}

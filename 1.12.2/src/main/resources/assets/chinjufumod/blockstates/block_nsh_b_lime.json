@@ -1,0 +1,8 @@
+{
+  "variants": {
+	"cra=1,half=bottom": { "model": "chinjufumod:block_nsh_b_lime_bottom" },
+	"cra=1,half=top": { "model": "chinjufumod:block_nsh_b_lime_top" },
+	"cra=2,half=bottom": { "model": "chinjufumod:block_nsh_bcr_lime_bottom" },
+	"cra=2,half=top": { "model": "chinjufumod:block_nsh_bcr_lime_top" }
+  }
+}

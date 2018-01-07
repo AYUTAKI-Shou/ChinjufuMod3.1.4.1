@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "axis=y":  { "model": "chinjufumod:block_brick_dio_pil_c" },
+        "axis=z":   { "model": "chinjufumod:block_brick_dio_pil_c", "x": 90 },
+        "axis=x":   { "model": "chinjufumod:block_brick_dio_pil_c", "x": 90, "y": 90 },
+        "axis=none": { "model": "chinjufumod:block_brick_dio_pil_c" }
+    }
+}

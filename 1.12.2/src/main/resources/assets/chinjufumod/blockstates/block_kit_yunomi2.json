@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"facing=north": { "model": "chinjufumod:block_kit_yunomi2", "y": 180 },
+		"facing=south": { "model": "chinjufumod:block_kit_yunomi2", "y": 0 },
+		"facing=west":  { "model": "chinjufumod:block_kit_yunomi2", "y": 90 },
+		"facing=east":  { "model": "chinjufumod:block_kit_yunomi2", "y": 270 }
+	}
+}

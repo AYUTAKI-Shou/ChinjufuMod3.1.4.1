@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "half=bottom": { "model": "chinjufumod:block_boxh_grape_bot" },
+    "half=top": { "model": "chinjufumod:block_boxh_grape_top" }
+  }
+}

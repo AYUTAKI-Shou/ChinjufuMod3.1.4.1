@@ -1,0 +1,12 @@
+{
+	"variants": {
+		"facing=north,on=1": { "model": "chinjufumod:block_kit_kanki_3", "y": 180 },
+		"facing=south,on=1": { "model": "chinjufumod:block_kit_kanki_3", "y": 0 },
+		"facing=west,on=1":  { "model": "chinjufumod:block_kit_kanki_3", "y": 90 },
+		"facing=east,on=1":  { "model": "chinjufumod:block_kit_kanki_3", "y": 270 },
+		"facing=north,on=2": { "model": "chinjufumod:lit_kit_kanki_3", "y": 180 },
+		"facing=south,on=2": { "model": "chinjufumod:lit_kit_kanki_3", "y": 0 },
+		"facing=west,on=2":  { "model": "chinjufumod:lit_kit_kanki_3", "y": 90 },
+		"facing=east,on=2":  { "model": "chinjufumod:lit_kit_kanki_3", "y": 270 }
+	}
+}

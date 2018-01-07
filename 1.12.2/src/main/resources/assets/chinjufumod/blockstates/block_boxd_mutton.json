@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "half=bottom": { "model": "chinjufumod:block_boxd_mutton" },
+    "half=top": { "model": "chinjufumod:block_boxd_mutton" }
+  }
+}

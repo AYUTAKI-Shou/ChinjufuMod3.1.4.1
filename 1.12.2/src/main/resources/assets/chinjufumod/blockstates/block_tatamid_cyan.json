@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "half=bottom,log=1": { "model": "chinjufumod:block_tatamid_cyan" },
+    "half=top,log=1": { "model": "chinjufumod:block_tatamid_cyan" },
+
+    "half=bottom,log=2": { "model": "chinjufumod:block_tatamid_cyan", "y": 90 },
+    "half=top,log=2": { "model": "chinjufumod:block_tatamid_cyan", "y": 90 },
+
+    "half=bottom,log=3": { "model": "chinjufumod:block_tatamid2_cyan" },
+    "half=top,log=3": { "model": "chinjufumod:block_tatamid2_cyan" },
+
+    "half=bottom,log=4": { "model": "chinjufumod:block_tatamid2_cyan", "y": 90 },
+    "half=top,log=4": { "model": "chinjufumod:block_tatamid2_cyan", "y": 90  }
+  }
+}

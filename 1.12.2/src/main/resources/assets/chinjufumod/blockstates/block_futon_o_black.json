@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "chinjufumod:block_futon_o_black", "y": 180 },
+    "facing=south": { "model": "chinjufumod:block_futon_o_black", "y": 0 },
+    "facing=west":  { "model": "chinjufumod:block_futon_o_black", "y": 90 },
+    "facing=east":  { "model": "chinjufumod:block_futon_o_black", "y": 270 }
+  }
+}

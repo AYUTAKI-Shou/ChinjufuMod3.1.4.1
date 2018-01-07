@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "cra=1": { "model": "chinjufumod:block_plaster_brown" },
+    "cra=2": { "model": "chinjufumod:block_plaster_cr_brown" }
+  }
+}

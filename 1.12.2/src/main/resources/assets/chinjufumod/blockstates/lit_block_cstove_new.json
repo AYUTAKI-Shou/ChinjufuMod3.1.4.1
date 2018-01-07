@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "chinjufumod:lit_block_cstove_new" },
+        "facing=south": { "model": "chinjufumod:lit_block_cstove_new", "y": 180 },
+        "facing=west":  { "model": "chinjufumod:lit_block_cstove_new", "y": 270 },
+        "facing=east":  { "model": "chinjufumod:lit_block_cstove_new", "y": 90 }
+    }
+}

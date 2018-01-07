@@ -1,0 +1,8 @@
+{
+  "variants": {
+	"cra=1,half=bottom": { "model": "chinjufumod:block_namako_black" },
+	"cra=1,half=top": { "model": "chinjufumod:block_namako_black" },
+	"cra=2,half=bottom": { "model":  "chinjufumod:block_namako_cr_black" },
+	"cra=2,half=top": { "model":  "chinjufumod:block_namako_cr_black" }
+  }
+}

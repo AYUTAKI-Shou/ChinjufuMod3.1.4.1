@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "chinjufumod:block_wp_glass_lightb", "y": 180 },
+    "facing=south": { "model": "chinjufumod:block_wp_glass_lightb" },
+    "facing=west":  { "model": "chinjufumod:block_wp_glass_lightb", "y": 90 },
+    "facing=east":  { "model": "chinjufumod:block_wp_glass_lightb", "y": 270 }
+  }
+}

@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=top": { "model": "chinjufumod:block_brick_and_c" },
+		"half=bottom": { "model": "chinjufumod:block_brick_and_c" }
+    }
+}
