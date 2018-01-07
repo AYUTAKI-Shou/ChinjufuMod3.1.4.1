@@ -1,0 +1,10 @@
+{
+	"parent": "chinjufumod:block/base_taru",
+	"textures": {
+		"particle": "chinjufumod:blocks/bucket_side",
+		"front" : "chinjufumod:blocks/bucket_front",
+		"side": "chinjufumod:blocks/bucket_side",
+		"inside": "chinjufumod:blocks/bucket_inside",
+		"end" : "chinjufumod:blocks/bucket_end"
+	}
+}

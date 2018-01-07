@@ -1,0 +1,11 @@
+{
+	"parent": "chinjufumod:block/base_dressingtable",
+    "textures": {
+    	"particle":"chinjufumod:blocks/dtable_bott_j",
+        "top": "chinjufumod:blocks/dtable_top_j",
+        "bottom": "chinjufumod:blocks/dtable_bott_j",
+        "up": "chinjufumod:blocks/dtable_up_j",
+        "item": "chinjufumod:blocks/dtable_item",
+		"leg": "chinjufumod:blocks/leg_j"
+    }
+}

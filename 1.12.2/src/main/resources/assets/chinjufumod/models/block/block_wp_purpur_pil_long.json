@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base_wallpanel_l",
+	"textures": {
+		"particle": "blocks/purpur_pillar",
+		"front": "blocks/purpur_pillar",
+		"back": "blocks/purpur_pillar",
+		"side": "blocks/purpur_pillar"
+	}
+}

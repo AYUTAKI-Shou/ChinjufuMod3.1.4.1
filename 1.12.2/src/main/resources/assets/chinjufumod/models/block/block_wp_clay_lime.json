@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base_wallpanel",
+	"textures": {
+		"particle": "blocks/hardened_clay_stained_lime",
+		"front": "blocks/hardened_clay_stained_lime",
+		"back": "blocks/hardened_clay_stained_lime",
+		"side": "blocks/hardened_clay_stained_lime"
+	}
+}

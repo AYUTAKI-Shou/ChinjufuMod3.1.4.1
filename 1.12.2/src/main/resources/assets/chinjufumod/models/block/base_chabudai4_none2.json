@@ -1,0 +1,370 @@
+{
+    "parent": "block/block",
+    "elements": [
+        {
+            "name": "sara_soko",
+            "from": [ 6, 8, 6 ],
+            "to": [ 10, 8.2, 10 ],
+            "faces": {
+                "down" : { "texture": "#sara" },
+                "north": { "texture": "#sara" },
+                "south": { "texture": "#sara" },
+                "west" : { "texture": "#sara" },
+				"east" : { "texture": "#sara" }
+            }
+        },
+        {
+            "name": "sara",
+            "from": [ 3, 8.2, 3 ],
+            "to": [ 13, 8.4, 13 ],
+            "faces": {
+                "up" : { "texture": "#sara" },
+                "down" : { "texture": "#sara" },
+                "north": { "texture": "#sara" },
+                "south": { "texture": "#sara" },
+                "west" : { "texture": "#sara" },
+				"east" : { "texture": "#sara" }
+            }
+        },
+        {
+            "name": "sara_n",
+            "from": [ 3, 8.4, 3 ],
+            "to": [ 13, 9.5, 3.5 ],
+            "faces": {
+                "up" : { "texture": "#sara" },
+                "north": { "texture": "#sara" },
+                "south": { "texture": "#sara" },
+                "west" : { "texture": "#sara" },
+				"east" : { "texture": "#sara" }
+            }
+        },
+        {
+            "name": "sara_e",
+            "from": [ 12.5, 8.4, 3.5 ],
+            "to": [ 13, 9.5, 12.5 ],
+            "faces": {
+                "up" : { "texture": "#sara" },
+                "west" : { "texture": "#sara" },
+				"east" : { "texture": "#sara" }
+            }
+        },
+        {
+            "name": "sara_s",
+            "from": [ 3, 8.4, 12.5 ],
+            "to": [ 13, 9.5, 13 ],
+            "faces": {
+                "up" : { "texture": "#sara" },
+                "north": { "texture": "#sara" },
+                "south": { "texture": "#sara" },
+                "west" : { "texture": "#sara" },
+				"east" : { "texture": "#sara" }
+            }
+        },
+        {
+            "name": "sara_w",
+            "from": [ 3, 8.4, 3.5 ],
+            "to": [ 3.5, 9.5, 12.5 ],
+            "faces": {
+                "up" : { "texture": "#sara" },
+                "west" : { "texture": "#sara" },
+				"east" : { "texture": "#sara" }
+            }
+        },
+
+		{
+            "name": "kyusu_soko",
+            "from": [ 6, 8.4, 6 ],
+            "to": [ 8, 8.6, 8 ],
+            "faces": {
+                "north": { "texture": "#kyusu" },
+                "south": { "texture": "#kyusu" },
+                "west" : { "texture": "#kyusu" },
+				"east" : { "texture": "#kyusu" }
+            }
+        },
+        {
+            "name": "kyusu_h",
+            "from": [ 5.5, 8.6, 5.5 ],
+            "to": [ 8.5, 11.6, 8.5 ],
+            "faces": {
+                "up" : { "texture": "#kyusu" },
+                "down" : { "texture": "#kyusu" },
+                "north": { "texture": "#kyusu" },
+                "south": { "texture": "#kyusu" },
+                "west" : { "texture": "#kyusu" },
+				"east" : { "texture": "#kyusu" }
+            }
+        },
+        {
+            "name": "kyusu_n",
+            "from": [ 5, 9.1, 6 ],
+            "to": [ 5.5, 11.1, 8 ],
+            "faces": {
+                "up" : { "texture": "#kyusu" },
+                "down" : { "texture": "#kyusu" },
+                "north": { "texture": "#kyusu" },
+                "south": { "texture": "#kyusu" },
+                "west" : { "texture": "#kyusu" },
+				"east" : { "texture": "#kyusu" }
+            }
+        },
+        {
+            "name": "kyusu_w",
+            "from": [ 6, 9.1, 8.5 ],
+            "to": [ 8, 11.1, 9 ],
+            "faces": {
+                "up" : { "texture": "#kyusu" },
+                "down" : { "texture": "#kyusu" },
+                "north": { "texture": "#kyusu" },
+                "south": { "texture": "#kyusu" },
+                "west" : { "texture": "#kyusu" },
+				"east" : { "texture": "#kyusu" }
+            }
+        },
+        {
+            "name": "kyusu_s",
+            "from": [ 8.5, 9.1, 6 ],
+            "to": [ 9, 11.1, 8 ],
+            "faces": {
+                "up" : { "texture": "#kyusu" },
+                "down" : { "texture": "#kyusu" },
+                "north": { "texture": "#kyusu" },
+                "south": { "texture": "#kyusu" },
+                "west" : { "texture": "#kyusu" },
+				"east" : { "texture": "#kyusu" }
+            }
+        },
+        {
+            "name": "kyusu_e",
+            "from": [ 6, 9.1, 5 ],
+            "to": [ 8, 11.1, 5.5 ],
+            "faces": {
+                "up" : { "texture": "#kyusu" },
+                "down" : { "texture": "#kyusu" },
+                "north": { "texture": "#kyusu" },
+                "south": { "texture": "#kyusu" },
+                "west" : { "texture": "#kyusu" },
+				"east" : { "texture": "#kyusu" }
+            }
+        },
+        {
+            "name": "kyusu_huta",
+            "from": [ 6, 11.6, 6 ],
+            "to": [ 8, 11.9, 8 ],
+            "faces": {
+                "up" : { "texture": "#kyusu" },
+                "north": { "texture": "#kyusu" },
+                "south": { "texture": "#kyusu" },
+                "west" : { "texture": "#kyusu" },
+				"east" : { "texture": "#kyusu" }
+            }
+        },
+        {
+            "name": "kyusu_kuchi1",
+            "from": [ 6.25, 9.8, 9 ],
+            "to": [ 7.75, 11.1, 9.7 ],
+            "faces": {
+                "up" : { "texture": "#kyusu" },
+                "down" : { "texture": "#kyusu" },
+                "south": { "texture": "#kyusu" },
+                "west" : { "texture": "#kyusu" },
+				"east" : { "texture": "#kyusu" }
+            }
+        },
+        {
+            "name": "kyusu_kuchi2",
+            "from": [ 6.7, 10.5, 9.7 ],
+            "to": [ 7.3, 11.1, 11 ],
+            "faces": {
+                "up" : { "texture": "#kyusu" },
+                "down" : { "texture": "#kyusu" },
+                "south": { "texture": "#kyusu" },
+                "west" : { "texture": "#kyusu" },
+				"east" : { "texture": "#kyusu" }
+            }
+        },
+        {
+            "name": "kyusu_totte1",
+            "from": [ 6.85, 11.6, 5.75 ],
+            "to": [ 7.15, 13.6, 6 ],
+            "faces": {
+                "up" : { "texture": "#kyusu" },
+                "down" : { "texture": "#kyusu" },
+                "north": { "texture": "#kyusu" },
+                "south": { "texture": "#kyusu" },
+                "west" : { "texture": "#kyusu" },
+				"east" : { "texture": "#kyusu" }
+            }
+        },
+        {
+            "name": "kyusu_totte2",
+            "from": [ 6.85, 13.6, 6 ],
+            "to": [ 7.15, 13.85, 6.25 ],
+            "faces": {
+                "up" : { "texture": "#kyusu" },
+                "down" : { "texture": "#kyusu" },
+                "north": { "texture": "#kyusu" },
+                "south": { "texture": "#kyusu" },
+                "west" : { "texture": "#kyusu" },
+				"east" : { "texture": "#kyusu" }
+            }
+        },
+        {
+            "name": "kyusu_totte3",
+            "from": [ 6.85, 13.65, 6.25 ],
+            "to": [ 7.15, 14.1, 7.75 ],
+            "faces": {
+                "up" : { "texture": "#kyusu" },
+                "down" : { "texture": "#kyusu" },
+                "north": { "texture": "#kyusu" },
+                "south": { "texture": "#kyusu" },
+                "west" : { "texture": "#kyusu" },
+				"east" : { "texture": "#kyusu" }
+            }
+        },
+        {
+            "name": "kyusu_totte4",
+            "from": [ 6.85, 13.6, 7.75 ],
+            "to": [ 7.15, 13.85, 8 ],
+            "faces": {
+                "up" : { "texture": "#kyusu" },
+                "down" : { "texture": "#kyusu" },
+                "north": { "texture": "#kyusu" },
+                "south": { "texture": "#kyusu" },
+                "west" : { "texture": "#kyusu" },
+				"east" : { "texture": "#kyusu" }
+            }
+        },
+        {
+            "name": "kyusu_totte5",
+            "from": [ 6.85, 11.6, 8 ],
+            "to": [ 7.15, 13.6, 8.25 ],
+            "faces": {
+                "up" : { "texture": "#kyusu" },
+                "down" : { "texture": "#kyusu" },
+                "north": { "texture": "#kyusu" },
+                "south": { "texture": "#kyusu" },
+                "west" : { "texture": "#kyusu" },
+				"east" : { "texture": "#kyusu" }
+            }
+        },
+
+		{
+            "name": "shouyu_soko",
+            "from": [ 10, 8.4, 5 ],
+            "to": [ 11.5, 10.5, 6.5 ],
+            "faces": {
+                "up": { "texture": "#shouyu" },
+                "north": { "texture": "#shouyu" },
+                "south": { "texture": "#shouyu" },
+                "west" : { "texture": "#shouyu" },
+				"east" : { "texture": "#shouyu" }
+            }
+        },
+		{
+            "name": "shouyu_huta",
+            "from": [ 10.1, 10.5, 5.1 ],
+            "to": [ 11.4, 10.7, 6.4 ],
+            "faces": {
+                "up": { "texture": "#shouyu" },
+                "north": { "texture": "#shouyu_s" },
+                "south": { "texture": "#shouyu_s" },
+                "west" : { "texture": "#shouyu_s" },
+				"east" : { "texture": "#shouyu_s" }
+            }
+        },
+		{
+            "name": "shouyu_kuchi",
+            "from": [ 11.5, 10.25, 5.6 ],
+            "to": [ 12, 10.5, 5.9 ],
+            "faces": {
+                "up": { "texture": "#shouyu" },
+                "down" : { "texture": "#shouyu" },
+                "north": { "texture": "#shouyu" },
+                "south": { "texture": "#shouyu" },
+				"east" : { "texture": "#shouyu" }
+            }
+        },
+		{
+            "name": "shouyu2_soko",
+            "from": [ 10, 8.4, 7.5 ],
+            "to": [ 11.5, 10.5, 9 ],
+            "faces": {
+                "up": { "texture": "#shouyu" },
+                "north": { "texture": "#shouyu" },
+                "south": { "texture": "#shouyu" },
+                "west" : { "texture": "#shouyu" },
+				"east" : { "texture": "#shouyu" }
+            }
+        },
+		{
+            "name": "shouyu2_huta",
+            "from": [ 10.1, 10.5, 7.6 ],
+            "to": [ 11.4, 10.7, 8.9 ],
+            "faces": {
+                "up": { "texture": "#shouyu" },
+                "north": { "texture": "#shouyu_b" },
+                "south": { "texture": "#shouyu_b" },
+                "west" : { "texture": "#shouyu_b" },
+				"east" : { "texture": "#shouyu_b" }
+            }
+        },
+		{
+            "name": "shouyu2_kuchi",
+            "from": [ 11.5, 10.25, 8.1 ],
+            "to": [ 12, 10.5, 8.4 ],
+            "faces": {
+                "up": { "texture": "#shouyu" },
+                "down" : { "texture": "#shouyu" },
+                "north": { "texture": "#shouyu" },
+                "south": { "texture": "#shouyu" },
+				"east" : { "texture": "#shouyu" }
+            }
+        },
+		{
+            "name": "shio3_soko",
+            "from": [ 10, 8.4, 10 ],
+            "to": [ 11, 9.48, 11 ],
+            "faces": {
+                "up": { "texture": "#shouyu" },
+                "north": { "texture": "#shouyu" },
+                "south": { "texture": "#shouyu" },
+                "west" : { "texture": "#shouyu" },
+				"east" : { "texture": "#shouyu" }
+            }
+        },
+		{
+            "name": "shio3_n",
+            "from": [ 10.05, 9.48, 10.05 ],
+            "to": [ 10.95, 9.5, 10.95 ],
+            "faces": {
+                "north": { "texture": "#shouyu" },
+                "south": { "texture": "#shouyu" },
+                "west" : { "texture": "#shouyu" },
+				"east" : { "texture": "#shouyu" }
+            }
+        },
+		{
+            "name": "shio3_huta",
+            "from": [ 10, 9.5, 10 ],
+            "to": [ 11, 10, 11 ],
+            "faces": {
+                "up": { "texture": "#shouyu" },
+                "down" : { "texture": "#shouyu" },
+                "north": { "texture": "#shouyu" },
+                "south": { "texture": "#shouyu" },
+                "west" : { "texture": "#shouyu" },
+				"east" : { "texture": "#shouyu" }
+            }
+        },
+        {
+            "name": "tenban",
+            "from": [ 0, 7, 0 ],
+            "to": [ 16, 8, 16 ],
+            "faces": {
+                "up" : { "texture": "#ten" },
+                "down" : { "texture": "#ten" }
+            }
+        }
+    ]
+}

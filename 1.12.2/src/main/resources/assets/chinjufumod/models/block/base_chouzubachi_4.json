@@ -1,0 +1,70 @@
+{
+    "parent": "block/block",
+    "elements":[
+    	{
+			"name": "mizu",
+			"from": [ 5.0, 8.0, 5.0 ],
+			"to": [ 11.0, 9.0, 11.0 ],
+			"faces": {
+				"up" : { "texture": "#mizu" }
+            }
+		},
+		{
+			"name": "naka",
+			"from": [ 1.0, 0.0, 1.0 ],
+			"to": [ 15.0, 8.0, 15.0 ],
+			"faces": {
+				"up" : { "texture": "#ishi" },
+				"down" : { "texture": "#ishi" },
+				"north": { "uv": [ 1.0, 7.0, 15.0, 15.0 ], "texture": "#ishi" },
+				"south": { "uv": [ 1.0, 7.0, 15.0, 15.0 ], "texture": "#ishi" },
+				"east" : { "uv": [ 1.0, 7.0, 15.0, 15.0 ], "texture": "#ishi" },
+				"west" : { "uv": [ 1.0, 7.0, 15.0, 15.0 ], "texture": "#ishi" }
+            }
+		},
+		{
+			"name": "north",
+			"from": [ 1.0, 8.0, 1.0 ],
+			"to": [ 15.0, 12.0, 5.0 ],
+			"faces": {
+				"up" : { "texture": "#ishi" },
+				"north": { "uv": [ 1.0, 3.0, 15.0, 7.0 ], "texture": "#ishi" },
+				"south": { "uv": [ 1.0, 3.0, 15.0, 7.0 ], "texture": "#ishi" },
+				"east" : { "uv": [ 1.0, 3.0, 5.0, 7.0 ], "texture": "#ishi" },
+				"west" : { "uv": [ 1.0, 3.0, 5.0, 7.0 ], "texture": "#ishi" }
+            }
+		},
+		{
+			"name": "south",
+			"from": [ 1.0, 8.0, 11.0 ],
+			"to": [ 15.0, 12.0, 15.0 ],
+			"faces": {
+				"up" : { "texture": "#ishi" },
+				"north": { "uv": [ 1.0, 3.0, 15.0, 7.0 ], "texture": "#ishi" },
+				"south": { "uv": [ 1.0, 3.0, 15.0, 7.0 ], "texture": "#ishi" },
+				"east" : { "uv": [ 11.0, 3.0, 15.0, 7.0 ], "texture": "#ishi" },
+				"west" : { "uv": [ 11.0, 3.0, 15.0, 7.0 ], "texture": "#ishi" }
+            }
+		},
+		{
+			"name": "east",
+			"from": [ 1.0, 8.0, 5.0 ],
+			"to": [ 5.0, 12.0, 11.0 ],
+			"faces": {
+				"up" : { "texture": "#ishi" },
+				"east" : { "uv": [ 5.0, 3.0, 11.0, 7.0 ], "texture": "#ishi" },
+				"west" : { "uv": [ 5.0, 3.0, 11.0, 7.0 ], "texture": "#ishi" }
+            }
+		},
+		{
+			"name": "west",
+			"from": [ 11.0, 8.0, 5.0 ],
+			"to": [ 15.0, 12.0, 11.0 ],
+			"faces": {
+				"up" : { "texture": "#ishi" },
+				"east" : { "uv": [ 5.0, 3.0, 11.0, 7.0 ], "texture": "#ishi" },
+				"west" : { "uv": [ 5.0, 3.0, 11.0, 7.0 ], "texture": "#ishi" }
+            }
+		}
+    ]
+}

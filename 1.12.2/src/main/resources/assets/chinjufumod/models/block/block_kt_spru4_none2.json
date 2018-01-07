@@ -1,0 +1,20 @@
+{
+	"parent": "chinjufumod:block/base_kotatsu4_none2",
+    "textures": {
+		"particle": "blocks/planks_spruce",
+        "miso": "chinjufumod:blocks/miso",
+ 		"niku": "chinjufumod:blocks/food_tori_b",
+ 		"kinoko": "chinjufumod:blocks/food_shiitake_b",
+ 		"kinoko_w": "chinjufumod:blocks/food_shiitake_wb",
+ 		"hakusai": "chinjufumod:blocks/food_hakusai_b",
+ 		"hakusai_w": "chinjufumod:blocks/food_hakusai_wb",
+ 		"ninjin": "chinjufumod:blocks/food_carot_b",
+		"nabe": "chinjufumod:blocks/dish_usuki",
+		"nabeshiki": "chinjufumod:blocks/dish_brown",
+		"otama": "chinjufumod:blocks/leg_s",
+		"sara": "chinjufumod:blocks/dish_white",
+		"ten": "blocks/planks_spruce",
+		"futon": "chinjufumod:blocks/kotatsufuton_spru",
+        "leg": "chinjufumod:blocks/leg_s"
+    }
+}

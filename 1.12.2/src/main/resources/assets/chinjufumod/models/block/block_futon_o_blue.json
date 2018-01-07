@@ -1,0 +1,8 @@
+{
+    "parent": "chinjufumod:block/base_futon_open",
+    "textures": {
+ 		"particle": "chinjufumod:blocks/futon_blue",
+ 		"shiro": "chinjufumod:blocks/futon_white",
+ 		"omote": "chinjufumod:blocks/futon_blue"
+    }
+}

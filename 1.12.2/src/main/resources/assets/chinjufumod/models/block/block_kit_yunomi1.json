@@ -1,0 +1,154 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:blocks/kitchen_side",
+		"side": "chinjufumod:blocks/kitchen_side",
+		"bon": "chinjufumod:blocks/muku_spru",
+		"yunomi": "chinjufumod:blocks/dish_green",
+		"kyusu": "chinjufumod:blocks/dish_brown"
+	},
+    "elements": [
+
+		{
+			"name": "yunomi_soko__________________________111111111111111",
+			"from": [ 3.2, 1, 5.2 ],
+			"to": [ 4.8, 1.2, 6.8 ],
+			"faces": {
+				"up" : { "texture": "#yunomi" },
+				"down" : { "texture": "#yunomi" },
+				"north": { "texture": "#yunomi" },
+				"south": { "texture": "#yunomi" },
+				"west" : { "texture": "#yunomi" },
+				"east" : { "texture": "#yunomi" }
+			}
+		},
+		{
+			"name": "yunomi_n",
+			"from": [ 3, 1.2, 5 ],
+			"to": [ 5, 3.5, 5.2 ],
+			"faces": {
+				"up" : { "texture": "#yunomi" },
+				"down" : { "texture": "#yunomi" },
+				"north": { "texture": "#yunomi" },
+				"south": { "texture": "#yunomi" },
+				"west" : { "texture": "#yunomi" },
+				"east" : { "texture": "#yunomi" }
+			}
+		},
+		{
+			"name": "yunomi_s",
+			"from": [ 3, 1.2, 6.8 ],
+			"to": [ 5, 3.5, 7 ],
+			"faces": {
+				"up" : { "texture": "#yunomi" },
+				"down" : { "texture": "#yunomi" },
+				"north": { "texture": "#yunomi" },
+				"south": { "texture": "#yunomi" },
+				"west" : { "texture": "#yunomi" },
+				"east" : { "texture": "#yunomi" }
+			}
+		},
+		{
+			"name": "yunomi_e",
+			"from": [ 4.8, 1.2, 5.2 ],
+			"to": [ 5, 3.5, 6.8 ],
+			"faces": {
+				"up" : { "texture": "#yunomi" },
+				"down" : { "texture": "#yunomi" },
+				"west" : { "texture": "#yunomi" },
+				"east" : { "texture": "#yunomi" }
+			}
+		},
+		{
+			"name": "yunomi_w",
+			"from": [ 3, 1.2, 5.2 ],
+			"to": [ 3.2, 3.5, 6.8 ],
+			"faces": {
+				"up" : { "texture": "#yunomi" },
+				"down" : { "texture": "#yunomi" },
+				"west" : { "texture": "#yunomi" },
+				"east" : { "texture": "#yunomi" }
+			}
+		},
+
+		{
+			"name": "top___________________________________________tana",
+			"from": [ 0, 15.0, 0 ],
+			"to": [ 16, 16.0, 10 ],
+			"faces": {
+				"up" : { "texture": "#side" },
+				"down" : { "texture": "#side" },
+				"north": { "texture": "#side" },
+				"south": { "texture": "#side" },
+	 			"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "tana_naka",
+			"from": [ 1, 8.5, 1 ],
+			"to": [ 15, 9, 10 ],
+			"faces": {
+				"up" : { "texture": "#side" },
+				"down" : { "texture": "#side" },
+				"south": { "texture": "#side" }
+			}
+		},
+		{
+			"name": "tana_naka",
+			"from": [ 1, 4.5, 1 ],
+			"to": [ 15, 5, 10 ],
+			"faces": {
+				"up" : { "texture": "#side" },
+				"down" : { "texture": "#side" },
+				"south": { "texture": "#side" }
+			}
+		},
+		{
+			"name": "tana_shita",
+			"from": [ 0, 0, 0 ],
+			"to": [ 16, 1, 10 ],
+			"faces": {
+				"up" : { "texture": "#side" },
+				"down" : { "texture": "#side" },
+				"north": { "texture": "#side" },
+				"south": { "texture": "#side" },
+	 			"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "kita",
+			"from": [ 0, 1.0, 0 ],
+			"to": [ 16, 15.0, 1 ],
+			"faces": {
+				"north": { "texture": "#side" },
+				"south": { "texture": "#side" },
+	 			"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "nishi",
+			"from": [ 15, 1.0, 1 ],
+			"to": [ 16, 15.0, 10 ],
+			"faces": {
+				"north": { "texture": "#side" },
+				"south": { "texture": "#side" },
+	 			"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "higashi",
+			"from": [ 0, 1.0, 1 ],
+			"to": [ 1, 15.0, 10 ],
+			"faces": {
+				"north": { "texture": "#side" },
+				"south": { "texture": "#side" },
+	 			"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		}
+	]
+}

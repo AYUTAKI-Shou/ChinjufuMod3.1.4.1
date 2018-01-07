@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base_botjuku_1",
+	"textures": {
+		"particle": "chinjufumod:blocks/bottle_ciderjuku_1",
+		"side": "chinjufumod:blocks/bottle_ciderjuku_1",
+		"top": "chinjufumod:blocks/bottle_cider_top",
+		"label": "chinjufumod:blocks/bottle_label_cider"
+	}
+}

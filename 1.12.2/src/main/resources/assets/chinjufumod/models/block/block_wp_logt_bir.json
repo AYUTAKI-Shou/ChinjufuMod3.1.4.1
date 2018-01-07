@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base_wallpanel",
+	"textures": {
+		"particle": "blocks/log_birch_top",
+		"front": "blocks/log_birch_top",
+		"back": "blocks/log_birch_top",
+		"side": "blocks/log_birch"
+	}
+}

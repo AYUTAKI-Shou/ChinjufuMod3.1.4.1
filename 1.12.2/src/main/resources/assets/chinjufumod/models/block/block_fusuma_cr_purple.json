@@ -1,0 +1,12 @@
+{
+    "parent": "chinjufumod:block/base_fusumaclosed_r",
+    "textures": {
+ 		"particle": "chinjufumod:blocks/fusuma_purple_tn",
+ 		"ji_tn": "chinjufumod:blocks/fusuma_purple_tn",
+ 		"ji_ts": "chinjufumod:blocks/fusuma_purple_ts",
+ 		"ji_bn": "chinjufumod:blocks/fusuma_purple_bn",
+ 		"ji_bs": "chinjufumod:blocks/fusuma_purple_bs",
+        "waku": "chinjufumod:blocks/fusuma_waku",
+      	"rail": "chinjufumod:blocks/fusuma_rail"
+    }
+}

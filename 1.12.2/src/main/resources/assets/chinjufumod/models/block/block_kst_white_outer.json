@@ -1,0 +1,8 @@
+{
+    "parent": "block/outer_stairs",
+    "textures": {
+        "bottom": "chinjufumod:blocks/kawara_white",
+        "top": "chinjufumod:blocks/kawara_white",
+        "side": "chinjufumod:blocks/kawara_white"
+    }
+}

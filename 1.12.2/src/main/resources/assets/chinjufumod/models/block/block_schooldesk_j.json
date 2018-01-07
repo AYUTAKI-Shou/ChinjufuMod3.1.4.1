@@ -1,0 +1,9 @@
+{
+    "parent": "chinjufumod:block/base_schooldesk",
+    "textures": {
+        "particle": "blocks/planks_jungle",
+		"leg": "chinjufumod:blocks/leg_j",
+        "side": "blocks/planks_jungle",
+        "top": "blocks/planks_jungle"
+        }
+}

@@ -1,0 +1,10 @@
+{
+	"parent": "chinjufumod:block/base_kotatsu4_cor_ne",
+    "textures": {
+		"particle": "blocks/planks_acacia",
+		"kyusu": "chinjufumod:blocks/dish_brown",
+		"ten": "blocks/planks_acacia",
+		"futon": "chinjufumod:blocks/kotatsufuton_aca",
+        "leg": "chinjufumod:blocks/leg_a"
+    }
+}

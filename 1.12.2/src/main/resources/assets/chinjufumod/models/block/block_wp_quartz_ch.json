@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base_wallpanel",
+	"textures": {
+		"particle": "blocks/quartz_block_chiseled",
+		"front": "blocks/quartz_block_chiseled",
+		"back": "blocks/quartz_block_chiseled",
+		"side": "blocks/quartz_block_chiseled"
+	}
+}

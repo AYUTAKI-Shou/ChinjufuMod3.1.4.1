@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base_lowtree",
+	"textures": {
+		"particle": "blocks/log_acacia",
+		"leaves": "chinjufumod:blocks/leaves_cjf_acacia",
+		"log_top": "blocks/log_acacia_top",
+		"log": "blocks/log_acacia"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "chinjufumod:blocks/steel_side",
+        "down": "chinjufumod:blocks/steel_bottom",
+        "up": "chinjufumod:blocks/steel_top",
+        "north": "chinjufumod:blocks/steel_front",
+        "east": "chinjufumod:blocks/steel_side",
+        "south": "chinjufumod:blocks/steel_front",
+        "west": "chinjufumod:blocks/steel_side"
+     }
+}

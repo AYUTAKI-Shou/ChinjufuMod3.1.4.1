@@ -1,0 +1,14 @@
+{
+	"parent": "chinjufumod:block/base_mkasa_open",
+	"textures": {
+        "particle": "chinjufumod:blocks/mkasa_green",
+        "cap": "chinjufumod:blocks/mkasa_cap",
+        "kasa": "chinjufumod:blocks/mkasa_green",
+        "kasa_l": "chinjufumod:blocks/mkasa_green_long",
+        "white": "chinjufumod:blocks/mkasa_white",
+        "white_l": "chinjufumod:blocks/mkasa_white_long",
+        "hone": "chinjufumod:blocks/mhone",
+        "hone_l": "chinjufumod:blocks/mhone_long",
+		"leg": "chinjufumod:blocks/leg_d"
+    }
+}

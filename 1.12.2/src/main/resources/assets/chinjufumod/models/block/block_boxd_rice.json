@@ -1,0 +1,9 @@
+﻿{
+	"parent": "chinjufumod:block/base_box_sack_dou",
+	"textures": {
+		"particle": "chinjufumod:blocks/sack_rice_top",
+		"bottom": "chinjufumod:blocks/sack_rice_bottom",
+		"side": "chinjufumod:blocks/sack_rice_side",
+		"top": "chinjufumod:blocks/sack_rice_top"
+	}
+}

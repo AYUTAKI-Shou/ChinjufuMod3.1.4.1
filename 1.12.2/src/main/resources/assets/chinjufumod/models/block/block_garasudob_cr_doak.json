@@ -1,0 +1,11 @@
+{
+    "parent": "chinjufumod:block/base_garasudob_closed_r",
+    "textures": {
+ 		"particle": "chinjufumod:blocks/leg_d",
+ 		"ji": "blocks/glass",
+ 		"ita": "blocks/planks_big_oak",
+        "waku": "chinjufumod:blocks/leg_d",
+      	"totte": "chinjufumod:blocks/leg_s",
+      	"rail": "chinjufumod:blocks/leg_s"
+    }
+}

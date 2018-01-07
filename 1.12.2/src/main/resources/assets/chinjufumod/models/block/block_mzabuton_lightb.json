@@ -1,0 +1,8 @@
+{
+	"parent": "chinjufumod:block/base_zabuton",
+    "textures": {
+        "particle": "chinjufumod:blocks/mz_lightb",
+        "top": "chinjufumod:blocks/mz_lightb",
+        "side": "chinjufumod:blocks/mz_side_lightb"
+    }
+}

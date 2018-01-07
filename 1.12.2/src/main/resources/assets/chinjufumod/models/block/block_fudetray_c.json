@@ -1,0 +1,37 @@
+{
+    "parent": "block/block",
+    "textures": {
+        "particle": "chinjufumod:blocks/tray_side",
+        "top": "chinjufumod:blocks/trayfude_top",
+        "bottom": "chinjufumod:blocks/tray_bottom",
+        "item": "chinjufumod:blocks/letterfude_item",
+        "side": "chinjufumod:blocks/tray_side"
+    },
+    "elements": [
+        {
+			"name": "tray",
+			"from": [ 0, 0, 0 ],
+            "to": [ 16, 0.5, 16 ],
+            "faces": {
+                "down":  { "texture": "#bottom", "cullface": "down" },
+                "up":    { "texture": "#top" },
+                "north": { "texture": "#side" },
+                "south": { "texture": "#side" },
+                "west":  { "texture": "#side" },
+                "east":  { "texture": "#side" }
+            }
+        },
+        {
+			"name": "suzuri",
+			"from": [ 11, 0.5, 2 ],
+            "to": [ 14, 1.0, 6 ],
+            "faces": {
+                "up":    { "uv": [ 5.0, 8.0, 8.0, 12.0 ], "texture": "#item" },
+                "north": { "uv": [ 0.0, 8.0, 3.0, 9.0 ], "texture": "#item" },
+                "south": { "uv": [ 0.0, 8.0, 3.0, 9.0 ], "texture": "#item" },
+                "west":  { "uv": [ 0.0, 8.0, 3.0, 9.0 ], "texture": "#item" },
+                "east":  { "uv": [ 0.0, 8.0, 3.0, 9.0 ], "texture": "#item" }
+            }
+        }
+    ]
+}

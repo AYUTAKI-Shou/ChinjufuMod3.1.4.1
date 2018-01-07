@@ -1,0 +1,8 @@
+{
+    "parent": "block/half_slab",
+    "textures": {
+        "bottom": "chinjufumod:blocks/plaster_cyan",
+        "top": "chinjufumod:blocks/plaster_cyan",
+        "side": "chinjufumod:blocks/plaster_cyan"
+    }
+}

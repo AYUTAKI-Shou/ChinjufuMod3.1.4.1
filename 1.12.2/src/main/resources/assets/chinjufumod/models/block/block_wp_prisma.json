@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base_wallpanel",
+	"textures": {
+		"particle": "blocks/prismarine_rough",
+		"front": "blocks/prismarine_rough",
+		"back": "blocks/prismarine_rough",
+		"side": "blocks/prismarine_rough"
+	}
+}

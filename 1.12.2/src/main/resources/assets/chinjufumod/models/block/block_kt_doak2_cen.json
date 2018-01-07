@@ -1,0 +1,13 @@
+{
+	"parent": "chinjufumod:block/base_kotatsu2_cen",
+    "textures": {
+		"particle": "blocks/planks_big_oak",
+		"tea": "chinjufumod:blocks/tea_green",
+		"yunomi": "chinjufumod:blocks/dish_green",
+		"senbei": "chinjufumod:blocks/senbei",
+		"sara": "chinjufumod:blocks/leg_s",
+		"ten": "blocks/planks_big_oak",
+		"futon": "chinjufumod:blocks/kotatsufuton_doak",
+        "leg": "chinjufumod:blocks/leg_d"
+    }
+}

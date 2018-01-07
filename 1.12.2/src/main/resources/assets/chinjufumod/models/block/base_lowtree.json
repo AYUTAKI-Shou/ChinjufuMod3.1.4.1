@@ -1,0 +1,144 @@
+{
+	"parent": "block/block",
+	"elements": [
+		{
+			"name": "leaves",
+			"from": [ 0, 3.5, 0 ],
+			"to": [ 16, 16, 16 ],
+			"faces": {
+				"up" : { "texture": "#leaves" },
+				"down" : { "texture": "#leaves" },
+				"north": { "texture": "#leaves" },
+				"south": { "texture": "#leaves" },
+				"east" : { "texture": "#leaves" },
+				"west" : { "texture": "#leaves" }
+			}
+		},
+		{
+			"name": "miki_ue",
+			"from": [ 8, 9, 7 ],
+			"to": [ 9, 14, 8 ],
+			"faces": {
+				"up": { "uv": [ 8.0, 7.0, 9.0, 8.0 ], "texture": "#log" },
+				"north": { "uv": [ 10.0, 4.0, 11.0, 9.0 ], "texture": "#log" },
+				"south": { "uv": [ 10.0, 4.0, 11.0, 9.0 ], "texture": "#log" },
+				"east" : { "uv": [ 15.0, 4.0, 16.0, 9.0 ], "texture": "#log" },
+				"west" : { "uv": [ 15.0, 4.0, 16.0, 9.0 ], "texture": "#log" }
+			}
+		},
+
+		{
+			"name": "miki_eda1_kita_tate________________________",
+			"from": [ 8, 6, 2 ],
+			"to": [ 9, 10, 3 ],
+			"faces": {
+				"up" : { "texture": "#log" },
+				"down" : { "texture": "#log" },
+				"north": { "texture": "#log" },
+				"south": { "texture": "#log" },
+				"east" : { "texture": "#log" },
+				"west" : { "texture": "#log" }
+			}
+		},
+		{
+			"name": "miki_eda1_kita_yoko",
+			"from": [ 8, 6, 3 ],
+			"to": [ 9, 7, 7 ],
+			"faces": {
+				"up" : { "texture": "#log" },
+				"down" : { "texture": "#log" },
+				"east" : { "texture": "#log" },
+				"west" : { "texture": "#log" }
+			}
+		},
+
+		{
+			"name": "miki_eda2_east_tate________________________",
+			"from": [ 13, 7, 8 ],
+			"to": [ 14, 11, 9 ],
+			"faces": {
+				"up" : { "texture": "#log" },
+				"down" : { "texture": "#log" },
+				"north": { "texture": "#log" },
+				"south": { "texture": "#log" },
+				"east" : { "texture": "#log" },
+				"west" : { "texture": "#log" }
+			}
+		},
+		{
+			"name": "miki_eda2_east_yoko",
+			"from": [ 9, 7, 8 ],
+			"to": [ 13, 8, 9 ],
+			"faces": {
+				"up" : { "texture": "#log" },
+				"down" : { "texture": "#log" },
+				"north": { "texture": "#log" },
+				"south": { "texture": "#log" }
+			}
+		},
+
+		{
+			"name": "miki_eda3_sou_tate________________________",
+			"from": [ 7, 8, 12 ],
+			"to": [ 8, 12, 13 ],
+			"faces": {
+				"up" : { "texture": "#log" },
+				"down" : { "texture": "#log" },
+				"north": { "texture": "#log" },
+				"south": { "texture": "#log" },
+				"east" : { "texture": "#log" },
+				"west" : { "texture": "#log" }
+			}
+		},
+		{
+			"name": "miki_eda3_sou_yoko",
+			"from": [ 7, 8, 9 ],
+			"to": [ 8, 9, 12 ],
+			"faces": {
+				"up" : { "texture": "#log" },
+				"down" : { "texture": "#log" },
+				"east" : { "texture": "#log" },
+				"west" : { "texture": "#log" }
+			}
+		},
+
+		{
+			"name": "miki_eda4_west_tate________________________",
+			"from": [ 2, 5, 7 ],
+			"to": [ 3, 9, 8 ],
+			"faces": {
+				"up" : { "texture": "#log" },
+				"down" : { "texture": "#log" },
+				"north": { "texture": "#log" },
+				"south": { "texture": "#log" },
+				"east" : { "texture": "#log" },
+				"west" : { "texture": "#log" }
+			}
+		},
+		{
+			"name": "miki_eda4_west_yoko",
+			"from": [ 3, 5, 7 ],
+			"to": [ 7, 6, 8 ],
+			"faces": {
+				"up" : { "texture": "#log" },
+				"down" : { "texture": "#log" },
+				"north": { "texture": "#log" },
+				"south": { "texture": "#log" }
+			}
+		},
+
+		{
+			"name": "miki",
+			"from": [ 7, 0, 7 ],
+			"to": [ 9, 9, 9 ],
+			"faces": {
+				"up": { "uv": [ 7.0, 7.0, 9.0, 9.0 ], "texture": "#log" },
+				"down" : { "uv": [  7.0, 7.0,  9.0, 9.0 ], "texture": "#log_top" },
+				"north": { "uv": [  0.0, 7.0,  2.0, 16.0 ], "texture": "#log" },
+				"south": { "uv": [  4.0, 7.0,  6.0, 16.0 ], "texture": "#log" },
+				"east" : { "uv": [  1.0, 7.0,  3.0, 16.0 ], "texture": "#log" },
+				"west" : { "uv": [ 12.0, 7.0, 14.0, 16.0 ], "texture": "#log" }
+			}
+		}
+	]
+}

@@ -1,0 +1,35 @@
+{
+    "parent": "block/block",
+    "textures": {
+		"particle": "chinjufumod:blocks/food_bread",
+		"bread": "chinjufumod:blocks/food_rsbread"
+    },
+    "elements": [
+		{
+			"name": "bread",
+			"from": [ 6.2, 0.0, 6.7 ],
+			"to": [ 7.8, 1.2, 9.3 ],
+			"faces": {
+				"up" : { "texture": "#bread" },
+				"down" : { "texture": "#bread" },
+				"north": { "texture": "#bread" },
+				"south": { "texture": "#bread" },
+				"west" : { "texture": "#bread" },
+				"east" : { "texture": "#bread" }
+			}
+		},
+		{
+			"name": "bread",
+			"from": [ 8.2, 0.0, 6.7 ],
+			"to": [ 9.8, 1.2, 9.3 ],
+			"faces": {
+				"up" : { "texture": "#bread" },
+				"down" : { "texture": "#bread" },
+				"north": { "texture": "#bread" },
+				"south": { "texture": "#bread" },
+				"west" : { "texture": "#bread" },
+				"east" : { "texture": "#bread" }
+			}
+		}
+	]
+}

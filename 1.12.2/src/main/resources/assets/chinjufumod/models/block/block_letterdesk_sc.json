@@ -1,0 +1,11 @@
+{
+	"parent": "chinjufumod:block/base_letterdesk",
+    "textures": {
+    	"particle":"blocks/planks_spruce",
+        "top": "chinjufumod:blocks/trayletter_top",
+        "sidet": "chinjufumod:blocks/tray_side",
+        "side": "blocks/planks_spruce",
+        "item": "chinjufumod:blocks/letterfude_item",
+		"leg": "chinjufumod:blocks/leg_s"
+    }
+}

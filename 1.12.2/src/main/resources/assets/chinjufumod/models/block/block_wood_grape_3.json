@@ -1,0 +1,175 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:blocks/log_grape",
+		"leaves": "chinjufumod:blocks/leaves_grape",
+		"log_top": "chinjufumod:blocks/log_grape_top",
+		"log": "chinjufumod:blocks/log_grape",
+		"stem": "chinjufumod:blocks/muku_spru",
+		"seeds": "chinjufumod:blocks/grape_seed3"
+	},
+	"elements": [
+
+		{
+			"name": "leaves",
+			"from": [ 0.01, 16, 3 ],
+			"to": [ 15.99, 24, 13 ],
+			"faces": {
+				"up" : { "texture": "#leaves" },
+				"north": { "uv": [ 0.0, 0.0, 16.0, 8.0 ], "texture": "#leaves" },
+				"south": { "uv": [ 0.0, 0.0, 16.0, 8.0 ], "texture": "#leaves" },
+				"east" : { "uv": [ 3.0, 0.0, 13.0, 8.0 ], "texture": "#leaves" },
+				"west" : { "uv": [ 3.0, 0.0, 13.0, 8.0 ], "texture": "#leaves" }
+			}
+		},
+		{
+			"name": "leaves",
+			"from": [ 0.01, 9, 3 ],
+			"to": [ 15.99, 16, 13 ],
+			"faces": {
+				"down" : { "texture": "#leaves" },
+				"north": { "uv": [ 0.0, 8.0, 16.0, 15.0 ], "texture": "#leaves" },
+				"south": { "uv": [ 0.0, 8.0, 16.0, 15.0 ], "texture": "#leaves" },
+				"east" : { "uv": [ 3.0, 8.0, 13.0, 15.0 ], "texture": "#leaves" },
+				"west" : { "uv": [ 3.0, 8.0, 13.0, 15.0 ], "texture": "#leaves" }
+			}
+		},
+
+		{
+			"name": "stem_ue",
+			"from": [ 8, 16, 6 ],
+			"to": [ 9.1, 23, 6.99 ],
+			"faces": {
+				"up" : { "texture": "#stem" },
+				"north": { "uv": [ 8.0, 10.0, 9.0, 16.0 ], "texture": "#stem" },
+				"south": { "uv": [ 8.0, 10.0, 9.0, 16.0 ], "texture": "#stem" },
+				"east" : { "uv": [ 6.0, 10.0, 7.0, 16.0 ], "texture": "#stem" },
+				"west" : { "uv": [ 6.0, 10.0, 7.0, 16.0 ], "texture": "#stem" }
+			}
+		},
+		{
+			"name": "stem_shita",
+			"from": [ 8, 0, 6 ],
+			"to": [ 9.1, 16, 6.99 ],
+			"faces": {
+				"north": { "texture": "#stem" },
+				"south": { "texture": "#stem" },
+				"east" : { "texture": "#stem" },
+				"west" : { "texture": "#stem" }
+			}
+		},
+		{
+			"name": "stem_yoko1",
+			"from": [ 0, 20, 6.95 ],
+			"to": [ 16, 21, 7.95 ],
+			"faces": {
+				"up" : { "uv": [ 0.0, 7.0, 16.0, 8.0 ], "texture": "#stem" },
+				"down" : { "uv": [ 0.0, 7.0, 16.0, 8.0 ], "texture": "#stem" },
+				"north": { "uv": [ 0.0, 10.0, 16.0, 11.0 ], "texture": "#stem" },
+				"south": { "uv": [ 0.0, 10.0, 16.0, 11.0 ], "texture": "#stem" },
+				"east" : { "uv": [ 7.0, 10.0,  8.0, 11.0 ], "texture": "#stem" },
+				"west" : { "uv": [ 7.0, 10.0,  8.0, 11.0 ], "texture": "#stem" }
+			}
+		},
+		{
+			"name": "stem_yoko2",
+			"from": [ 0, 13.9, 6.95 ],
+			"to": [ 16, 14.9, 7.99 ],
+			"faces": {
+				"up" : { "texture": "#stem" },
+				"down" : { "texture": "#stem" },
+				"north": { "texture": "#stem" },
+				"south": { "texture": "#stem" },
+				"east" : { "texture": "#stem" },
+				"west" : { "texture": "#stem" }
+			}
+		},
+
+		{
+			"name": "miki_eda2_east_tate________________________",
+			"from": [ 13, 16, 8 ],
+			"to": [ 14, 21, 9 ],
+			"faces": {
+				"up" : { "texture": "#log" },
+				"north": { "uv": [ 13.0, 11.0, 14.0, 16.0 ], "texture": "#log" },
+				"south": { "uv": [ 13.0, 11.0, 14.0, 16.0 ], "texture": "#log" },
+				"east" : { "uv": [  8.0, 11.0,  9.0, 16.0 ], "texture": "#log" },
+				"west" : { "uv": [  8.0, 11.0,  9.0, 16.0 ], "texture": "#log" }
+			}
+		},
+		{
+			"name": "miki_eda2_east_tate________________________",
+			"from": [ 13, 13, 8 ],
+			"to": [ 14, 16, 9 ],
+			"faces": {
+				"down" : { "texture": "#log" },
+				"north": { "texture": "#log" },
+				"south": { "texture": "#log" },
+				"east" : { "texture": "#log" },
+				"west" : { "texture": "#log" }
+			}
+		},
+		{
+			"name": "miki_eda2_east_yoko",
+			"from": [ 9, 13, 8 ],
+			"to": [ 13, 14, 9 ],
+			"faces": {
+				"up" : { "texture": "#log" },
+				"down" : { "texture": "#log" },
+				"north": { "texture": "#log" },
+				"south": { "texture": "#log" }
+			}
+		},
+
+		{
+			"name": "miki_eda4_west_tate________________________",
+			"from": [ 2, 16, 7 ],
+			"to": [ 3, 22, 8 ],
+			"faces": {
+				"up" : { "texture": "#log" },
+				"north": { "uv": [ 2.0, 10.0, 3.0, 16.0 ], "texture": "#log" },
+				"south": { "uv": [ 2.0, 10.0, 3.0, 16.0 ], "texture": "#log" },
+				"east" : { "uv": [ 7.0, 10.0, 8.0, 16.0 ], "texture": "#log" },
+				"west" : { "uv": [ 7.0, 10.0, 8.0, 16.0 ], "texture": "#log" }
+			}
+		},
+		{
+			"name": "miki_eda4_west_tate________________________",
+			"from": [ 2, 14, 7 ],
+			"to": [ 3, 16, 8 ],
+			"faces": {
+				"up" : { "texture": "#log" },
+				"down" : { "texture": "#log" },
+				"north": { "texture": "#log" },
+				"south": { "texture": "#log" },
+				"east" : { "texture": "#log" },
+				"west" : { "texture": "#log" }
+			}
+		},
+		{
+			"name": "miki_eda4_west_yoko",
+			"from": [ 3, 14, 7 ],
+			"to": [ 7, 15, 8 ],
+			"faces": {
+				"up" : { "texture": "#log" },
+				"down" : { "texture": "#log" },
+				"north": { "texture": "#log" },
+				"south": { "texture": "#log" }
+			}
+		},
+
+		{
+			"name": "miki",
+			"from": [ 7, 0, 7 ],
+			"to": [ 9, 16, 9 ],
+			"faces": {
+				"up" : { "texture": "#log" },
+				"down" : { "texture": "#log_top" },
+				"north": { "texture": "#log" },
+				"south": { "texture": "#log" },
+				"east" : { "texture": "#log" },
+				"west" : { "texture": "#log" }
+			}
+		}
+	]
+}

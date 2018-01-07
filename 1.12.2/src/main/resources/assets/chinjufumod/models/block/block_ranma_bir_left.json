@@ -1,0 +1,8 @@
+{
+    "parent": "chinjufumod:block/base_ranma_left",
+    "textures": {
+ 		"particle": "chinjufumod:blocks/muku_bir",
+ 		"ranma": "chinjufumod:blocks/muku_bir",
+        "waku": "chinjufumod:blocks/leg_b"
+    }
+}

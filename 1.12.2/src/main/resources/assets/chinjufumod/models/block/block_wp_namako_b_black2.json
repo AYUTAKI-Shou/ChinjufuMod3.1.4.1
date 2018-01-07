@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base_wallpanel",
+	"textures": {
+		"particle": "chinjufumod:blocks/namakowall_bcr_black",
+		"front": "chinjufumod:blocks/namakowall_bcr_black",
+		"back": "chinjufumod:blocks/namakowall_bcr_black",
+		"side": "chinjufumod:blocks/namakowall_bcr_black"
+	}
+}

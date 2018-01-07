@@ -1,0 +1,16 @@
+{
+	"parent": "chinjufumod:block/base_kotatsu4_none_e",
+    "textures": {
+		"particle": "blocks/planks_oak",
+		"tea": "chinjufumod:blocks/tea_green",
+		"yunomi": "chinjufumod:blocks/dish_green",
+		"hashi": "chinjufumod:blocks/dish_red",
+		"hashioki": "chinjufumod:blocks/hashioki",
+		"owan": "chinjufumod:blocks/dish_lightb",
+		"owan2": "chinjufumod:blocks/dish_white",
+		"owannaka": "chinjufumod:blocks/miso",
+		"ten": "blocks/planks_oak",
+		"futon": "chinjufumod:blocks/kotatsufuton_oak",
+        "leg": "chinjufumod:blocks/leg_o"
+    }
+}

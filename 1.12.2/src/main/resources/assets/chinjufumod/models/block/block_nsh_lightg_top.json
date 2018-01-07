@@ -1,0 +1,8 @@
+{
+    "parent": "chinjufumod:block/base_namako_half_top",
+    "textures": {
+        "bottom": "chinjufumod:blocks/namakowall_lightg",
+        "top": "chinjufumod:blocks/namakowall_lightg",
+        "side": "chinjufumod:blocks/namakowall_lightg"
+    }
+}

@@ -1,0 +1,9 @@
+﻿{
+	"parent": "chinjufumod:block/base_boxah_top",
+	"textures": {
+		"particle": "chinjufumod:blocks/box_a_bottom",
+		"bottom": "chinjufumod:blocks/box_a_bottom",
+		"side": "chinjufumod:blocks/box_a_side",
+		"inside": "chinjufumod:blocks/box_potato"
+	}
+}

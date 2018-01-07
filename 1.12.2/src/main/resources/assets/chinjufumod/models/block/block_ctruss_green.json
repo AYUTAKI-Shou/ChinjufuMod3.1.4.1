@@ -1,0 +1,9 @@
+{
+    "parent": "chinjufumod:block/base_ctruss",
+    "textures": {
+        "particle": "chinjufumod:blocks/iron_long_green",
+        "side": "chinjufumod:blocks/iron_side_green",
+        "long": "chinjufumod:blocks/iron_long_green",
+        "sujikai": "chinjufumod:blocks/iron_suji_green"
+    }
+}

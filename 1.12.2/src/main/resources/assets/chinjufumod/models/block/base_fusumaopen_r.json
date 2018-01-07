@@ -1,0 +1,133 @@
+{
+    "parent": "block/block",
+    "elements":[
+		{
+			"name": "ji",
+			"from": [ 14.5, 0.5, 6.5 ],
+			"to": [ 16, 16, 8 ],
+			"faces": {
+				"south": { "uv": [ 0.5, 0.0, 2, 15.5 ], "texture": "#ji_bs" },
+				"north": { "uv": [ 14.0, 0.0, 15.5, 15.5 ], "texture": "#ji_bn" }
+            }
+		},
+		{
+			"name": "left",
+			"from": [ 14, 0, 6.5 ],
+			"to": [ 14.5, 16, 8 ],
+			"faces": {
+				"down" : { "uv": [ 0.0, 0.0, 0.5, 2.0 ], "texture": "#waku" },
+				"north": { "uv": [ 0.0, 0.0, 0.5, 16.0 ], "texture": "#waku" },
+				"south": { "uv": [ 0.0, 0.0, 0.5, 16.0 ], "texture": "#waku" },
+				"west" : { "uv": [ 0.0, 0.0, 2.0, 16.0 ], "texture": "#waku" }
+            }
+		},
+		{
+			"name": "under",
+			"from": [ 14.5, 0, 6.5 ],
+			"to": [ 16, 0.5, 8 ],
+			"faces": {
+				"down" : { "uv": [ 0.5, 0.0, 15.5, 2.0 ], "texture": "#waku" },
+				"north": { "uv": [ 14.0, 0.0, 15.5, 0.5 ], "texture": "#waku" },
+				"south": { "uv": [ 14.0, 0.0, 15.5, 0.5 ], "texture": "#waku" }
+            }
+		},
+		{
+			"name": "ji_top",
+			"from": [ 14.5, 16, 6.5 ],
+			"to": [ 16, 31.5, 8 ],
+			"faces": {
+				"south": { "uv": [ 0.5, 0.5, 2.0, 16.0 ], "texture": "#ji_ts" },
+				"north": { "uv": [ 14.0, 0.5, 15.5, 16.0 ], "texture": "#ji_tn" }
+            }
+		},
+		{
+			"name": "left_top",
+			"from": [ 14, 16, 6.5 ],
+			"to": [ 14.5, 32, 8 ],
+			"faces": {
+				"up" : { "uv": [ 0.0, 0.0, 0.5, 2.0 ], "texture": "#waku" },
+				"north": { "uv": [ 0.0, 0.0, 0.5, 16.0 ], "texture": "#waku" },
+				"south": { "uv": [ 0.0, 0.0, 0.5, 16.0 ], "texture": "#waku" },
+				"west" : { "uv": [ 0.0, 0.0, 2.0, 16.0 ], "texture": "#waku" }
+            }
+		},
+		{
+			"name": "up",
+			"from": [ 14.5, 31.5, 6.5 ],
+			"to": [ 16, 32, 8 ],
+			"faces": {
+				"up" : { "uv": [ 0.5, 0.0, 15.5, 2.0 ], "texture": "#waku" },
+				"north": { "uv": [ 14.0, 0.0, 15.5, 0.5 ], "texture": "#waku" },
+				"south": { "uv": [ 14.0, 0.0, 15.5, 0.5 ], "texture": "#waku" }
+            }
+		},
+		{
+			"name": "rail____________________________________________________________________________",
+			"from": [ 0, 0, 7.1 ],
+			"to": [ 16, 0.01, 8.9 ],
+			"faces": {
+				"up" : { "uv": [ 0.0, 0.0, 16, 2.0 ], "texture": "#rail" }
+            }
+		},
+		{
+			"name": "ji",
+			"from": [ 16, 0.5, 6.5 ],
+			"to": [ 29.5, 16, 8 ],
+			"faces": {
+				"south": { "uv": [ 2.0, 0.0, 15.5, 15.5 ], "texture": "#ji_bs" },
+				"north": { "uv": [ 0.5, 0.0, 14.0, 15.5 ], "texture": "#ji_bn" }
+            }
+		},
+		{
+			"name": "right",
+			"from": [ 29.5, 0, 6.5 ],
+			"to": [ 30, 16, 8 ],
+			"faces": {
+				"down" : { "uv": [ 15.5, 0.0, 16, 2.0 ], "texture": "#waku" },
+				"north": { "uv": [ 15.5, 0.0, 16, 16.0 ], "texture": "#waku" },
+				"south": { "uv": [ 15.5, 0.0, 16, 16.0 ], "texture": "#waku" },
+				"east" : { "uv": [ 0.0, 0.0, 2.0, 16.0 ], "texture": "#waku" }
+            }
+		},
+		{
+			"name": "under",
+			"from": [ 16, 0, 6.5 ],
+			"to": [ 29.5, 0.5, 8 ],
+			"faces": {
+				"down" : { "uv": [ 0.5, 0.0, 15.5, 2.0 ], "texture": "#waku" },
+				"north": { "uv": [ 0.5, 15.5, 15.5, 16.0 ], "texture": "#waku" },
+				"south": { "uv": [ 0.5, 15.5, 15.5, 16.0 ], "texture": "#waku" }
+            }
+		},
+		{
+			"name": "ji_top",
+			"from": [ 16, 16, 6.5 ],
+			"to": [ 29.5, 31.5, 8 ],
+			"faces": {
+				"south": { "uv": [ 2.0, 0.5, 15.5, 16.0 ], "texture": "#ji_ts" },
+				"north": { "uv": [ 0.5, 0.5, 14.0, 16.0 ], "texture": "#ji_tn" }
+            }
+		},
+		{
+			"name": "right_top",
+			"from": [ 29.5, 16, 6.5 ],
+			"to": [ 30, 32, 8 ],
+			"faces": {
+				"up" : { "uv": [ 15.5, 0.0, 16, 2.0 ], "texture": "#waku" },
+				"north": { "uv": [ 15.5, 0.0, 16, 16.0 ], "texture": "#waku" },
+				"south": { "uv": [ 15.5, 0.0, 16, 16.0 ], "texture": "#waku" },
+				"east" : { "uv": [ 0.0, 0.0, 2.0, 16.0 ], "texture": "#waku" }
+            }
+		},
+		{
+			"name": "up",
+			"from": [ 16, 31.5, 6.5 ],
+			"to": [ 29.5, 32, 8 ],
+			"faces": {
+				"up" : { "uv": [ 0.5, 0.0, 15.5, 2.0 ], "texture": "#waku" },
+				"north": { "uv": [ 0.5, 0.0, 15.5, 0.5 ], "texture": "#waku" },
+				"south": { "uv": [ 0.5, 0.0, 15.5, 0.5 ], "texture": "#waku" }
+            }
+		}
+    ]
+}

@@ -1,0 +1,8 @@
+{
+	"parent": "chinjufumod:block/base_ctable_none2",
+    "textures": {
+        "particle": "blocks/planks_big_oak",
+		"leg": "chinjufumod:blocks/leg_d",
+        "top": "blocks/planks_big_oak"
+    }
+}

@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base_lowtree",
+	"textures": {
+		"particle": "blocks/log_jungle",
+		"leaves": "chinjufumod:blocks/leaves_cjf_jungle",
+		"log_top": "blocks/log_jungle_top",
+		"log": "blocks/log_jungle"
+    }
+}

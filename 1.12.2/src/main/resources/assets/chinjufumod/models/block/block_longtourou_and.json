@@ -1,0 +1,7 @@
+{
+	"parent": "chinjufumod:block/base_longtourou",
+	"textures": {
+		"particle": "blocks/stone_andesite_smooth",
+		"ishi": "blocks/stone_andesite_smooth"
+	}
+}

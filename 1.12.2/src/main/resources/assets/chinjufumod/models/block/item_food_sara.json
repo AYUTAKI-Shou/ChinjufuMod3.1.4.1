@@ -1,0 +1,114 @@
+{
+    "parent": "block/block",
+    "textures": {
+		"particle": "chinjufumod:blocks/dish_white",
+		"sara": "chinjufumod:blocks/dish_white"
+    },
+    "elements": [
+		{
+			"name": "sara_soko_nor______________________________________________________",
+			"from": [ 5.5, 0, 5.5 ],
+			"to": [ 10.5, 0.2, 5.8 ],
+			"faces": {
+				"down" : { "texture": "#sara" },
+				"north": { "texture": "#sara" },
+				"south": { "texture": "#sara" },
+				"west" : { "texture": "#sara" },
+				"east" : { "texture": "#sara" }
+			}
+		},
+		{
+			"name": "sara_soko_sou",
+			"from": [ 5.5, 0, 10.2 ],
+			"to": [ 10.5, 0.2, 10.5 ],
+			"faces": {
+				"down" : { "texture": "#sara" },
+				"north": { "texture": "#sara" },
+				"south": { "texture": "#sara" },
+				"west" : { "texture": "#sara" },
+				"east" : { "texture": "#sara" }
+			}
+		},
+		{
+			"name": "sara_soko_east",
+			"from": [ 10.2, 0, 5.8 ],
+			"to": [ 10.5, 0.2, 10.2 ],
+			"faces": {
+				"down" : { "texture": "#sara" },
+				"west" : { "texture": "#sara" },
+				"east" : { "texture": "#sara" }
+			}
+		},
+		{
+			"name": "sara_soko_west",
+			"from": [ 5.5, 0, 5.8 ],
+			"to": [ 5.8, 0.2, 10.2 ],
+			"faces": {
+				"down" : { "texture": "#sara" },
+				"west" : { "texture": "#sara" },
+				"east" : { "texture": "#sara" }
+			}
+		},
+		{
+			"name": "sara_soko",
+			"from": [ 5.5, 0.2, 5.5 ],
+			"to": [ 10.5, 0.5, 10.5 ],
+			"faces": {
+				"up" : { "texture": "#sara" },
+				"down" : { "texture": "#sara" },
+				"north": { "texture": "#sara" },
+				"south": { "texture": "#sara" },
+				"west" : { "texture": "#sara" },
+				"east" : { "texture": "#sara" }
+			}
+		},
+		{
+			"name": "sara_n1",
+			"from": [ 4, 0.4, 4 ],
+			"to": [ 12, 0.7, 5.5 ],
+			"faces": {
+				"up" : { "texture": "#sara" },
+				"down" : { "texture": "#sara" },
+				"north": { "texture": "#sara" },
+				"south": { "texture": "#sara" },
+				"west" : { "texture": "#sara" },
+				"east" : { "texture": "#sara" }
+			}
+		},
+		{
+			"name": "sara_s1",
+			"from": [ 4, 0.4, 10.5 ],
+			"to": [ 12, 0.7, 12 ],
+			"faces": {
+				"up" : { "texture": "#sara" },
+				"down" : { "texture": "#sara" },
+				"north": { "texture": "#sara" },
+				"south": { "texture": "#sara" },
+				"west" : { "texture": "#sara" },
+				"east" : { "texture": "#sara" }
+			}
+		},
+		{
+			"name": "sara_e1",
+			"from": [ 10.5, 0.4, 5.5 ],
+			"to": [ 12, 0.7, 10.5 ],
+			"faces": {
+				"up" : { "texture": "#sara" },
+				"down" : { "texture": "#sara" },
+				"west" : { "texture": "#sara" },
+				"east" : { "texture": "#sara" }
+			}
+		},
+		{
+			"name": "sara_w1",
+			"from": [ 4, 0.4, 5.5 ],
+			"to": [ 5.5, 0.7, 10.5 ],
+			"faces": {
+				"up" : { "texture": "#sara" },
+				"down" : { "texture": "#sara" },
+				"west" : { "texture": "#sara" },
+				"east" : { "texture": "#sara" }
+			}
+		}
+	]
+}

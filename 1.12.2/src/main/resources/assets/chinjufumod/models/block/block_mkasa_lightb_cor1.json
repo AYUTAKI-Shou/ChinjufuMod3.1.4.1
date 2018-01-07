@@ -1,0 +1,8 @@
+{
+	"parent": "chinjufumod:block/base_mkasa_cor1",
+	"textures": {
+        "particle": "chinjufumod:blocks/mkasa_lightb",
+        "kasa": "chinjufumod:blocks/mkasa_lightb",
+        "kasa_l": "chinjufumod:blocks/mkasa_lightb_long"
+    }
+}

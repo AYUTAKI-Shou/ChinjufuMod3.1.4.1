@@ -1,0 +1,8 @@
+{
+	"parent": "chinjufumod:block/base_logchair",
+    "textures": {
+        "particle": "blocks/log_acacia",
+		"side": "blocks/log_acacia",
+        "top": "blocks/log_acacia_top"
+    }
+}

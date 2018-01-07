@@ -1,0 +1,8 @@
+{
+    "parent": "chinjufumod:block/base_kamoi4",
+    "textures": {
+ 		"particle": "chinjufumod:blocks/plaster_yellow",
+ 		"shikkui": "chinjufumod:blocks/plaster_yellow",
+        "ki": "blocks/planks_acacia"
+    }
+}

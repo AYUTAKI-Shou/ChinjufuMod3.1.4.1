@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base_wallpanel",
+	"textures": {
+		"particle": "blocks/glass_red",
+		"front": "blocks/glass_red",
+		"back": "blocks/glass_red",
+		"side": "blocks/glass_red"
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"parent": "chinjufumod:block/base_chabudai2_cor",
+    "textures": {
+		"particle": "blocks/planks_spruce",
+		"tea": "chinjufumod:blocks/tea_green",
+		"yunomi": "chinjufumod:blocks/dish_pink",
+		"ten": "blocks/planks_spruce",
+        "leg": "chinjufumod:blocks/leg_s"
+    }
+}

@@ -1,0 +1,13 @@
+{
+	"parent": "chinjufumod:block/base_chabudai4_none2",
+    "textures": {
+		"particle": "blocks/planks_oak",
+		"kyusu": "chinjufumod:blocks/dish_brown",
+		"shouyu": "chinjufumod:blocks/dish_white",
+		"shouyu_b": "chinjufumod:blocks/dish_blue",
+		"shouyu_s": "chinjufumod:blocks/dish_lightb",
+		"sara": "chinjufumod:blocks/leg_s",
+		"ten": "blocks/planks_oak",
+        "leg": "chinjufumod:blocks/leg_o"
+    }
+}

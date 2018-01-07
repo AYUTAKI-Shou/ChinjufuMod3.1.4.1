@@ -1,0 +1,12 @@
+{
+    "parent": "chinjufumod:block/base_fusumaopen_r",
+    "textures": {
+ 		"particle": "chinjufumod:blocks/fusumab_magenta_tn",
+ 		"ji_tn": "chinjufumod:blocks/fusumab_magenta_tn",
+ 		"ji_ts": "chinjufumod:blocks/fusumab_magenta_ts",
+ 		"ji_bn": "chinjufumod:blocks/fusumab_magenta_bn",
+ 		"ji_bs": "chinjufumod:blocks/fusumab_magenta_bs",
+        "waku": "chinjufumod:blocks/fusuma_waku",
+      	"rail": "chinjufumod:blocks/fusuma_rail"
+    }
+}

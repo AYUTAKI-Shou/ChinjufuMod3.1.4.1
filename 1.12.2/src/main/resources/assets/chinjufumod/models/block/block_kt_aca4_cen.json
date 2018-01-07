@@ -1,0 +1,15 @@
+{
+	"parent": "chinjufumod:block/base_kotatsu4_cen",
+    "textures": {
+		"particle": "blocks/planks_acacia",
+        "miso": "chinjufumod:blocks/miso",
+		"nabe": "chinjufumod:blocks/dish_usuki",
+		"nabeshiki": "chinjufumod:blocks/dish_brown",
+		"otama": "chinjufumod:blocks/leg_s",
+		"hashi": "chinjufumod:blocks/dish_red",
+		"sara": "chinjufumod:blocks/dish_white",
+		"ten": "blocks/planks_acacia",
+		"futon": "chinjufumod:blocks/kotatsufuton_aca",
+        "leg": "chinjufumod:blocks/leg_a"
+    }
+}

@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base_chabudai3_cor",
+    "textures": {
+		"particle": "blocks/planks_acacia",
+		"kyusu": "chinjufumod:blocks/dish_brown",
+		"ten": "blocks/planks_acacia",
+        "leg": "chinjufumod:blocks/leg_a"
+    }
+}

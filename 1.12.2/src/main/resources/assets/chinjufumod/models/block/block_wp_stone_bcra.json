@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base_wallpanel",
+	"textures": {
+		"particle": "blocks/stonebrick_cracked",
+		"front": "blocks/stonebrick_cracked",
+		"back": "blocks/stonebrick_cracked",
+		"side": "blocks/stonebrick_cracked"
+	}
+}

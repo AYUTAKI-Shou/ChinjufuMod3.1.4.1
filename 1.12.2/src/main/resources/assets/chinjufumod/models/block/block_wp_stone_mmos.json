@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base_wallpanel",
+	"textures": {
+		"particle": "blocks/cobblestone_mossy",
+		"front": "blocks/cobblestone_mossy",
+		"back": "blocks/cobblestone_mossy",
+		"side": "blocks/cobblestone_mossy"
+	}
+}

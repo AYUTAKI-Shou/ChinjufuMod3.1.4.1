@@ -1,0 +1,8 @@
+{
+    "parent": "chinjufumod:block/base_longtourou_lit",
+    "textures": {
+ 		"particle": "blocks/stone_diorite_smooth",
+ 		"ishi": "blocks/stone_diorite_smooth",
+		"akari": "blocks/torch_on"
+    }
+}

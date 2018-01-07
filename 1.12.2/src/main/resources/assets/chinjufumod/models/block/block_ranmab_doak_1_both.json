@@ -1,0 +1,9 @@
+{
+    "parent": "chinjufumod:block/base_ranmab_both_1",
+    "textures": {
+ 		"particle": "chinjufumod:blocks/muku_doak",
+ 		"ji": "chinjufumod:blocks/shouji_white",
+ 		"ranma": "chinjufumod:blocks/muku_doak",
+        "waku": "chinjufumod:blocks/leg_d"
+    }
+}

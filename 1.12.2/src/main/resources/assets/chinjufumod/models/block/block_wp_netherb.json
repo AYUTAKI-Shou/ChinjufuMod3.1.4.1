@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base_wallpanel",
+	"textures": {
+		"particle": "blocks/nether_brick",
+		"front": "blocks/nether_brick",
+		"back": "blocks/nether_brick",
+		"side": "blocks/nether_brick"
+	}
+}

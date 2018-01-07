@@ -1,0 +1,8 @@
+{
+    "parent": "chinjufumod:block/base_chouzubachi_3",
+    "textures": {
+ 		"particle": "blocks/stone_diorite_smooth",
+ 		"ishi": "blocks/stone_diorite_smooth",
+ 		"mizu": "blocks/water_still"
+    }
+}

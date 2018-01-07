@@ -1,0 +1,12 @@
+{
+	"parent": "chinjufumod:block/base_chabudai2_cen",
+    "textures": {
+		"particle": "blocks/planks_acacia",
+		"tea": "chinjufumod:blocks/tea_green",
+		"yunomi": "chinjufumod:blocks/dish_green",
+		"senbei": "chinjufumod:blocks/senbei",
+		"sara": "chinjufumod:blocks/leg_s",
+		"ten": "blocks/planks_acacia",
+        "leg": "chinjufumod:blocks/leg_a"
+    }
+}

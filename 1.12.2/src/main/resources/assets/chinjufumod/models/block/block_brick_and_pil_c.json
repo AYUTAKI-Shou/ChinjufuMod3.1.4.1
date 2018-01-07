@@ -1,0 +1,8 @@
+{
+	"parent": "chinjufumod:block/base_stone_pillar",
+    "textures": {
+        "particle": "chinjufumod:blocks/stonepillar_and",
+        "top": "chinjufumod:blocks/stonepillar_top_and",
+        "side": "chinjufumod:blocks/stonepillar_and"
+    }
+}

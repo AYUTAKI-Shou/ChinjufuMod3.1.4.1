@@ -1,0 +1,8 @@
+{
+    "parent": "block/outer_stairs",
+    "textures": {
+        "bottom": "chinjufumod:blocks/plaster_black",
+        "top": "chinjufumod:blocks/plaster_black",
+        "side": "chinjufumod:blocks/plaster_black"
+    }
+}

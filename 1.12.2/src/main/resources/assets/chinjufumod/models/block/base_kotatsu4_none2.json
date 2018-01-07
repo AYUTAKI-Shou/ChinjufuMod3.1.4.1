@@ -1,0 +1,268 @@
+{
+    "parent": "block/block",
+    "elements": [
+        {
+            "name": "nabeshiki",
+            "from": [ 2.5, 8, 4.5 ],
+            "to": [ 9.5, 8.5, 11.5 ],
+            "faces": {
+                "up" : { "texture": "#nabeshiki" },
+                "north": { "texture": "#nabeshiki" },
+                "south": { "texture": "#nabeshiki" },
+				"east" : { "texture": "#nabeshiki" },
+                "west" : { "texture": "#nabeshiki" }
+            }
+        },
+        {
+            "name": "nabesoko",
+            "from": [ 3, 8.5, 5 ],
+            "to": [ 9, 9, 11 ],
+            "faces": {
+                "up" : { "texture": "#nabe" },
+                "north": { "texture": "#nabe" },
+                "south": { "texture": "#nabe" },
+				"east" : { "texture": "#nabe" },
+                "west" : { "texture": "#nabe" }
+            }
+        },
+        {
+            "name": "nabe_n1",
+            "from": [ 2, 9, 4 ],
+            "to": [ 10, 9.5, 5 ],
+            "faces": {
+                "up" : { "texture": "#nabe" },
+                "down" : { "texture": "#nabe" },
+                "north": { "texture": "#nabe" },
+                "south": { "texture": "#nabe" },
+				"east" : { "texture": "#nabe" },
+                "west" : { "texture": "#nabe" }
+            }
+        },
+        {
+            "name": "nabe_n2",
+            "from": [ 1.5, 9.5, 3.5 ],
+            "to": [ 10.5, 12.5, 4 ],
+            "faces": {
+                "up" : { "texture": "#nabe" },
+                "down" : { "texture": "#nabe" },
+                "north": { "texture": "#nabe" },
+                "south": { "texture": "#nabe" },
+				"east" : { "texture": "#nabe" },
+                "west" : { "texture": "#nabe" }
+            }
+        },
+        {
+            "name": "nabe_e1",
+            "from": [ 9, 9, 5 ],
+            "to": [ 10, 9.5, 11 ],
+            "faces": {
+                "up" : { "texture": "#nabe" },
+                "down" : { "texture": "#nabe" },
+				"east" : { "texture": "#nabe" },
+                "west" : { "texture": "#nabe" }
+            }
+        },
+        {
+            "name": "nabe_e2",
+            "from": [ 10, 9.5, 4 ],
+            "to": [ 10.5, 12.5, 12 ],
+            "faces": {
+                "up" : { "texture": "#nabe" },
+                "down" : { "texture": "#nabe" },
+				"east" : { "texture": "#nabe" },
+                "west" : { "texture": "#nabe" }
+            }
+        },
+        {
+            "name": "nabemimi_e",
+            "from": [ 10.5, 12, 6.5 ],
+            "to": [ 11, 12.5, 9.5 ],
+            "faces": {
+                "up" : { "texture": "#nabe" },
+                "down" : { "texture": "#nabe" },
+                "north": { "texture": "#nabe" },
+                "south": { "texture": "#nabe" },
+				"east" : { "texture": "#nabe" }
+            }
+        },
+        {
+            "name": "nabe_s1",
+            "from": [ 2, 9, 11 ],
+            "to": [ 10, 9.5, 12 ],
+            "faces": {
+                "up" : { "texture": "#nabe" },
+                "down" : { "texture": "#nabe" },
+                "north": { "texture": "#nabe" },
+                "south": { "texture": "#nabe" },
+				"east" : { "texture": "#nabe" },
+                "west" : { "texture": "#nabe" }
+            }
+        },
+        {
+            "name": "nabe_s2",
+            "from": [ 1.5, 9.5, 12 ],
+            "to": [ 10.5, 12.5, 12.5 ],
+            "faces": {
+                "up" : { "texture": "#nabe" },
+                "down" : { "texture": "#nabe" },
+                "north": { "texture": "#nabe" },
+                "south": { "texture": "#nabe" },
+				"east" : { "texture": "#nabe" },
+                "west" : { "texture": "#nabe" }
+            }
+        },
+        {
+            "name": "nabe_w1",
+            "from": [ 2, 9, 5 ],
+            "to": [ 3, 9.5, 11 ],
+            "faces": {
+                "up" : { "texture": "#nabe" },
+                "down" : { "texture": "#nabe" },
+				"east" : { "texture": "#nabe" },
+                "west" : { "texture": "#nabe" }
+            }
+        },
+        {
+            "name": "nabe_w2",
+            "from": [ 1.5, 9.5, 4 ],
+            "to": [ 2, 12.5, 12 ],
+            "faces": {
+                "up" : { "texture": "#nabe" },
+                "down" : { "texture": "#nabe" },
+				"east" : { "texture": "#nabe" },
+                "west" : { "texture": "#nabe" }
+            }
+        },
+        {
+            "name": "nabemimi_w",
+            "from": [ 1, 12, 6.5 ],
+            "to": [ 1.5, 12.5, 9.5 ],
+            "faces": {
+                "up" : { "texture": "#nabe" },
+                "down" : { "texture": "#nabe" },
+                "north": { "texture": "#nabe" },
+                "south": { "texture": "#nabe" },
+				"west" : { "texture": "#nabe" }
+            }
+        },
+        {
+            "name": "nabenaka",
+            "from": [ 2, 11, 4 ],
+            "to": [ 10, 11.5, 12 ],
+            "faces": {
+                "up" : { "texture": "#miso" }
+            }
+        },
+        {
+            "name": "sara",
+            "from": [ 11.5, 8, 2.5 ],
+            "to": [ 15.5, 8.1, 6.5 ],
+            "faces": {
+                "up" : { "texture": "#sara" },
+                "north": { "texture": "#sara" },
+                "south": { "texture": "#sara" },
+				"east" : { "texture": "#sara" },
+                "west" : { "texture": "#sara" }
+            }
+        },
+        {
+            "name": "otama1",
+            "from": [ 12, 8.1, 4 ],
+            "to": [ 15, 11, 4.2 ],
+            "faces": {
+                "up" : { "texture": "#otama" },
+                "down" : { "texture": "#otama" },
+                "north": { "texture": "#otama" },
+                "south": { "texture": "#otama" },
+				"east" : { "texture": "#otama" },
+                "west" : { "texture": "#otama" }
+            }
+        },
+        {
+            "name": "otama2",
+            "from": [ 12, 8.1, 4.2 ],
+            "to": [ 12.2, 11, 4.7 ],
+            "faces": {
+                "up" : { "texture": "#otama" },
+                "down" : { "texture": "#otama" },
+                "south": { "texture": "#otama" },
+				"east" : { "texture": "#otama" },
+                "west" : { "texture": "#otama" }
+            }
+        },
+        {
+            "name": "otama3",
+            "from": [ 14.8, 8.1, 4.2 ],
+            "to": [ 15, 11, 4.7 ],
+            "faces": {
+                "up" : { "texture": "#otama" },
+                "down" : { "texture": "#otama" },
+                "south": { "texture": "#otama" },
+				"east" : { "texture": "#otama" },
+                "west" : { "texture": "#otama" }
+            }
+        },
+        {
+            "name": "otama4",
+            "from": [ 12.2, 8.1, 4.2 ],
+            "to": [ 14.8, 8.5, 4.7 ],
+            "faces": {
+                "up" : { "texture": "#otama" },
+                "down" : { "texture": "#otama" },
+                "south": { "texture": "#otama" },
+				"east" : { "texture": "#otama" },
+                "west" : { "texture": "#otama" }
+            }
+        },
+        {
+            "name": "otama5",
+            "from": [ 12.2, 10.8, 4.2 ],
+            "to": [ 14.8, 11, 4.7 ],
+            "faces": {
+                "up" : { "texture": "#otama" },
+                "down" : { "texture": "#otama" },
+                "south": { "texture": "#otama" },
+				"east" : { "texture": "#otama" },
+                "west" : { "texture": "#otama" }
+            }
+        },
+        {
+            "name": "otama_e",
+            "from": [ 13.2, 8.1, 4.7 ],
+            "to": [ 13.8, 8.5, 14 ],
+            "faces": {
+                "up" : { "texture": "#otama" },
+                "down" : { "texture": "#otama" },
+                "south": { "texture": "#otama" },
+				"east" : { "texture": "#otama" },
+                "west" : { "texture": "#otama" }
+            }
+        },
+        {
+            "name": "futon",
+            "from": [ 0, 6, 0 ],
+            "to": [ 16, 7, 16 ],
+            "faces": {
+                "up" : { "texture": "#futon" },
+                "down" : { "texture": "#furon" }
+            }
+        },
+        {
+            "name": "tenban_1",
+            "from": [ 0, 7.01, 0 ],
+            "to": [ 16, 8, 16 ],
+            "faces": {
+                "up" : { "texture": "#ten" },
+                "down" : { "texture": "#ten" }
+            }
+        },
+        {
+            "name": "bottom",
+            "from": [ 0, 5.9, 0 ],
+            "to": [ 16, 5.5, 16 ],
+            "faces": {
+                "down" : { "texture": "#ten" }
+            }
+        }
+    ]
+}

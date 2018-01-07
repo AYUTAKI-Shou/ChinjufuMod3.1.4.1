@@ -1,0 +1,8 @@
+{
+	"parent": "chinjufumod:block/base_zabuton",
+    "textures": {
+        "particle": "chinjufumod:blocks/mz_red",
+        "top": "chinjufumod:blocks/mz_red",
+        "side": "chinjufumod:blocks/mz_side_red"
+    }
+}

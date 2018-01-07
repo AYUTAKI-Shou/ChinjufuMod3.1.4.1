@@ -1,0 +1,8 @@
+{
+	"parent": "chinjufumod:block/base_unitdesk_corner",
+    "textures": {
+		"particle":"blocks/planks_jungle",
+		"leg": "blocks/planks_jungle",
+		"top": "blocks/planks_jungle"
+    }
+}

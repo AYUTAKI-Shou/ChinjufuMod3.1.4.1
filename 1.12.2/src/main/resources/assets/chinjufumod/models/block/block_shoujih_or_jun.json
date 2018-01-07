@@ -1,0 +1,11 @@
+{
+    "parent": "chinjufumod:block/base_shoujih_open_r",
+    "textures": {
+ 		"particle": "chinjufumod:blocks/shouji_white",
+ 		"ji": "chinjufumod:blocks/shouji_white",
+ 		"ji_b": "chinjufumod:blocks/shouji_bot",
+        "waku": "chinjufumod:blocks/leg_j",
+      	"totte": "chinjufumod:blocks/leg_d",
+      	"rail": "chinjufumod:blocks/leg_j"
+    }
+}

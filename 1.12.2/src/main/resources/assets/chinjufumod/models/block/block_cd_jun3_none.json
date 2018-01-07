@@ -1,0 +1,20 @@
+{
+	"parent": "chinjufumod:block/base_chabudai3_none",
+    "textures": {
+		"particle": "blocks/planks_jungle",
+		"tea": "chinjufumod:blocks/tea_green",
+		"yunomi": "chinjufumod:blocks/dish_green",
+		"miso": "chinjufumod:blocks/miso",
+		"shikki": "chinjufumod:blocks/dish_black",
+		"shikki2": "chinjufumod:blocks/dish_red",
+		"kome": "chinjufumod:blocks/food_gohan",
+		"chawan": "chinjufumod:blocks/dish_blue",
+		"chawan2": "chinjufumod:blocks/dish_white",
+		"sakana": "chinjufumod:blocks/grill_fish",
+		"sara": "chinjufumod:blocks/dish_white",
+		"hashi": "chinjufumod:blocks/dish_red",
+		"hashioki": "chinjufumod:blocks/hashioki",
+		"ten": "blocks/planks_jungle",
+        "leg": "chinjufumod:blocks/leg_j"
+    }
+}

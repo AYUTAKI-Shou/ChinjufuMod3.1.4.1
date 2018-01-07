@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "chinjufumod:blocks/alumi_side",
+        "down": "chinjufumod:blocks/alumi_bottom",
+        "up": "chinjufumod:blocks/alumi_top",
+        "north": "chinjufumod:blocks/alumi_front",
+        "east": "chinjufumod:blocks/alumi_side",
+        "south": "chinjufumod:blocks/alumi_front",
+        "west": "chinjufumod:blocks/alumi_side"
+     }
+}

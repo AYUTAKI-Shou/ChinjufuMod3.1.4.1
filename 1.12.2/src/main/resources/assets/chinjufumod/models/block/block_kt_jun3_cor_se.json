@@ -1,0 +1,11 @@
+{
+	"parent": "chinjufumod:block/base_kotatsu2_cor_se",
+    "textures": {
+		"particle": "blocks/planks_jungle",
+		"tea": "chinjufumod:blocks/tea_green",
+		"yunomi": "chinjufumod:blocks/dish_pink",
+		"ten": "blocks/planks_jungle",
+		"futon": "chinjufumod:blocks/kotatsufuton_jun",
+        "leg": "chinjufumod:blocks/leg_j"
+    }
+}

@@ -1,0 +1,11 @@
+{
+	"parent": "chinjufumod:block/base_kotatsu2_none_n",
+    "textures": {
+		"particle": "blocks/planks_spruce",
+		"tea": "chinjufumod:blocks/tea_green",
+		"yunomi": "chinjufumod:blocks/dish_green",
+		"ten": "blocks/planks_spruce",
+		"futon": "chinjufumod:blocks/kotatsufuton_spru",
+        "leg": "chinjufumod:blocks/leg_s"
+    }
+}

@@ -1,0 +1,10 @@
+{
+	"parent": "chinjufumod:block/base_kotatsu4_cor_sw",
+    "textures": {
+		"particle": "blocks/planks_birch",
+		"kyusu": "chinjufumod:blocks/dish_brown",
+		"ten": "blocks/planks_birch",
+		"futon": "chinjufumod:blocks/kotatsufuton_bir",
+        "leg": "chinjufumod:blocks/leg_b"
+    }
+}

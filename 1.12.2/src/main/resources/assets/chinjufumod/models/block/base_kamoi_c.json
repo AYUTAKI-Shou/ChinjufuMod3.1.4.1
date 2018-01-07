@@ -1,0 +1,39 @@
+{
+    "parent": "block/block",
+    "elements":[
+		{
+			"name": "nishi",
+			"from": [ 0.0, 4.0, 0.0 ],
+			"to": [ 12.0, 16.0, 16.0 ],
+			"faces": {
+				"up" : { "uv": [ 0.0, 0.0, 16.0, 12.0 ], "texture": "#shikkui" },
+				"north": { "uv": [ 0.0, 0.0, 12.0, 12.0 ], "texture": "#shikkui" },
+				"south": { "uv": [ 0.0, 0.0, 12.0, 12.0 ], "texture": "#shikkui" },
+				"west" : { "uv": [ 0.0, 0.0, 16.0, 12.0 ], "texture": "#shikkui" }
+            }
+		},
+		{
+			"name": "higashi",
+			"from": [ 12.0, 4.0, 0.0 ],
+			"to": [ 16.0, 16.0, 16.0 ],
+			"faces": {
+				"up" : { "uv": [ 12.0, 0.0, 16.0, 16.0 ], "texture": "#ki", "rotation": 180 },
+				"north": { "uv": [ 0.0, 8.0, 12.0, 12.0 ], "texture": "#ki", "rotation": 90 },
+				"south": { "uv": [ 0.0, 7.0, 12.0, 11.0 ], "texture": "#ki", "rotation": 90 },
+				"east" : { "uv": [ 4.0, 0.0, 16.0, 16.0 ], "texture": "#ki", "rotation": 270 }
+            }
+		},
+		{
+			"name": "shita",
+			"from": [ 0.0, 0.0, 0.0 ],
+			"to": [ 16.0, 4.0, 16.0 ],
+			"faces": {
+				"down" : { "uv": [ 0.0, 0.0, 16.0, 16.0 ], "texture": "#ki" },
+				"north": { "uv": [ 0.0, 8.0, 16.0, 12.0 ], "texture": "#ki" },
+				"south": { "uv": [ 0.0, 8.0, 16.0, 12.0 ], "texture": "#ki" },
+				"east" : { "uv": [ 0.0, 0.0, 4.0, 16.0 ], "texture": "#ki", "rotation": 270 },
+				"west" : { "uv": [ 12.0, 0.0, 16.0, 16.0 ], "texture": "#ki", "rotation": 90 }
+            }
+		}
+    ]
+}

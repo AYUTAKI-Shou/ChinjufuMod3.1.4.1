@@ -1,0 +1,75 @@
+{
+    "parent": "block/block",
+    "textures": {
+        "particle": "chinjufumod:blocks/dish_lightb",
+		"sake": "chinjufumod:blocks/sakenama",
+        "glass": "chinjufumod:blocks/dish_lightb"
+    },
+    "elements": [
+        {
+			"name": "glass_soko",
+			"from": [ 7, 0, 7 ],
+			"to": [ 9, 0.2, 9 ],
+			"faces": {
+				"up" : { "texture": "#glass" },
+				"down" : { "texture": "#glass" },
+				"north": { "texture": "#glass" },
+				"south": { "texture": "#glass" },
+				"west" : { "texture": "#glass" },
+				"east" : { "texture": "#glass" }
+            }
+        },
+        {
+			"name": "glass_n",
+			"from": [ 7, 0.2, 7 ],
+			"to": [ 9, 3.0, 7.2 ],
+			"faces": {
+				"up" : { "texture": "#glass" },
+				"north": { "texture": "#glass" },
+				"south": { "texture": "#glass" },
+				"west" : { "texture": "#glass" },
+				"east" : { "texture": "#glass" }
+            }
+        },
+        {
+			"name": "glass_e",
+			"from": [ 8.8, 0.2, 7.2 ],
+			"to": [ 9, 3.0, 8.8 ],
+			"faces": {
+				"up" : { "texture": "#glass" },
+				"west" : { "texture": "#glass" },
+				"east" : { "texture": "#glass" }
+            }
+        },
+        {
+			"name": "glass_s",
+			"from": [ 7, 0.2, 8.8 ],
+			"to": [ 9, 3.0, 9 ],
+			"faces": {
+				"up" : { "texture": "#glass" },
+				"north": { "texture": "#glass" },
+				"south": { "texture": "#glass" },
+				"west" : { "texture": "#glass" },
+				"east" : { "texture": "#glass" }
+            }
+        },
+        {
+			"name": "glass_w",
+			"from": [ 7, 0.2, 7.2 ],
+			"to": [ 7.2, 3.0, 8.8 ],
+			"faces": {
+				"up" : { "texture": "#glass" },
+				"west" : { "texture": "#glass" },
+				"east" : { "texture": "#glass" }
+            }
+        },
+        {
+			"name": "glass_naka",
+			"from": [ 7.2, 0.5, 7.2 ],
+			"to": [ 8.8, 2.5, 8.8 ],
+			"faces": {
+				"up" : { "texture": "#sake" }
+            }
+        }
+    ]
+}

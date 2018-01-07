@@ -1,0 +1,8 @@
+{
+    "parent": "chinjufumod:block/base_namako_stairs_out",
+    "textures": {
+        "bottom": "chinjufumod:blocks/namakowall_black",
+        "top": "chinjufumod:blocks/namakowall_black",
+        "side": "chinjufumod:blocks/namakowall_black"
+    }
+}

@@ -1,0 +1,9 @@
+﻿{
+	"parent": "chinjufumod:block/base_boxb_double",
+	"textures": {
+		"particle": "chinjufumod:blocks/box_b_bottom",
+		"bottom": "chinjufumod:blocks/box_b_bottom",
+		"side": "chinjufumod:blocks/box_b_side",
+		"inside": "chinjufumod:blocks/box_beef"
+	}
+}

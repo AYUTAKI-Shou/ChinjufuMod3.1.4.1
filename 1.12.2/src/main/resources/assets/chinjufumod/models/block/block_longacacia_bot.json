@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base_longtree_bot",
+	"textures": {
+		"particle": "blocks/log_acacia",
+		"miki": "blocks/log_acacia",
+		"miki_top": "blocks/log_acacia_top",
+		"ha": "chinjufumod:blocks/leaves_cjf_acacia"
+	}
+}

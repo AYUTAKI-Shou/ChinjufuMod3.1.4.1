@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base_wallpanel_s",
+	"textures": {
+		"particle": "blocks/planks_jungle",
+		"front": "blocks/planks_jungle",
+		"back": "blocks/planks_jungle",
+		"side": "blocks/planks_jungle"
+	}
+}

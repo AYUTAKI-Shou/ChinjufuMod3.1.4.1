@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base_window_or",
+    "textures": {
+        "particle": "chinjufumod:blocks/window_a",
+        "front": "chinjufumod:blocks/window_a",
+        "side": "chinjufumod:blocks/leg_a",
+        "rail": "chinjufumod:blocks/leg_j"
+    }
+}

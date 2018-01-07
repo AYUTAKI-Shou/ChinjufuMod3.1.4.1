@@ -1,0 +1,27 @@
+{
+    "parent": "block/block",
+    "textures": {
+        "particle": "chinjufumod:blocks/leg_o",
+        "leg": "chinjufumod:blocks/leg_o",
+        "top": "blocks/planks_oak",
+        "red": "chinjufumod:blocks/me_red"
+    },
+    "elements": [
+		{
+			"name": "top",
+			"from": [ 0, 14, 0],
+			"to": [ 16, 15, 16],
+			"faces": {
+				"down": { "texture":"#top", "rotation": 90 }
+			}
+		},
+		{
+			"name": "red_top",
+			"from": [ 0, 15, 0],
+			"to": [ 16, 16, 16],
+			"faces": {
+				"up": { "texture":"#red" }
+			}
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"parent": "chinjufumod:block/base_chabudai3_cen",
+    "textures": {
+		"particle": "blocks/planks_birch",
+        "mikan": "chinjufumod:blocks/mikan",
+		"sara": "chinjufumod:blocks/leg_s",
+		"tea": "chinjufumod:blocks/tea_green",
+		"yunomi": "chinjufumod:blocks/dish_green",
+		"ten": "blocks/planks_birch",
+        "leg": "chinjufumod:blocks/leg_b"
+    }
+}
