@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "chinjufumod",
+
+	"pattern": [
+		"XXX",
+		"YYY",
+		"BAB"
+	],
+
+	"key": {
+		"Y": { "item": "minecraft:paper", "data": 0 },
+		"A": { "item": "minecraft:planks", "data": 2 },
+		"B": { "item": "minecraft:tallgrass", "data": 2 },
+		"X": [ { "item": "minecraft:wheat", "data": 0 },
+			   { "item": "chinjufumod:item_kome", "data": 0 } ]
+	},
+
+	"result": {	"item": "chinjufumod:block_kagamimochi", "data": 0, "count": 1 }
+}

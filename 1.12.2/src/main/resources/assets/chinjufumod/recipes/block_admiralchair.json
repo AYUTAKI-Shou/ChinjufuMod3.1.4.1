@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "chinjufumod",
+
+	"pattern": [
+		"Y  ",
+		"XYX",
+		"X X"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:planks", "data": 0 },
+		"Y": { "item": "minecraft:wool", "data": 11 }
+	},
+
+	"result": {	"item": "chinjufumod:block_admiralchair", "data": 0, "count" : 1 }
+}

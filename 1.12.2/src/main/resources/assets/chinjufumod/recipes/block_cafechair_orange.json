@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "chinjufumod",
+
+	"pattern": [
+		" X ",
+		" Y ",
+		"YYY"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:wool", "data": 1 },
+		"Y": { "item": "minecraft:stick", "data": 0 }
+	},
+
+	"result": {	"item": "chinjufumod:block_cafechair_orange", "data": 0, "count": 1 }
+}

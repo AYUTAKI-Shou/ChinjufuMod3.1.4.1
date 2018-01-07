@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "chinjufumod",
+
+	"ingredients": [
+		{ "item": "chinjufumod:item_chaba" },
+		{ "item": "chinjufumod:item_chaba" },
+		{ "item": "chinjufumod:item_chaba" },
+		{ "item": "chinjufumod:item_chaba" }
+	],
+
+	"result": {	"item": "chinjufumod:item_chaba_green", "data": 0, "count": 1 }
+}

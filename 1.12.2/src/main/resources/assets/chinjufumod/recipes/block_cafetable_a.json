@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "chinjufumod",
+
+	"pattern": [
+		"XXX",
+		" Y ",
+		"YYY"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:planks", "data": 4 },
+		"Y": { "item": "minecraft:stick", "data": 0 }
+	},
+
+	"result": {	"item": "chinjufumod:block_cafetable_a", "data": 0, "count": 1 }
+}

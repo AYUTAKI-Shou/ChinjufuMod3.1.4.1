@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "chinjufumod",
+
+	"ingredients": [
+		{ "item": "minecraft:apple" },
+		{ "item": "minecraft:sugar" },
+		{ "item": "minecraft:potion" }
+	],
+
+	"result": {	"item": "chinjufumod:block_bin_koubo_f", "data": 0, "count" : 1 }
+}

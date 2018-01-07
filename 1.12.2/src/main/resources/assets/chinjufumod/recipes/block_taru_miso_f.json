@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "chinjufumod",
+
+	"ingredients": [
+		{ "item": "chinjufumod:item_nimame" },
+		{ "item": "chinjufumod:item_komekouji" },
+		{ "item": "chinjufumod:item_salt" },
+		{ "item": "chinjufumod:block_taru_hakkou" }
+	],
+
+	"result": {	"item": "chinjufumod:block_taru_miso_f", "data": 0, "count": 1 }
+}

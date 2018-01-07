@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "chinjufumod",
+
+	"pattern": [
+		"X",
+		"Y"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:stick", "data": 0 },
+		"Y": { "item": "minecraft:carpet", "data": 11 }
+	},
+
+	"result": {	"item": "chinjufumod:block_noren_blue", "data": 0, "count": 1 }
+}

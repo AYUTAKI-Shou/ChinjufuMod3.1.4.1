@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "chinjufumod",
+
+	"pattern": [
+		"X",
+		"X"
+	],
+
+	"key": {
+		"X": { "item": "chinjufumod:block_steel_block", "data": 0 }
+	},
+
+	"result": {	"item": "chinjufumod:block_stovechimney", "data": 0, "count": 8 }
+}

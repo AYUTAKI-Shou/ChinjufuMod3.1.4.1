@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "chinjufumod",
+
+	"pattern": [
+		"X  ",
+		"XXX",
+		"Y Y"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:wooden_slab", "data": 3 },
+		"Y": { "item": "minecraft:stick", "data": 0 }
+	},
+
+	"result": {	"item": "chinjufumod:block_diningchair_j", "data": 0, "count": 1 }
+}

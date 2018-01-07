@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "chinjufumod",
+
+	"pattern": [
+		" Y ",
+		"XXX"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:stick", "data": 0 },
+		"Y": { "item": "minecraft:wooden_slab", "data": 1 }
+	},
+
+	"result": {	"item": "chinjufumod:block_ranma_spru", "data": 0, "count": 1 }
+}

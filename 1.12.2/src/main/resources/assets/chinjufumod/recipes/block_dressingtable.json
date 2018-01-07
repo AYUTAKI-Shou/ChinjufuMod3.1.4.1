@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "chinjufumod",
+
+	"pattern": [
+		"X  ",
+		"Y  ",
+		"XXX"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:wooden_slab", "data": 0 },
+		"Y": { "item": "minecraft:glass_pane", "data": 0 }
+	},
+
+	"result": {	"item": "chinjufumod:block_dressingtable", "data": 0, "count": 1 }
+}

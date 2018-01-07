@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "chinjufumod",
+
+	"ingredients": [
+		{ "item": "minecraft:egg" },
+		{ "item": "minecraft:egg" },
+		{ "item": "chinjufumod:item_kiji_burg" },
+		{ "item": "chinjufumod:block_food_frypan" }
+	],
+
+	"result": {	"item": "chinjufumod:block_food_egb_nama", "data": 0, "count" : 1 }
+}

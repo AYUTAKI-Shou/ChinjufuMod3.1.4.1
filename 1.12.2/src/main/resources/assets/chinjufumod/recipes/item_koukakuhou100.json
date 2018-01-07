@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "chinjufumod",
+
+	"pattern": [
+		"XY"
+	],
+
+	"key": {
+		"X": { "item": "chinjufumod:item_rensouhou127", "data": 0 },
+		"Y": { "item": "minecraft:dye", "data": 1 }
+	},
+
+	"result": {	"item": "chinjufumod:item_koukakuhou100", "data": 0, "count": 1 }
+}

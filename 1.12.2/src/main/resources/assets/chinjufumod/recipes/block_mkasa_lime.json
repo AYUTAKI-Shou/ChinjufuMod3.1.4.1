@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "chinjufumod",
+
+	"pattern": [
+		"X",
+		"Y"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:wool", "data": 5 },
+		"Y": { "item": "minecraft:planks", "data": 0 }
+	},
+
+	"result": {	"item": "chinjufumod:block_mkasa_lime", "data": 0, "count": 9 }
+}

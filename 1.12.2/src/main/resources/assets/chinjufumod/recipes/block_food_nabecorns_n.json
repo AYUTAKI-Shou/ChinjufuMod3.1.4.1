@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "chinjufumod",
+
+	"ingredients": [
+		{ "item": "minecraft:milk_bucket" },
+		{ "item": "chinjufumod:item_salt" },
+		{ "item": "chinjufumod:item_butter" },
+		{ "item": "chinjufumod:item_food_corn" },
+		{ "item": "chinjufumod:block_food_karanabe" }
+	],
+
+	"result": {	"item": "chinjufumod:block_food_nabecorns_n", "data": 0, "count" : 1 }
+}

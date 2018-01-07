@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "chinjufumod",
+
+	"pattern": [
+		"X",
+		"Y"
+	],
+
+	"key": {
+		"X": { "item": "chinjufumod:block_kitchen", "data": 0 },
+		"Y": { "item": "chinjufumod:block_steel_block", "data": 0 }
+	},
+
+	"result": {	"item": "chinjufumod:block_kit_sink1", "data": 0, "count": 1 }
+}

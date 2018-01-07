@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "chinjufumod",
+
+	"ingredients": [
+		{ "item": "minecraft:water_bucket" },
+		{ "item": "chinjufumod:item_food_toufu" },
+		{ "item": "chinjufumod:item_food_toufu" },
+		{ "item": "chinjufumod:item_miso" },
+		{ "item": "chinjufumod:block_food_karanabe" }
+	],
+
+	"result": {	"item": "chinjufumod:block_food_nabemiso_n", "data": 0, "count" : 1 }
+}

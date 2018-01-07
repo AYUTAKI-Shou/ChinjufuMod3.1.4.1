@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "chinjufumod",
+
+	"ingredients": [
+		{ "item": "chinjufumod:block_food_jpteacup_1" },
+		{ "item": "chinjufumod:block_food_tgy_1" },
+		{ "item": "chinjufumod:block_food_gohan_1" },
+		{ "item": "chinjufumod:block_food_misosp_1" }
+	],
+
+	"result": {	"item": "chinjufumod:block_food_tgytei_1", "data": 0, "count" : 1 }
+}

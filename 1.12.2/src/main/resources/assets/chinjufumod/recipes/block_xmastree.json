@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "chinjufumod",
+
+	"ingredients": [
+		{ "item": "minecraft:carpet", "data": 0 },
+		{ "item": "minecraft:carpet", "data": 4 },
+		{ "item": "minecraft:carpet", "data": 14 },
+		{ "item": "chinjufumod:block_longspruce_bot" }
+	],
+
+	"result": {	"item": "chinjufumod:block_xmastree", "data": 0, "count": 1 }
+}

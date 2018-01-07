@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "chinjufumod",
+
+	"ingredients": [
+		{ "item": "minecraft:sugar" },
+		{ "item": "minecraft:milk_bucket" },
+		{ "item": "chinjufumod:item_salt" },
+		{ "item": "chinjufumod:item_koubo" },
+		{ "item": "chinjufumod:item_butter" },
+		{ "item": "chinjufumod:item_flour" },
+		{ "item": "chinjufumod:item_flour" },
+		{ "item": "chinjufumod:item_flour" },
+		{ "item": "chinjufumod:item_flour" }
+	],
+
+	"result": {	"item": "chinjufumod:item_kiji_scone", "data": 0, "count" : 4 }
+}

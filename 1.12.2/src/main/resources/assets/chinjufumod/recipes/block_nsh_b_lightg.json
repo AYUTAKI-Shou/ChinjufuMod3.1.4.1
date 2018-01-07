@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "chinjufumod",
+
+	"pattern": [
+		"XXX"
+	],
+
+	"key": {
+		"X": { "item": "chinjufumod:block_namako_b_lightg", "data": 0 }
+	},
+
+	"result": {	"item": "chinjufumod:block_nsh_b_lightg", "data": 0, "count": 6 }
+}

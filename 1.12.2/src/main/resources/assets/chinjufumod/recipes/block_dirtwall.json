@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cmodwadeco",
+
+	"pattern": [
+		"XXX",
+		"ZYZ",
+		"XXX"
+	],
+	"key": {
+		"X": { "item": "minecraft:dirt", "data": 0 },
+		"Y": { "item": "minecraft:water_bucket" },
+		"Z": [ { "item": "minecraft:wheat" },
+			   { "item": "chinjufumod:item_ine" } ]
+	},
+	"result": { "item": "chinjufumod:block_dirtwall", "data": 0, "count": 6 }
+}

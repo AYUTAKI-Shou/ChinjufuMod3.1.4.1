@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "chinjufumod",
+
+	"pattern": [
+		"XYX"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:wool", "data": 0 },
+		"Y": { "item": "minecraft:wool", "data": 11 }
+	},
+
+	"result": {	"item": "chinjufumod:block_futon_c_blue", "data": 0, "count": 1 }
+}

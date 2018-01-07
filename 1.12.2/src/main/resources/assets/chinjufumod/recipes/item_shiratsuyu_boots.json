@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "chinjufumod",
+
+	"pattern": [
+		"XYZ"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:iron_boots", "data": 0 },
+		"Y": { "item": "minecraft:dye", "data": 8 },
+		"Z": { "item": "chinjufumod:item_workorder", "data": 0 }
+	},
+
+	"result": {	"item": "chinjufumod:item_shiratsuyu_boots", "data": 0, "count": 1 }
+}

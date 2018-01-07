@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "chinjufumod",
+
+	"pattern": [
+		"X"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:wheat", "data": 0 }
+	},
+
+	"result": {	"item": "chinjufumod:item_flour", "data": 0, "count": 1 }
+}

@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "chinjufumod",
+
+	"pattern": [
+		"X",
+		"Y",
+		"Z"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:carpet", "data": 0 },
+		"Y": { "item": "minecraft:carpet", "data": 6 },
+		"Z": { "item": "chinjufumod:block_cafetable", "data": 0 }
+	},
+
+	"result": {	"item": "chinjufumod:block_teatable", "data": 0, "count": 1 }
+}

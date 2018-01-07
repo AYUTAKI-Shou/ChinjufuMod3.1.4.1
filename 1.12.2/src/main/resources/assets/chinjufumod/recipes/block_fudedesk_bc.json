@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "chinjufumod",
+
+	"pattern": [
+		"X",
+		"Y"
+	],
+
+	"key": {
+		"X": { "item": "chinjufumod:block_fudetray_c", "data": 0 },
+		"Y": { "item": "chinjufumod:block_lowdesk_b", "data": 0 }
+	},
+
+	"result": {	"item": "chinjufumod:block_fudedesk_bc", "data": 0, "count": 1 }
+}

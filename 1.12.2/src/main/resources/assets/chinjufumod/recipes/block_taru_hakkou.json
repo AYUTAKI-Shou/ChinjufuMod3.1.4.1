@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "chinjufumod",
+
+	"pattern": [
+		"XYX",
+		"X X",
+		"XYX"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:planks", "data": 0 },
+		"Y": { "item": "minecraft:wooden_slab", "data": 0 }
+	},
+
+	"result": {	"item": "chinjufumod:block_taru_hakkou", "data": 0, "count": 1 }
+}

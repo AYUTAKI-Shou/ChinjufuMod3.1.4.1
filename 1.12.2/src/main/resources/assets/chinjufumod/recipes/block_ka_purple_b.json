@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "chinjufumod",
+
+	"pattern": [
+		"X",
+		"Y"
+	],
+
+	"key": {
+		"X": { "item": "chinjufumod:block_psh_purple", "data": 0 },
+		"Y": { "item": "minecraft:wooden_slab", "data": 2 }
+	},
+
+	"result": {	"item": "chinjufumod:block_ka_purple_b", "data": 0, "count": 1 }
+}

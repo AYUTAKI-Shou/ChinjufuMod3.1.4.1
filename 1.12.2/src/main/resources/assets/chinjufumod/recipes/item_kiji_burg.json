@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "chinjufumod",
+
+	"ingredients": [
+		{ "item": "minecraft:egg" },
+		{ "item": "minecraft:beef" },
+		{ "item": "chinjufumod:item_salt" },
+		{ "item": "chinjufumod:item_food_onion" },
+		{ "item": "chinjufumod:item_food_bun" }
+	],
+
+	"result": {	"item": "chinjufumod:item_kiji_burg", "data": 0, "count" : 1 }
+}

@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "chinjufumod",
+
+	"pattern": [
+		"X X",
+		" X "
+	],
+
+	"key": {
+		"X": { "item": "minecraft:clay_ball", "data": 0 }
+	},
+
+	"result": {	"item": "chinjufumod:item_clay_chawan", "data": 0, "count": 3 }
+}

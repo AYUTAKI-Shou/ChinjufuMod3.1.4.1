@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "chinjufumod",
+
+	"pattern": [
+		"XY",
+		"YX"
+	],
+
+	"key": {
+		"X": { "item": "chinjufumod:block_kawara_black", "data": 0 },
+		"Y": { "item": "chinjufumod:block_plaster_pink", "data": 0 }
+	},
+
+	"result": {	"item": "chinjufumod:block_namako_pink", "data": 0, "count": 4 }
+}

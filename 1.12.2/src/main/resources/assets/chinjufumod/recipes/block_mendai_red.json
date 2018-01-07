@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "chinjufumod",
+
+	"pattern": [
+		"X",
+		"Y"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:wool", "data": 14 },
+		"Y": { "item": "chinjufumod:block_mendai", "data": 0 }
+	},
+
+	"result": {	"item": "chinjufumod:block_mendai_red", "data": 0, "count": 1 }
+}

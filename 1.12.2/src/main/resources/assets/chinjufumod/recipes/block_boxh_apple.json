@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "chinjufumod",
+
+	"pattern": [
+		"XXX",
+		"XYX",
+		"XXX"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:apple", "data": 0 },
+		"Y": { "item": "chinjufumod:block_boxh_empty", "data": 0 }
+	},
+
+	"result": {	"item": "chinjufumod:block_boxh_apple", "data": 0, "count": 1 }
+}

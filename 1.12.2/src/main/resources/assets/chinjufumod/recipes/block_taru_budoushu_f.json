@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "chinjufumod",
+
+	"ingredients": [
+		{ "item": "chinjufumod:item_food_grape" },
+		{ "item": "chinjufumod:item_food_grape" },
+		{ "item": "chinjufumod:item_food_grape" },
+		{ "item": "chinjufumod:item_food_grape" },
+		{ "item": "chinjufumod:item_food_grape" },
+		{ "item": "chinjufumod:item_food_grape" },
+		{ "item": "chinjufumod:item_food_grape" },
+		{ "item": "chinjufumod:item_koubo" },
+		{ "item": "chinjufumod:block_taru_hakkou" }
+	],
+
+	"result": {	"item": "chinjufumod:block_taru_budoushu_f", "data": 0, "count": 1 }
+}

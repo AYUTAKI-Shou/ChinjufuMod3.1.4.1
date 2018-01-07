@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cmodwadeco",
+
+	"pattern": [
+		"X",
+		"Y"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:bucket", "data": 0 },
+		"Y": { "item": "minecraft:stone", "data": 5 }
+	},
+
+	"result": {	"item": "chinjufumod:block_chouzu_and_kara", "data": 0, "count": 1 }
+}

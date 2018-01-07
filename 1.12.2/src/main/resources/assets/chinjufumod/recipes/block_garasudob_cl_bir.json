@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "chinjufumod",
+
+	"pattern": [
+		"X"
+	],
+
+	"key": {
+		"X": { "item": "chinjufumod:block_garasudo_cl_bir", "data": 0 }
+	},
+
+	"result": {	"item": "chinjufumod:block_garasudob_cl_bir", "data": 0, "count": 1 }
+}

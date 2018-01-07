@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "chinjufumod",
+
+	"pattern": [
+		"X"
+	],
+
+	"key": {
+		"X": { "item": "chinjufumod:block_fusuma_cl_gray", "data": 0 }
+	},
+
+	"result": {	"item": "chinjufumod:block_fusumab_cl_gray", "data": 0, "count": 1 }
+}

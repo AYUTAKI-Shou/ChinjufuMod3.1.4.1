@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "chinjufumod",
+
+	"pattern": [
+		"XXX",
+		"XYX",
+		"XXX"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:paper" },
+		"Y": { "item": "chinjufumod:item_admiralstamp", "data": 32767 }
+	},
+
+	"result": {	"item": "chinjufumod:item_workorder", "data": 0, "count": 8 }
+}

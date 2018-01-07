@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "chinjufumod",
+
+	"ingredients": [
+		{ "item": "minecraft:brown_mushroom" },
+		{ "item": "chinjufumod:item_mushigome" },
+		{ "item": "chinjufumod:block_taru_hakkou" }
+	],
+
+	"result": {	"item": "chinjufumod:block_taru_kouji_f", "data": 0, "count": 1 }
+}

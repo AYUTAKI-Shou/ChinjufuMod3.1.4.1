@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "chinjufumod",
+
+	"pattern": [
+		"X",
+		"X",
+		"X"
+	],
+
+	"key": {
+		"X": [ { "item": "minecraft:wheat", "data": 0 },
+			   { "item": "chinjufumod:item_ine", "data": 0 } ]
+	},
+
+	"result": {	"item": "chinjufumod:block_wara_zabuton", "data": 0, "count": 1 }
+}

@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "chinjufumod",
+
+	"pattern": [
+		" X ",
+		"YYY",
+		"YYY"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:wooden_slab", "data": 0 },
+		"Y": { "item": "minecraft:stick", "data": 0 }
+	},
+
+	"result": {	"item": "chinjufumod:block_koushi_oak", "data": 0, "count": 1 }
+}

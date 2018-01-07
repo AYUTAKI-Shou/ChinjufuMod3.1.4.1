@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "chinjufumod",
+
+	"pattern": [
+		"XXX",
+		"XYX",
+		"XXX"
+	],
+
+	"key": {
+		"X": { "item": "chinjufumod:item_shousekkai_c", "data": 0 },
+		"Y": { "item": "minecraft:water_bucket", "data": 0 }
+	},
+
+	"result": {	"item": "chinjufumod:block_plaster_white", "data": 0, "count": 8 }
+}

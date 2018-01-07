@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "chinjufumod",
+
+	"ingredients": [
+		{ "item": "minecraft:potato" },
+		{ "item": "minecraft:carrot" },
+		{ "item": "minecraft:beef" },
+		{ "item": "minecraft:water_bucket" },
+		{ "item": "chinjufumod:item_food_onion" },
+		{ "item": "chinjufumod:block_food_zundou" }
+	],
+
+	"result": {	"item": "chinjufumod:block_food_cunabe_n", "data": 0, "count" : 1 }
+}

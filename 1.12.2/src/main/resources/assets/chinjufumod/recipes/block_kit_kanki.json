@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "chinjufumod",
+
+	"ingredients": [
+		{ "type": "forge:ore_dict", "ore": "ingotAluminium" },
+		{ "item": "minecraft:redstone", "data": 0 },
+		{ "item": "chinjufumod:block_kit_duct", "data": 0 },
+		{ "item": "minecraft:feather", "data": 0 },
+		{ "item": "minecraft:feather", "data": 0 },
+		{ "item": "minecraft:feather", "data": 0 },
+		{ "item": "minecraft:feather", "data": 0 },
+		{ "item": "minecraft:feather", "data": 0 }
+	],
+
+	"result": {	"item": "chinjufumod:block_kit_kanki", "data": 0, "count" : 1 }
+}

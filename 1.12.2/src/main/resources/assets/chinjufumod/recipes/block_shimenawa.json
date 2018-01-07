@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "chinjufumod",
+
+	"pattern": [
+		"ZZZ",
+		"ZXZ",
+		"ZYZ"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:double_plant", "data": 5 },
+		"Y": { "item": "minecraft:paper", "data": 0 },
+		"Z": [ { "item": "minecraft:wheat", "data": 0 },
+			   { "item": "chinjufumod:item_ine", "data": 0 } ]
+	},
+
+	"result": {	"item": "chinjufumod:block_shimenawa", "data": 0, "count": 1 }
+}

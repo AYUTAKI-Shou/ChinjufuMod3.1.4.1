@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "chinjufumod",
+
+	"pattern": [
+		"XX",
+		"XX"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:stone", "data": 4 }
+	},
+
+	"result": {	"item": "chinjufumod:block_brick_dio_c", "data": 0, "count": 4 }
+}

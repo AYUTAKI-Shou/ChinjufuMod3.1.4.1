@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "chinjufumod",
+
+	"pattern": [
+		"XXX",
+		"XYX",
+		"XXX"
+	],
+
+	"key": {
+		"X": { "item": "chinjufumod:block_fusuma_cl", "data": 0 },
+		"Y": { "item": "minecraft:dye", "data": 7 }
+	},
+
+	"result": {	"item": "chinjufumod:block_fusuma_cl_lightg", "data": 0, "count": 8 }
+}

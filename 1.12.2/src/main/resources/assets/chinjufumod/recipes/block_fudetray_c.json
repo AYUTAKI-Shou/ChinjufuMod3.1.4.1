@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "chinjufumod",
+
+	"pattern": [
+		"XY",
+		"Z#"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:paper", "data": 0 },
+		"Y": { "item": "chinjufumod:item_sumi_c", "data": 0 },
+		"Z": { "item": "minecraft:wooden_slab", "data": 0 },
+		"#": { "item": "minecraft:stick", "data": 0 }
+	},
+
+	"result": {	"item": "chinjufumod:block_fudetray_c", "data": 0, "count": 1 }
+}

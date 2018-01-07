@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "chinjufumod",
+
+	"pattern": [
+		"X"
+	],
+
+	"key": {
+		"X": { "item": "chinjufumod:item_food_tomato", "data": 0 }
+	},
+
+	"result": {	"item": "chinjufumod:item_seeds_tomato", "data": 0, "count": 1 }
+}

@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "chinjufumod",
+
+	"pattern": [
+		"X",
+		"Y",
+		"X"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:carpet", "data": 1 },
+		"Y": { "item": "minecraft:carpet", "data": 0 }
+	},
+
+	"result": {	"item": "chinjufumod:block_mzabuton_orange", "data": 0, "count": 1 }
+}
