@@ -1,0 +1,1386 @@
+#ポルトガル語
+#Tab
+itemGroup.tab_chinjufumod=CHINJUFU MOD
+itemGroup.tab_cmodwadeco=CHINJUFU MOD_japanese decoration
+itemGroup.tab_cmodwablock=CHINJUFU MOD_japanese block
+itemGroup.tab_wallpanel=Wall Panel MOD
+itemGroup.tab_teatime=CHINJUFU MOD_Tea Time
+itemGroup.tab_seasonal=CHINJUFU MOD_seasonal
+
+#Config
+config.bauxiteore.prop.enabledGenerator=Produção de minério
+config.bauxiteore.prop.enabledGenerator.tooltip=Produção de minério de bauxita [true / false]
+
+#Block
+tile.block_empty_box.name=Caixas vazias
+tile.block_fuel_can.name=Latas de combustível
+tile.block_ammunition_box.name=Caixa de munição
+tile.block_steel_block.name=Bloco de aço
+tile.block_bauxite_box.name=Caixa de bauxita
+tile.block_stamp_block.name=Almirante do selo_bloco
+
+tile.block_bauxite_ore.name=Minério de bauxita
+
+#Item
+item.item_emblem_c.name=emblema
+item.item_admiral_stamp.name=Almirante do selo
+tips.item.item_admiral_stamp.name=Este é um material de artesanato sob a forma de um selo.
+item.item_work_order.name=Ordem de trabalho
+item.item_bauxite.name=Bauxita
+item.item_sumi_c.name=SUMI
+tips.item.item_sumi.name=Fuligem curado usando um adesivo
+
+item.item_shousekkai_c.name=Cal apagada
+tips.item.item_shousekkai_c.name=Material de SHIKKUI.
+
+item.item_claykawara.name=Argila de moldagem_KAWARA
+tips.item.item_claykawara.name=Queime em uma fornalha, isto transforma-se em KAWARA.
+
+#Weapon
+item.item_ammunition_kc.name=munição
+item.item_cartridge_kc.name=Cápsulas vazias
+item.item_rensouhou127.name=Canhão naval de 12.7cm
+item.item_shigurehou.name=SHIGURE canhão
+item.item_koukakuhou100.name=Canhão antiaéreo naval de 10.0cm
+
+#Armor
+item.item_fubuki_helmet.name=Tipo FUBUKI_capacete
+item.item_fubuki_chestplate.name=Tipo FUBUKI_peitoral
+item.item_fubuki_leggings.name=Tipo FUBUKI_perneiras
+item.item_fubuki_boots.name=Tipo FUBUKI_botas
+
+item.item_kasumi_helmet.name=Tipo KASUMI_capacete
+item.item_kasumi_chestplate.name=Tipo KASUMI_peitoral
+item.item_kasumi_leggings.name=Tipo KASUMI_perneiras
+item.item_kasumi_boots.name=Tipo KASUMI_botas
+
+item.item_shigure_helmet.name=Tipo SHIGURE_capacete
+item.item_shigure_chestplate.name=Tipo SHIGURE_peitoral
+item.item_shigure_leggings.name=Tipo SHIGURE_perneiras
+item.item_shigure_boots.name=Tipo SHIGURE_botas
+
+item.item_shiratsuyu_helmet.name=Tipo SHIRATUYU_capacete
+item.item_shiratsuyu_chestplate.name=Tipo SHIRATUYU_peitoral
+item.item_shiratsuyu_leggings.name=Tipo SHIRATUYU_perneiras
+item.item_shiratsuyu_boots.name=Tipo SHIRATUYU_botas
+
+#LetterTray
+tile.block_lowdesk.name=Mesa baixa
+tile.block_lowdesk_a.name=Mesa baixa_acácia
+tile.block_lowdesk_b.name=Mesa baixa_bétula
+tile.block_lowdesk_d.name=Mesa baixa_carvalho escuro
+tile.block_lowdesk_j.name=Mesa baixa_selva
+tile.block_lowdesk_s.name=Mesa baixa_abeto
+
+tile.block_lettertray_c.name=Quill conjunto de canetas
+tile.block_letterdesk_ac.name=Mesa de carta_acácia
+tile.block_letterdesk_bc.name=Mesa de carta_bétula
+tile.block_letterdesk_dc.name=Mesa de carta_carvalho escuro
+tile.block_letterdesk_jc.name=Mesa de carta_selva
+tile.block_letterdesk_oc.name=Mesa de carta_carvalho
+tile.block_letterdesk_sc.name=Mesa de carta_abeto
+
+tile.block_fudetray_c.name=Pincel e tinta de pedra
+tile.block_fudedesk_ac.name=Mesa de FUDE_acácia
+tile.block_fudedesk_bc.name=Mesa de FUDE_bétula
+tile.block_fudedesk_dc.name=Mesa de FUDE_carvalho escuro
+tile.block_fudedesk_jc.name=Mesa de FUDE_selva
+tile.block_fudedesk_oc.name=Mesa de FUDE_carvalho
+tile.block_fudedesk_sc.name=Mesa de FUDE_abeto
+
+#Funiture
+tile.block_admiralchair.name=Cadeira Almirante
+tile.block_admiralchair_red.name=Cadeira Almirante_vermelho
+
+tile.block_unitdesk.name=Mesa da unidade
+tile.block_unitdesk_a.name=Mesa da unidade_acácia
+tile.block_unitdesk_b.name=Mesa da unidade_bétula
+tile.block_unitdesk_d.name=Mesa da unidade_carvalho escuro
+tile.block_unitdesk_j.name=Mesa da unidade_selva
+tile.block_unitdesk_s.name=Mesa da unidade_abeto
+
+tile.block_dressingtable.name=Penteadeira
+tile.block_dressingtable_a.name=Penteadeira_acácia
+tile.block_dressingtable_b.name=Penteadeira_bétula
+tile.block_dressingtable_d.name=Penteadeira_carvalho escuro
+tile.block_dressingtable_j.name=Penteadeira_selva
+tile.block_dressingtable_s.name=Penteadeira_abeto
+
+tile.block_diningchair.name=Cadeira de jantar
+tile.block_diningchair_a.name=Cadeira de jantar_acácia
+tile.block_diningchair_b.name=Cadeira de jantar_bétula
+tile.block_diningchair_d.name=Cadeira de jantar_carvalho escuro
+tile.block_diningchair_j.name=Cadeira de jantar_selva
+tile.block_diningchair_s.name=Cadeira de jantar_abeto
+
+tile.block_cafechair_black.name=Cadeira de café_preto
+tile.block_cafechair_blue.name=Cadeira de café_azul
+tile.block_cafechair_brown.name=Cadeira de café_castanho
+tile.block_cafechair_cyan.name=Cadeira de café_azul ciano
+tile.block_cafechair_gray.name=Cadeira de café_cinzento
+tile.block_cafechair_green.name=Cadeira de café_verde
+tile.block_cafechair_lightb.name=Cadeira de café_azul claro
+tile.block_cafechair_lightg.name=Cadeira de café_cinzento claro
+tile.block_cafechair_lime.name=Cadeira de café_verde lima
+tile.block_cafechair_magenta.name=Cadeira de café_magenta
+tile.block_cafechair_orange.name=Cadeira de café_laranja
+tile.block_cafechair_pink.name=Cadeira de café_rosa
+tile.block_cafechair_purple.name=Cadeira de café_roxo
+tile.block_cafechair_red.name=Cadeira de café_vermelho
+tile.block_cafechair_white.name=Cadeira de café_branco
+tile.block_cafechair_yellow.name=Cadeira de café_amarelo
+
+tile.block_zaisu_black.name=ZAISU_preto
+tile.block_zaisu_blue.name=ZAISU_azul
+tile.block_zaisu_brown.name=ZAISU_castanho
+tile.block_zaisu_cyan.name=ZAISU_azul ciano
+tile.block_zaisu_gray.name=ZAISU_cinzento
+tile.block_zaisu_green.name=ZAISU_verde
+tile.block_zaisu_lightb.name=ZAISU_azul claro
+tile.block_zaisu_lightg.name=ZAISU_cinzento claro
+tile.block_zaisu_lime.name=ZAISU_verde lima
+tile.block_zaisu_magenta.name=ZAISU_magenta
+tile.block_zaisu_orange.name=ZAISU_laranja
+tile.block_zaisu_pink.name=ZAISU_rosa
+tile.block_zaisu_purple.name=ZAISU_roxo
+tile.block_zaisu_red.name =ZAISU_vermelho
+tile.block_zaisu_white.name=ZAISU_branco
+tile.block_zaisu_yellow.name=ZAISU_amarelo
+tips.tile.block_zaisu.name=Cadeira sem pernas.
+
+#School
+tile.block_blackboard.name=Lousa
+
+tile.block_schoolchair.name=Cadeira escolar
+tile.block_schoolchair_a.name=Cadeira escolar_acácia
+tile.block_schoolchair_b.name=Cadeira escolar_bétula
+tile.block_schoolchair_d.name=Cadeira escolar_carvalho escuro
+tile.block_schoolchair_j.name=Cadeira escolar_selva
+tile.block_schoolchair_s.name=Cadeira escolar_abeto
+
+tile.block_schooldesk.name=Carteira escolar
+tile.block_schooldesk_a.name=Carteira escolar_acácia
+tile.block_schooldesk_b.name=Carteira escolar_bétula
+tile.block_schooldesk_d.name=Carteira escolar_carvalho escuro
+tile.block_schooldesk_j.name=Carteira escolar_selva
+tile.block_schooldesk_s.name=Carteira escolar_abeto
+
+tile.block_teacherdesk.name=Mesa do professor
+tile.block_teacherdesk_a.name=Mesa do professor_acácia
+tile.block_teacherdesk_b.name=Mesa do professor_bétula
+tile.block_teacherdesk_d.name=Mesa do professor_carvalho escuro
+tile.block_teacherdesk_j.name=Mesa do professor_selva
+tile.block_teacherdesk_s.name=Mesa do professor_abeto
+
+tile.block_window_cl.name=Janela
+tile.block_window_cl_a.name=Janela_acácia
+tile.block_window_cl_b.name=Janela_bétula
+tile.block_window_cl_d.name=Janela_carvalho escuro
+tile.block_window_cl_j.name=Janela_selva
+tile.block_window_cl_s.name=Janela_abeto
+tips.tile.block_window_cl.name=Clique direito para abrir.
+
+tile.block_schimney_joint.name=Base da chaminé
+tile.block_stovechimney.name=Chaminé
+tile.block_stovechimney_topk.name=Topo da chaminé_guarda-chuva
+
+#Mamiya
+tile.block_mendai.name=Banco
+tile.block_mendai_red.name=Banco_vermelho
+
+tile.block_mzabuton_black.name=ZABUTON_preto
+tile.block_mzabuton_blue.name=ZABUTON_azul
+tile.block_mzabuton_brown.name=ZABUTON_castanho
+tile.block_mzabuton_cyan.name=ZABUTON_azul ciano
+tile.block_mzabuton_gray.name=ZABUTON_cinzento
+tile.block_mzabuton_green.name=ZABUTON_verde
+tile.block_mzabuton_lightb.name=ZABUTON_azul claro
+tile.block_mzabuton_lightg.name=ZABUTON_cinzento claro
+tile.block_mzabuton_lime.name=ZABUTON_verde lima
+tile.block_mzabuton_magenta.name=ZABUTON_magenta
+tile.block_mzabuton_orange.name=ZABUTON_laranja
+tile.block_mzabuton_pink.name=ZABUTON_rosa
+tile.block_mzabuton_purple.name=ZABUTON_roxo
+tile.block_mzabuton_red.name=ZABUTON_vermelho
+tile.block_mzabuton_white.name=ZABUTON_branco
+tile.block_mzabuton_yellow.name=ZABUTON_amarelo
+tile.block_wara_zabuton.name=ZABUTON_palha
+tips.tile.block_mzabuton.name=Almofada de assento.
+
+tile.block_cafetable.name=Mesa de café
+tile.block_cafetable_a.name=Mesa de café_acácia
+tile.block_cafetable_b.name=Mesa de café_bétula
+tile.block_cafetable_d.name=Mesa de café_carvalho escuro
+tile.block_cafetable_j.name=Mesa de café_selva
+tile.block_cafetable_s.name=Mesa de café_abeto
+
+tile.block_logchair.name=Cadeiras de tocos
+tile.block_logchair_a.name=Cadeiras de tocos_acácia
+tile.block_logchair_b.name=Cadeiras de tocos_bétula
+tile.block_logchair_d.name=Cadeiras de tocos_carvalho escuro
+tile.block_logchair_j.name=Cadeiras de tocos_selva
+tile.block_logchair_s.name=Cadeiras de tocos_abeto
+
+tile.block_mkasa_black.name=Bloco de WAGASA_preto
+tile.block_mkasa_blue.name=Bloco de WAGASA_azul
+tile.block_mkasa_brown.name=Bloco de WAGASA_castanho
+tile.block_mkasa_cyan.name=Bloco de WAGASA_azul ciano
+tile.block_mkasa_gray.name=Bloco de WAGASA_cinzento
+tile.block_mkasa_green.name=Bloco de WAGASA_verde
+tile.block_mkasa_lightb.name=Bloco de WAGASA_azul claro
+tile.block_mkasa_lightg.name=Bloco de WAGASA_cinzento claro
+tile.block_mkasa_lime.name=Bloco de WAGASA_verde lima
+tile.block_mkasa_magenta.name=Bloco de WAGASA_magenta
+tile.block_mkasa_orange.name=Bloco de WAGASA_laranja
+tile.block_mkasa_pink.name=Bloco de WAGASA_rosa
+tile.block_mkasa_purple.name=Bloco de WAGASA_roxo
+tile.block_mkasa_red.name=Bloco de WAGASA_vermelho
+tile.block_mkasa_white.name=Bloco de WAGASA_branco
+tile.block_mkasa_yellow.name=Bloco de WAGASA_amarelo
+tips.tile.block_mkasa.name=Guarda-chuva de estilo japonês.
+
+#Harbor
+tile.block_keikaiblock.name=Bloco de vigilância
+tile.block_keiryukui.name=Pilha de amarração
+tile.block_keiryukui_b.name=Pilha de amarração_preto
+
+tile.block_ctruss.name=Treliça
+tile.block_ctruss_black.name=Treliça_preto
+tile.block_ctruss_blue.name=Treliça de Azu
+tile.block_ctruss_brown.name=Treliça_castanho
+tile.block_ctruss_cyan.name=Treliça_azul ciano
+tile.block_ctruss_gray.name=Treliça_cinzento
+tile.block_ctruss_green.name=Treliça_verde
+tile.block_ctruss_lightb.name=Treliça_azul claro
+tile.block_ctruss_lime.name=Treliça_verde lima
+tile.block_ctruss_magenta.name=Treliça_magenta
+tile.block_ctruss_orange.name=Treliça_laranja
+tile.block_ctruss_pink.name=Treliça_rosa
+tile.block_ctruss_purple.name=Treliça_roxo
+tile.block_ctruss_red.name=Treliça_vermelho
+tile.block_ctruss_white.name=Treliça_branco
+tile.block_ctruss_yellow.name=Treliça_amarelo
+
+#Seasons
+tile.block_kagamimochi.name=KAGAMIMOCHI
+tips.tile.block_kagamimochi.name=A oferta para "TOSHIGAMI". Rezar por uma boa colheita. Dec.28-Jan.11
+tile.block_shimenawa.name=SHIMENAWA
+tips.tile.block_shimenawa.name=Decoração de Ano Novo para acolher "TOSHIGAMI". Diga "TOSHIGAMI" para limpar a casa. Dec.13-Jan.15
+tile.block_kadomatsu.name=KADOMATSU
+tips.tile.block_kadomatsu.name=Decoração de Ano Novo para acolher "TOSHIGAMI".Para orar pela longevidade. Dec.13-Jan.15
+
+tile.block_yunomi.name=YUNOMI
+tips.tile.block_yunomi.name=Copo de chá japonês.
+
+tile.block_chabudai.name=CHABUDAI
+tile.block_chabudai_aca.name=CHABUDAI_acácia
+tile.block_chabudai_bir.name=CHABUDAI_bétula
+tile.block_chabudai_doak.name=CHABUDAI_carvalho escuro
+tile.block_chabudai_jun.name=CHABUDAI_selva
+tile.block_chabudai_spru.name=CHABUDAI_abeto
+tips.tile.block_chabudai.name=Mesa baixa para refeições.
+
+tile.block_kotatsu.name=KOTATSU
+tile.block_kotatsu_aca.name=KOTATSU_acácia
+tile.block_kotatsu_bir.name=KOTATSU_bétula
+tile.block_kotatsu_doak.name=KOTATSU_carvalho escuro
+tile.block_kotatsu_jun.name=KOTATSU_selva
+tile.block_kotatsu_spru.name=KOTATSU_abeto
+tips.tile.block_kotatsu.name=Equipamentos de aquecimento combinando mesa e colcha.
+
+tile.block_hinadan.name=HINADAN
+tips.tile.block_hinadan.name=A base de HINAKAZARI.
+tile.block_hinakazari.name=HINAKAZARI
+tips.tile.block_hinakazari.name=Decoração "HINAMATSURI". Mar.3 é "HINAMATSURI" para orar pelo crescimento saudável das meninas.
+
+#Wallpane
+tile.block_pillar_aca_c.name=Pilar_acácia
+tile.block_pillar_bir_c.name=Pilar_bétula
+tile.block_pillar_doak_c.name=Pilar_carvalho escuro
+tile.block_pillar_jun_c.name=Pilar_selva
+tile.block_pillar_oak_c.name=Pilar_carvalho
+tile.block_pillar_spru_c.name=Pilar_abeto
+
+tile.block_bricks_and_c.name=Tijolos de andesito
+tile.block_bricks_dio_c.name=Tijolos de diorito
+tile.block_bricks_gra_c.name=Tijolos de granito
+
+tile.block_bricks_and_ch_c.name=Tijolos de andesito cinzelados
+tile.block_bricks_dio_ch_c.name=Tijolos de diorito cinzelados
+tile.block_bricks_gra_ch_c.name=Tijolos de granito cinzelados
+
+tile.block_bricks_and_cr_c.name=Tijolos de andesito rachados
+tile.block_bricks_dio_cr_c.name=Tijolos de diorito rachados
+tile.block_bricks_gra_cr_c.name=Tijolos de granito rachados
+
+tile.block_bricks_and_mos_c.name=Tijolos de andesito com musgo
+tile.block_bricks_dio_mos_c.name=Tijolos de diorito com musgo
+tile.block_bricks_gra_mos_c.name=Tijolos de granito com musgo
+
+
+tile.block_brickstairs_and_c.name=Escadas de tijolos de andesito
+tile.block_brickstairs_dio_c.name=Escadas de tijolos de diorito
+tile.block_brickstairs_gra_c.name=Escadas de tijolos de granito
+
+tile.block_bac_slabhalf.name=Degrau de tijolos de andesito
+tile.block_bdc_slabhalf.name=Degrau de tijolos de diorito
+tile.block_bgc_slabhalf.name=Degrau de tijolos de granito
+
+tile.block_brick_stone_pil_c.name=Painel pilar de pedra
+tile.block_brick_and_pil_c.name=Painel pilar de andesito
+tile.block_brick_dio_pil_c.name=Painel pilar de diorito
+tile.block_brick_gra_pil_c.name=Painel pilar de granito
+
+tile.block_wp_log_aca.name=Painel Madeira acácia
+tile.block_wp_log_bir.name=Painel Madeira bétula
+tile.block_wp_log_doak.name=Painel Madeira carvalho escuro
+tile.block_wp_log_jun.name=Painel Madeira selva
+tile.block_wp_log_oak.name=Painel Madeira carvalho
+tile.block_wp_log_spru.name=Painel Madeira abeto
+
+tile.block_wp_plank_aca.name=Painel Acácia
+tile.block_wp_plank_bir.name=Painel Bétula
+tile.block_wp_plank_doak.name=Painel Carvalho escuro
+tile.block_wp_plank_jun.name=Painel Selva
+tile.block_wp_plank_oak.name=Painel Carvalho
+tile.block_wp_plank_spru.name=Painel Abeto
+
+tile.block_wp_stone.name=Painel Pedra
+tile.block_wp_stone_m.name=Painel Empedrado
+
+tile.block_wp_stone_and.name=Painel Andesito
+tile.block_wp_stone_dio.name=Painel Diorito
+tile.block_wp_stone_gra.name=Painel Granito
+
+tile.block_wp_stone_b.name=Painel Tijolos de pedra
+tile.block_wp_stone_andb.name=Painel Tijolos de andesito
+tile.block_wp_stone_diob.name=Painel Tijolos de diorito
+tile.block_wp_stone_grab.name=Painel Tijolos de granito
+
+tile.block_wp_stone_p.name=Painel Pilar de pedra
+tile.block_wp_stone_andp.name=Painel Pilar de andesito
+tile.block_wp_stone_diop.name=Painel Pilar de diorito
+tile.block_wp_stone_grap.name=Painel Pilar de granito
+
+tile.block_wp_brick.name=Painel tijolos
+
+tile.block_wp_sand_stone.name=Painel Arenito
+tile.block_wp_redsand_stone.name=Painel Arenito vermelho
+
+tile.block_wp_prisma.name=Painel Prismarinho
+tile.block_wp_obsidian.name=Painel Obsidiana
+
+tile.block_wp_clay.name=Painel Barro endurecido
+tile.block_wp_clay_black.name=Painel Barro tingido_preto
+tile.block_wp_clay_blue.name=Painel Barro tingido_azul
+tile.block_wp_clay_brown.name=Painel Barro tingido_castanho
+tile.block_wp_clay_cyan.name=Painel Barro tingido_azul ciano
+tile.block_wp_clay_gray.name=Painel Barro tingido_cinzento
+tile.block_wp_clay_green.name=Painel Barro tingido_verde
+tile.block_wp_clay_lightb.name=Painel Barro tingido_azul claro
+tile.block_wp_clay_lightg.name=Painel Barro tingido_cinzento claro
+tile.block_wp_clay_lime.name=Painel Barro tingido_verde lima
+tile.block_wp_clay_magenta.name=Painel Barro tingido_magenta
+tile.block_wp_clay_orange.name=Painel Barro tingido_laranja
+tile.block_wp_clay_pink.name=Painel Barro tingido_rosa
+tile.block_wp_clay_purple.name=Painel Barro tingido_roxo
+tile.block_wp_clay_red.name=Painel Barro tingido_vermelho
+tile.block_wp_clay_white.name=Painel Barro Tingido_branco
+tile.block_wp_clay_yellow.name=Painel Barro tingido_amarelo
+
+tile.block_wp_glass.name=Painel Vidro
+tile.block_wp_glass_black.name=Painel Vidro tingido_preto
+tile.block_wp_glass_blue.name=Painel Vidro tingido_azul
+tile.block_wp_glass_brown.name=Painel Vidro tingido_castanho
+tile.block_wp_glass_cyan.name=Painel Vidro tingido_azul ciano
+tile.block_wp_glass_gray.name=Painel Vidro tingido_cinzento
+tile.block_wp_glass_green.name=Painel Vidro tingido_verde
+tile.block_wp_glass_lightb.name=Painel Vidro tingido_azul claro
+tile.block_wp_glass_lightg.name=Painel Vidro tingido_cinzento claro
+tile.block_wp_glass_lime.name=Painel Vidro tingido_verde lima
+tile.block_wp_glass_magenta.name=Painel Vidro tingido_magenta
+tile.block_wp_glass_orange.name=Painel Vidro tingido_laranja
+tile.block_wp_glass_pink.name=Painel Vidro tingido_rosa
+tile.block_wp_glass_purple.name=Painel Vidro tingido_roxo
+tile.block_wp_glass_red.name=Painel Vidro tingido_vermelho
+tile.block_wp_glass_white.name=Painel Vidro tingido_branco
+tile.block_wp_glass_yellow.name=Painel Vidro tingido_amarelo
+
+tile.block_wp_netherrack.name=Painel Netherrack
+tile.block_wp_netherb.name=Painel Tijolos do Nether
+tile.block_wp_netherb10.name=Painel Tijolos do Nether
+tile.block_wp_quartz.name=Painel Quartzo
+tile.block_wp_quartz_pil.name=Painel Quartzo de Pilar
+
+tile.block_wp_endston.name=Painel End
+tile.block_wp_endston_b.name=Painel Tijolos do End
+
+tile.block_wp_purpur.name=Painel Púrpura
+tile.block_wp_purpur_pil.name=Painel Pilar de Púrpura
+
+tile.block_wp_dirtwall.name=Painel barro parede
+tile.block_wp_plaster_black.name=Painel SHIKKUI_preto
+tile.block_wp_plaster_blue.name=Painel SHIKKUI_azul
+tile.block_wp_plaster_brown.name=Painel SHIKKUI_castanho
+tile.block_wp_plaster_cyan.name=Painel SHIKKUI_azul ciano
+tile.block_wp_plaster_gray.name=Painel SHIKKUI_cinzento
+tile.block_wp_plaster_green.name=Painel SHIKKUI_verde
+tile.block_wp_plaster_lightb.name=Painel SHIKKUI_azul claro
+tile.block_wp_plaster_lightg.name=Painel SHIKKUI_cinzento claro
+tile.block_wp_plaster_lime.name=Painel SHIKKUI_verde lima
+tile.block_wp_plaster_magenta.name=Painel SHIKKUI_magenta
+tile.block_wp_plaster_orange.name=Painel SHIKKUI_laranja
+tile.block_wp_plaster_pink.name=Painel SHIKKUI_rosa
+tile.block_wp_plaster_purple.name=Painel SHIKKUI_roxo
+tile.block_wp_plaster_red.name=Painel SHIKKUI_vermelho
+tile.block_wp_plaster_white.name=Painel SHIKKUI_branco
+tile.block_wp_plaster_yellow.name=Painel SHIKKUI_amarelo
+
+tile.block_wp_namako_black.name=Painel NAMAKO parede_preto
+tile.block_wp_namako_blue.name=Painel NAMAKO parede_azul
+tile.block_wp_namako_brown.name=Painel NAMAKO parede_castanho
+tile.block_wp_namako_cyan.name=Painel NAMAKO parede_azul ciano
+tile.block_wp_namako_gray.name=Painel NAMAKO parede_cinzento
+tile.block_wp_namako_green.name=Painel NAMAKO parede_verde
+tile.block_wp_namako_lightb.name=Painel NAMAKO parede_azul claro
+tile.block_wp_namako_lightg.name=Painel NAMAKO parede_cinzento claro
+tile.block_wp_namako_lime.name=Painel NAMAKO parede_verde lima
+tile.block_wp_namako_magenta.name=Painel NAMAKO parede_magenta
+tile.block_wp_namako_orange.name=Painel NAMAKO parede_laranja
+tile.block_wp_namako_pink.name=Painel NAMAKO parede_rosa
+tile.block_wp_namako_purple.name=Painel NAMAKO parede_roxo
+tile.block_wp_namako_red.name=Painel NAMAKO parede_vermelho
+tile.block_wp_namako_white.name=Painel NAMAKO parede_branco
+tile.block_wp_namako_yellow.name=Painel NAMAKO parede_amarelo
+
+tile.block_wp_namako_b_black.name=Painel NAMAKO parede tipo2_preto
+tile.block_wp_namako_b_blue.name=Painel NAMAKO parede tipo2_azul
+tile.block_wp_namako_b_brown.name=Painel NAMAKO parede tipo2_castanho
+tile.block_wp_namako_b_cyan.name=Painel NAMAKO parede tipo2_azul ciano
+tile.block_wp_namako_b_gray.name=Painel NAMAKO parede tipo2_cinzento
+tile.block_wp_namako_b_green.name=Painel NAMAKO parede tipo2_verde
+tile.block_wp_namako_b_lightb.name=Painel NAMAKO parede tipo2_azul claro
+tile.block_wp_namako_b_lightg.name=Painel NAMAKO parede tipo2_cinzento claro
+tile.block_wp_namako_b_lime.name=Painel NAMAKO parede tipo2_verde lima
+tile.block_wp_namako_b_magenta.name=Painel NAMAKO parede tipo2_magenta
+tile.block_wp_namako_b_orange.name=Painel NAMAKO parede tipo2_laranja
+tile.block_wp_namako_b_pink.name=Painel NAMAKO parede tipo2_rosa
+tile.block_wp_namako_b_purple.name=Painel NAMAKO parede tipo2_roxo
+tile.block_wp_namako_b_red.name=Painel NAMAKO parede tipo2_vermelho
+tile.block_wp_namako_b_white.name=Painel NAMAKO parede tipo2_branco
+tile.block_wp_namako_b_yellow.name=Painel NAMAKO parede tipo2_amarelo
+
+#Fusuma
+tile.block_shouji_cl.name=SHOUJI
+tile.block_shouji_cl_aca.name=SHOUJI_acácia
+tile.block_shouji_cl_bir.name=SHOUJI_bétula
+tile.block_shouji_cl_doak.name=SHOUJI_carvalho escuro
+tile.block_shouji_cl_jun.name=SHOUJI_selva
+tile.block_shouji_cl_spru.name=SHOUJI_abeto
+tips.tile.block_shouji.name=É uma porta de correr e uma divisória. Clique direito [abrir / fechar].
+
+tile.block_shoujia_cl.name=SHOUJI tipo2
+tile.block_shoujia_cl_aca.name=SHOUJI tipo2_acácia
+tile.block_shoujia_cl_bir.name=SHOUJI tipo2_bétula
+tile.block_shoujia_cl_doak.name=SHOUJI tipo2_carvalho escuro
+tile.block_shoujia_cl_jun.name=SHOUJI tipo2_selva
+tile.block_shoujia_cl_spru.name=SHOUJI tipo2_abeto
+
+tile.block_shoujih_cl.name=SHOUJI janela
+tile.block_shoujih_cl_aca.name=SHOUJI janela_acácia
+tile.block_shoujih_cl_bir.name=SHOUJI janela_bétula
+tile.block_shoujih_cl_doak.name=SHOUJI janela_carvalho escuro
+tile.block_shoujih_cl_jun.name=SHOUJI janela_selva
+tile.block_shoujih_cl_spru.name=SHOUJI janela_abeto
+tips.tile.block_shoujih.name=Clique direito para abrir.
+
+tile.block_garasudo_cl.name=GARASUDO
+tile.block_garasudo_cl_aca.name=GARASUDO_acácia
+tile.block_garasudo_cl_bir.name=GARASUDO_bétula
+tile.block_garasudo_cl_doak.name=GARASUDO_carvalho escuro
+tile.block_garasudo_cl_jun.name=GARASUDO_selva
+tile.block_garasudo_cl_spru.name=GARASUDO_abeto
+
+tile.block_garasudob_cl.name=GARASUDO tipo2
+tile.block_garasudob_cl_aca.name=GARASUDO tipo2_acácia
+tile.block_garasudob_cl_bir.name=GARASUDO tipo2_bétula
+tile.block_garasudob_cl_doak.name=GARASUDO tipo2_carvalho escuro
+tile.block_garasudob_cl_jun.name=GARASUDO tipo2_selva
+tile.block_garasudob_cl_spru.name=GARASUDO tipo2_abeto
+tips.tile.block_garasudo.name=É uma porta de correr. Clique direito [abrir / fechar].
+
+tile.block_fusuma_cl.name=FUSUMA
+tile.block_fusuma_cl_black.name=FUSUMA_preto
+tile.block_fusuma_cl_blue.name=FUSUMA_azul
+tile.block_fusuma_cl_brown.name=FUSUMA_castanho
+tile.block_fusuma_cl_cyan.name=FUSUMA_azul ciano
+tile.block_fusuma_cl_gray.name=FUSUMA_cinzento
+tile.block_fusuma_cl_green.name=FUSUMA_verde
+tile.block_fusuma_cl_lightb.name=FUSUMA_azul claro
+tile.block_fusuma_cl_lightg.name=FUSUMA_cinzento claro
+tile.block_fusuma_cl_lime.name=FUSUMA_lima
+tile.block_fusuma_cl_magenta.name=FUSUMA_magenta
+tile.block_fusuma_cl_orange.name=FUSUMA_laranja
+tile.block_fusuma_cl_pink.name=FUSUMA_rosa
+tile.block_fusuma_cl_purple.name=FUSUMA_roxo
+tile.block_fusuma_cl_red.name=FUSUMA_vermelho
+tile.block_fusuma_cl_yellow.name=FUSUMA_amarelo
+tips.tile.block_fusuma.name=É uma divisória e uma porta deslizante. Clique direito [abrir / fechar].
+
+tile.block_fusumab_cl.name=FUSUMA tipo2
+tile.block_fusumab_cl_black.name=FUSUMA tipo2_preto
+tile.block_fusumab_cl_blue.name=FUSUMA tipo2_azul
+tile.block_fusumab_cl_brown.name=FUSUMA tipo2_castanho
+tile.block_fusumab_cl_cyan.name=FUSUMA tipo2_ciano
+tile.block_fusumab_cl_gray.name=FUSUMA tipo2_cinzento
+tile.block_fusumab_cl_green.name=FUSUMA tipo2_verde
+tile.block_fusumab_cl_lightb.name=FUSUMA tipo2_azul claro
+tile.block_fusumab_cl_lightg.name=FUSUMA tipo2_cinzento claro
+tile.block_fusumab_cl_lime.name=FUSUMA tipo2_lima
+tile.block_fusumab_cl_magenta.name=FUSUMA tipo2_magenta
+tile.block_fusumab_cl_orange.name=FUSUMA tipo2_laranja
+tile.block_fusumab_cl_pink.name=FUSUMA tipo2_rosa
+tile.block_fusumab_cl_purple.name=FUSUMA tipo2_roxo
+tile.block_fusumab_cl_red.name=FUSUMA tipo2_vermelho
+tile.block_fusumab_cl_yellow.name=FUSUMA tipo2_amarelo
+
+#Ranma
+tile.block_ranma_aca.name=RANMA_acácia
+tile.block_ranma_bir.name=RANMA_bétula
+tile.block_ranma_doak.name=RANMA_carvalho escuro
+tile.block_ranma_jun.name=RANMA_selva
+tile.block_ranma_oak.name=RANMA
+tile.block_ranma_spru.name=RANMA_abeto
+tips.tile.block_ranma.name=É usado para daylighting, ventilação, decoração.
+
+tile.block_ranmab_aca.name=RANMA tipo2_acácia
+tile.block_ranmab_bir.name=RANMA tipo2_bétula
+tile.block_ranmab_doak.name=RANMA tipo2_carvalho escuro
+tile.block_ranmab_jun.name=RANMA tipo2_selva
+tile.block_ranmab_oak.name=RANMA tipo2
+tile.block_ranmab_spru.name=RANMA tipo2_abeto
+
+tile.block_ranmac_aca.name=RANMA tipo3_acácia
+tile.block_ranmac_bir.name=RANMA tipo3_bétula
+tile.block_ranmac_doak.name=RANMA tipo3_carvalho escuro
+tile.block_ranmac_jun.name=RANMA tipo3_selva
+tile.block_ranmac_oak.name=RANMA tipo3
+tile.block_ranmac_spru.name=RANMA tipo3_abeto
+
+tile.block_kanki_aca.name=Respiradouro_acácia
+tile.block_kanki_bir.name=Respiradouro_bétula
+tile.block_kanki_doak.name=Respiradouro_carvalho escuro
+tile.block_kanki_jun.name=Respiradouro_selva
+tile.block_kanki_oak.name=Respiradouro
+tile.block_kanki_spru.name=Respiradouro_abeto
+
+tile.block_koushi_oak.name=Janela de treliça
+tile.block_koushi_aca.name=Janela de treliça_acácia
+tile.block_koushi_bir.name=Janela de treliça_bétula
+tile.block_koushi_doak.name=Janela de treliça_carvalho escuro
+tile.block_koushi_jun.name=Janela de treliça_selva
+tile.block_koushi_spru.name=Janela de treliça_abeto
+
+#Tatami
+tile.block_tatamih.name=TATAMI_sem borda
+tile.block_tatamih_black.name=TATAMI_preto
+tile.block_tatamih_blue.name=TATAMI_azul
+tile.block_tatamih_brown.name=TATAMI_castanho
+tile.block_tatamih_cyan.name=TATAMI_azul ciano
+tile.block_tatamih_gray.name=TATAMI_cinzento
+tile.block_tatamih_green.name=TATAMI_verde
+tile.block_tatamih_lightb.name=TATAMI_azul claro
+tile.block_tatamih_lightg.name=TATAMI_cinzento claro
+tile.block_tatamih_lime.name=TATAMI_lima
+tile.block_tatamih_magenta.name=TATAMI_magenta
+tile.block_tatamih_orange.name=TATAMI_laranja
+tile.block_tatamih_pink.name=TATAMI_rosa
+tile.block_tatamih_purple.name=TATAMI_roxo
+tile.block_tatamih_red.name=TATAMI_vermelho
+tile.block_tatamih_yellow.name=TATAMI_amarelo
+tile.block_tatamih_white.name=TATAMI_branco
+tips.tile.block_tatami.name=Material do piso usando Juncus effusus.
+
+tile.block_futon_c_black.name=FUTON_preto
+tile.block_futon_c_blue.name=FUTON_azul
+tile.block_futon_c_brown.name=FUTON_castanho
+tile.block_futon_c_cyan.name=FUTON_azul ciano
+tile.block_futon_c_gray.name=FUTON_cinzento
+tile.block_futon_c_green.name=FUTON_verde
+tile.block_futon_c_lightb.name=FUTON_azul claro
+tile.block_futon_c_lightg.name=FUTON_cinzento claro
+tile.block_futon_c_lime.name=FUTON_lima
+tile.block_futon_c_magenta.name=FUTON_magenta
+tile.block_futon_c_orange.name=FUTON_laranja
+tile.block_futon_c_pink.name=FUTON_rosa
+tile.block_futon_c_purple.name=FUTON_roxo
+tile.block_futon_c_red.name=FUTON_vermelho
+tile.block_futon_c_yellow.name=FUTON_amarelo
+tile.block_futon_c_white.name=FUTON_branco
+tips.tile.block_futon.name=Cama japonesa, edredão e colchão. Atualmente Regeneração apenas.
+
+#kawara
+tile.block_kawara_black.name=KAWARA
+tile.block_kawara_blue.name=KAWARA_azul
+tile.block_kawara_brown.name=KAWARA_castanho
+tile.block_kawara_cyan.name=KAWARA_azul ciano
+tile.block_kawara_gray.name=KAWARA_cinzento
+tile.block_kawara_green.name=KAWARA_verde
+tile.block_kawara_lightb.name=KAWARA_azul claro
+tile.block_kawara_lightg.name=KAWARA_cinzento claro
+tile.block_kawara_lime.name=KAWARA_lima
+tile.block_kawara_magenta.name=KAWARA_magenta
+tile.block_kawara_orange.name=KAWARA_laranja
+tile.block_kawara_pink.name=KAWARA_rosa
+tile.block_kawara_purple.name=KAWARA_roxo
+tile.block_kawara_red.name=KAWARA_vermelho
+tile.block_kawara_yellow.name=KAWARA_amarelo
+tile.block_kawara_white.name=KAWARA_branco
+tips.tile.block_kawara.name=Material do telhado feito pela argila do cozimento.
+
+tile.block_kst_black.name=KAWARA escadas
+tile.block_kst_blue.name=KAWARA escadas_azul
+tile.block_kst_brown.name=KAWARA escadas_castanho
+tile.block_kst_cyan.name=KAWARA escadas_azul ciano
+tile.block_kst_gray.name=KAWARA escadas_cinzento
+tile.block_kst_green.name=KAWARA escadas_verde
+tile.block_kst_lightb.name=KAWARA escadas_azul claro
+tile.block_kst_lightg.name=KAWARA escadas_cinzento claro
+tile.block_kst_lime.name=KAWARA escadas_lima
+tile.block_kst_magenta.name=KAWARA escadas_magenta
+tile.block_kst_orange.name=KAWARA escadas_laranja
+tile.block_kst_pink.name=KAWARA escadas_rosa
+tile.block_kst_purple.name=KAWARA escadas_roxo
+tile.block_kst_red.name=KAWARA escadas_vermelho
+tile.block_kst_yellow.name=KAWARA escadas_amarelo
+tile.block_kst_white.name=KAWARA escadas_branco
+
+tile.block_ksh_black.name=KAWARA degrau
+tile.block_ksh_blue.name=KAWARA degrau_azul
+tile.block_ksh_brown.name=KAWARA degrau_castanho
+tile.block_ksh_cyan.name=KAWARA degrau_azul ciano
+tile.block_ksh_gray.name=KAWARA degrau_cinzento
+tile.block_ksh_green.name=KAWARA degrau_verde
+tile.block_ksh_lightb.name=KAWARA degrau_azul claro
+tile.block_ksh_lightg.name=KAWARA degrau_cinzento claro
+tile.block_ksh_lime.name=KAWARA degrau_lima
+tile.block_ksh_magenta.name=KAWARA degrau_magenta
+tile.block_ksh_orange.name=KAWARA degrau_laranja
+tile.block_ksh_pink.name=KAWARA degrau_rosa
+tile.block_ksh_purple.name=KAWARA degrau_roxo
+tile.block_ksh_red.name=KAWARA degrau_vermelho
+tile.block_ksh_yellow.name=KAWARA degrau_amarelo
+tile.block_ksh_white.name=KAWARA degrau_branco
+
+tile.block_namako_black.name=NAMAKO parede_preto
+tile.block_namako_blue.name=NAMAKO parede_azul
+tile.block_namako_brown.name=NAMAKO parede_castanho
+tile.block_namako_cyan.name=NAMAKO parede_azul ciano
+tile.block_namako_gray.name=NAMAKO parede_cinzento
+tile.block_namako_green.name=NAMAKO parede_verde
+tile.block_namako_lightb.name=NAMAKO parede_azul claro
+tile.block_namako_lightg.name=NAMAKO parede_cinzento claro
+tile.block_namako_lime.name=NAMAKO parede_lima
+tile.block_namako_magenta.name=NAMAKO parede_magenta
+tile.block_namako_orange.name=NAMAKO parede_laranja
+tile.block_namako_pink.name=NAMAKO parede_rosa
+tile.block_namako_purple.name=NAMAKO parede_roxo
+tile.block_namako_red.name=NAMAKO parede_vermelho
+tile.block_namako_yellow.name=NAMAKO parede_amarelo
+tile.block_namako_white.name=NAMAKO parede
+tips.tile.block_namako.name=Parede com KAWARA preso com SHIKKUI.
+
+tile.block_nst_black.name=NAMAKO escadas_preto
+tile.block_nst_blue.name=NAMAKO escadas_azul
+tile.block_nst_brown.name=NAMAKO escadas_castanho
+tile.block_nst_cyan.name=NAMAKO escadas_azul ciano
+tile.block_nst_gray.name=NAMAKO escadas_cinzento
+tile.block_nst_green.name=NAMAKO escadas_verde
+tile.block_nst_lightb.name=NAMAKO escadas_azul claro
+tile.block_nst_lightg.name=NAMAKO escadas_cinzento claro
+tile.block_nst_lime.name=NAMAKO escadas_lima
+tile.block_nst_magenta.name=NAMAKO escadas_magenta
+tile.block_nst_orange.name=NAMAKO escadas_laranja
+tile.block_nst_pink.name=NAMAKO escadas_rosa
+tile.block_nst_purple.name=NAMAKO escadas_roxo
+tile.block_nst_red.name=NAMAKO escadas_vermelho
+tile.block_nst_yellow.name=NAMAKO escadas_amarelo
+tile.block_nst_white.name=NAMAKO escadas
+
+tile.block_nsh_black.name=NAMAKO degrau_preto
+tile.block_nsh_blue.name=NAMAKO degrau_azul
+tile.block_nsh_brown.name=NAMAKO degrau_castanho
+tile.block_nsh_cyan.name=NAMAKO degrau_azul ciano
+tile.block_nsh_gray.name=NAMAKO degrau_cinzento
+tile.block_nsh_green.name=NAMAKO degrau_verde
+tile.block_nsh_lightb.name=NAMAKO degrau_azul claro
+tile.block_nsh_lightg.name=NAMAKO degrau_cinzento claro
+tile.block_nsh_lime.name=NAMAKO degrau_lima
+tile.block_nsh_magenta.name=NAMAKO degrau_magenta
+tile.block_nsh_orange.name=NAMAKO degrau_laranja
+tile.block_nsh_pink.name=NAMAKO degrau_rosa
+tile.block_nsh_purple.name=NAMAKO degrau_roxo
+tile.block_nsh_red.name=NAMAKO degrau_vermelho
+tile.block_nsh_yellow.name=NAMAKO degrau_amarelo
+tile.block_nsh_white.name=NAMAKO degrau
+
+tile.block_namako_b_black.name=NAMAKO parede tipo2_preto
+tile.block_namako_b_blue.name=NAMAKO parede tipo2_azul
+tile.block_namako_b_brown.name=NAMAKO parede tipo2_castanho
+tile.block_namako_b_cyan.name=NAMAKO parede tipo2_azul ciano
+tile.block_namako_b_gray.name=NAMAKO parede tipo2_cinzento
+tile.block_namako_b_green.name=NAMAKO parede tipo2_verde
+tile.block_namako_b_lightb.name=NAMAKO parede tipo2_azul claro
+tile.block_namako_b_lightg.name=NAMAKO parede tipo2_cinzento claro
+tile.block_namako_b_lime.name=NAMAKO parede tipo2_lima
+tile.block_namako_b_magenta.name=NAMAKO parede tipo2_magenta
+tile.block_namako_b_orange.name=NAMAKO parede tipo2_laranja
+tile.block_namako_b_pink.name=NAMAKO parede tipo2_rosa
+tile.block_namako_b_purple.name=NAMAKO parede tipo2_roxo
+tile.block_namako_b_red.name=NAMAKO parede tipo2_vermelho
+tile.block_namako_b_yellow.name=NAMAKO parede tipo2_amarelo
+tile.block_namako_b_white.name=NAMAKO parede tipo2
+
+tile.block_nst_b_black.name=NAMAKO escadas tipo2_preto
+tile.block_nst_b_blue.name=NAMAKO escadas tipo2_azul
+tile.block_nst_b_brown.name=NAMAKO escadas tipo2_castanho
+tile.block_nst_b_cyan.name=NAMAKO escadas tipo2_azul ciano
+tile.block_nst_b_gray.name=NAMAKO escadas tipo2_cinzento
+tile.block_nst_b_green.name=NAMAKO escadas tipo2_verde
+tile.block_nst_b_lightb.name=NAMAKO escadas tipo2_azul claro
+tile.block_nst_b_lightg.name=NAMAKO escadas tipo2_cinzento claro
+tile.block_nst_b_lime.name=NAMAKO escadas tipo2_lima
+tile.block_nst_b_magenta.name=NAMAKO escadas tipo2_magenta
+tile.block_nst_b_orange.name=NAMAKO escadas tipo2_laranja
+tile.block_nst_b_pink.name=NAMAKO escadas tipo2_rosa
+tile.block_nst_b_purple.name=NAMAKO escadas tipo2_roxo
+tile.block_nst_b_red.name=NAMAKO escadas tipo2_vermelho
+tile.block_nst_b_yellow.name=NAMAKO escadas tipo2_amarelo
+tile.block_nst_b_white.name=NAMAKO escadas tipo2
+
+tile.block_nsh_b_black.name=NAMAKO degrau tipo2_preto
+tile.block_nsh_b_blue.name=NAMAKO degrau tipo2_azul
+tile.block_nsh_b_brown.name=NAMAKO degrau tipo2_castanho
+tile.block_nsh_b_cyan.name=NAMAKO degrau tipo2_azul ciano
+tile.block_nsh_b_gray.name=NAMAKO degrau tipo2_cinzento
+tile.block_nsh_b_green.name=NAMAKO degrau tipo2_verde
+tile.block_nsh_b_lightb.name=NAMAKO degrau tipo2_azul claro
+tile.block_nsh_b_lightg.name=NAMAKO degrau tipo2_cinzento claro
+tile.block_nsh_b_lime.name=NAMAKO degrau tipo2_lima
+tile.block_nsh_b_magenta.name=NAMAKO degrau tipo2_magenta
+tile.block_nsh_b_orange.name=NAMAKO degrau tipo2_laranja
+tile.block_nsh_b_pink.name=NAMAKO degrau tipo2_rosa
+tile.block_nsh_b_purple.name=NAMAKO degrau tipo2_roxo
+tile.block_nsh_b_red.name=NAMAKO degrau tipo2_vermelho
+tile.block_nsh_b_yellow.name=NAMAKO degrau tipo2_amarelo
+tile.block_nsh_b_white.name=NAMAKO degrau tipo2
+
+tile.block_dirtwall.name=Barro parede
+tile.block_dirtwall_st.name=Barro escadas
+tile.block_dirtwall_sh.name=Barro degrau
+
+#Plaster
+tile.block_plaster_black.name=SHIKKUI_preto
+tile.block_plaster_blue.name=SHIKKUI_azul
+tile.block_plaster_brown.name=SHIKKUI_castanho
+tile.block_plaster_cyan.name=SHIKKUI_azul ciano
+tile.block_plaster_gray.name=SHIKKUI_cinzento
+tile.block_plaster_green.name=SHIKKUI_verde
+tile.block_plaster_lightb.name=SHIKKUI_azul claro
+tile.block_plaster_lightg.name=SHIKKUI_cinzento claro
+tile.block_plaster_lime.name=SHIKKUI_lima
+tile.block_plaster_magenta.name=SHIKKUI_magenta
+tile.block_plaster_orange.name=SHIKKUI_laranja
+tile.block_plaster_pink.name=SHIKKUI_rosa
+tile.block_plaster_purple.name=SHIKKUI_roxo
+tile.block_plaster_red.name=SHIKKUI_vermelho
+tile.block_plaster_yellow.name=SHIKKUI_amarelo
+tile.block_plaster_white.name=SHIKKUI
+tips.tile.block_plaster.name=Construa material usando cal apagada.
+
+tile.block_pst_black.name=SHIKKUI escadas_preto
+tile.block_pst_blue.name=SHIKKUI escadas_azul
+tile.block_pst_brown.name=SHIKKUI escadas_castanho
+tile.block_pst_cyan.name=SHIKKUI escadas_azul ciano
+tile.block_pst_gray.name=SHIKKUI escadas_cinzento
+tile.block_pst_green.name=SHIKKUI escadas_verde
+tile.block_pst_lightb.name=SHIKKUI escadas_azul claro
+tile.block_pst_lightg.name=SHIKKUI escadas_cinzento claro
+tile.block_pst_lime.name=SHIKKUI escadas_lima
+tile.block_pst_magenta.name=SHIKKUI escadas_magenta
+tile.block_pst_orange.name=SHIKKUI escadas_laranja
+tile.block_pst_pink.name=SHIKKUI escadas_rosa
+tile.block_pst_purple.name=SHIKKUI escadas_roxo
+tile.block_pst_red.name=SHIKKUI escadas_vermelho
+tile.block_pst_yellow.name=SHIKKUI escadas_amarelo
+tile.block_pst_white.name=SHIKKUI escadas
+
+tile.block_psh_black.name=SHIKKUI degrau_preto
+tile.block_psh_blue.name=SHIKKUI degrau_azul
+tile.block_psh_brown.name=SHIKKUI degrau_castanho
+tile.block_psh_cyan.name=SHIKKUI degrau_azul ciano
+tile.block_psh_gray.name=SHIKKUI degrau_cinzento
+tile.block_psh_green.name=SHIKKUI degrau_verde
+tile.block_psh_lightb.name=SHIKKUI degrau_azul claro
+tile.block_psh_lightg.name=SHIKKUI degrau_cinzento claro
+tile.block_psh_lime.name=SHIKKUI degrau_lima
+tile.block_psh_magenta.name=SHIKKUI degrau_magenta
+tile.block_psh_orange.name=SHIKKUI degrau_laranja
+tile.block_psh_pink.name=SHIKKUI degrau_rosa
+tile.block_psh_purple.name=SHIKKUI degrau_roxo
+tile.block_psh_red.name=SHIKKUI degrau_vermelho
+tile.block_psh_yellow.name=SHIKKUI degrau_amarelo
+tile.block_psh_white.name=SHIKKUI degrau
+
+#Noren
+tile.block_noren_black.name=NOREN_preto
+tile.block_noren_blue.name=NOREN_azul
+tile.block_noren_brown.name=NOREN_castanho
+tile.block_noren_cyan.name=NOREN_azul ciano
+tile.block_noren_gray.name=NOREN_cinzento
+tile.block_noren_green.name=NOREN_verde
+tile.block_noren_lightb.name=NOREN_azul claro
+tile.block_noren_lightg.name=NOREN_cinzento claro
+tile.block_noren_lime.name=NOREN_lima
+tile.block_noren_magenta.name=NOREN_magenta
+tile.block_noren_orange.name=NOREN_laranja
+tile.block_noren_pink.name=NOREN_rosa
+tile.block_noren_purple.name=NOREN_roxo
+tile.block_noren_red.name=NOREN_vermelho
+tile.block_noren_yellow.name=NOREN_amarelo
+tile.block_noren_white.name=NOREN_branco
+tips.tile.block_noren.name=Pano para ser usado para toldos e com os olhos vendados.
+
+#Kaomoi
+tile.block_ka_black_a.name=Acácia SHIKKUI_preto
+tile.block_ka_black_b.name=Bétula SHIKKUI_preto
+tile.block_ka_black_d.name=Carvalho escuro SHIKKUI_preto
+tile.block_ka_black_j.name=Selva SHIKKUI_preto
+tile.block_ka_black_o.name=Carvalho SHIKKUI_preto
+tile.block_ka_black_s.name=Abeto SHIKKUI_preto
+
+tile.block_ka_blue_a.name=Acácia SHIKKUI_azul
+tile.block_ka_blue_b.name=Bétula SHIKKUI_azul
+tile.block_ka_blue_d.name=Carvalho escuro SHIKKUI_azul
+tile.block_ka_blue_j.name=Selva SHIKKUI_azul
+tile.block_ka_blue_o.name=Carvalho SHIKKUI_azul
+tile.block_ka_blue_s.name=Abeto SHIKKUI_azul
+
+tile.block_ka_brown_a.name=Acácia SHIKKUI_castanho
+tile.block_ka_brown_b.name=Bétula SHIKKUI_castanho
+tile.block_ka_brown_d.name=Carvalho escuro SHIKKUI_castanho
+tile.block_ka_brown_j.name=Selva SHIKKUI_castanho
+tile.block_ka_brown_o.name=Carvalho SHIKKUI_castanho
+tile.block_ka_brown_s.name=Abeto SHIKKUI_castanho
+
+tile.block_ka_cyan_a.name=Acácia SHIKKUI_azul ciano
+tile.block_ka_cyan_b.name=Bétula SHIKKUI_azul ciano
+tile.block_ka_cyan_d.name=Carvalho escuro SHIKKUI_azul ciano
+tile.block_ka_cyan_j.name=Selva SHIKKUI_azul ciano
+tile.block_ka_cyan_o.name=Carvalho SHIKKUI_azul ciano
+tile.block_ka_cyan_s.name=Abeto SHIKKUI_azul ciano
+
+tile.block_ka_gray_a.name=Acácia SHIKKUI_cinzento
+tile.block_ka_gray_b.name=Bétula SHIKKUI_cinzento
+tile.block_ka_gray_d.name=Carvalho escuro SHIKKUI_cinzento
+tile.block_ka_gray_j.name=Selva SHIKKUI_cinzento
+tile.block_ka_gray_o.name=Carvalho SHIKKUI_cinzento
+tile.block_ka_gray_s.name=Abeto SHIKKUI_cinzento
+
+tile.block_ka_green_a.name=Acácia SHIKKUI_verde
+tile.block_ka_green_b.name=Bétula SHIKKUI_verde
+tile.block_ka_green_d.name=Carvalho escuro SHIKKUI_verde
+tile.block_ka_green_j.name=Selva SHIKKUI_verde
+tile.block_ka_green_o.name=Carvalho SHIKKUI_verde
+tile.block_ka_green_s.name=Abeto SHIKKUI_verde
+
+tile.block_ka_lightb_a.name=Acácia SHIKKUI_azul claro
+tile.block_ka_lightb_b.name=Bétula SHIKKUI_azul claro
+tile.block_ka_lightb_d.name=Carvalho escuro SHIKKUI_azul claro
+tile.block_ka_lightb_j.name=Selva SHIKKUI_azul claro
+tile.block_ka_lightb_o.name=Carvalho SHIKKUI_azul claro
+tile.block_ka_lightb_s.name=Abeto SHIKKUI_azul claro
+
+tile.block_ka_lightg_a.name=Acácia SHIKKUI_cinzento claro
+tile.block_ka_lightg_b.name=Bétula SHIKKUI_cinzento claro
+tile.block_ka_lightg_d.name=Carvalho escuro SHIKKUI_cinzento claro
+tile.block_ka_lightg_j.name=Selva SHIKKUI_cinzento claro
+tile.block_ka_lightg_o.name=Carvalho SHIKKUI_cinzento claro
+tile.block_ka_lightg_s.name=Abeto SHIKKUI_cinzento claro
+
+tile.block_ka_lime_a.name=Acácia SHIKKUI_lima
+tile.block_ka_lime_b.name=Bétula SHIKKUI_lima
+tile.block_ka_lime_d.name=Carvalho escuro SHIKKUI_lima
+tile.block_ka_lime_j.name=Selva SHIKKUI_lima
+tile.block_ka_lime_o.name=Carvalho SHIKKUI_lima
+tile.block_ka_lime_s.name=Abeto SHIKKUI_lima
+
+tile.block_ka_magenta_a.name=Acácia SHIKKUI_magenta
+tile.block_ka_magenta_b.name=Bétula SHIKKUI_magenta
+tile.block_ka_magenta_d.name=Carvalho escuro SHIKKUI_magenta
+tile.block_ka_magenta_j.name=Selva SHIKKUI_magenta
+tile.block_ka_magenta_o.name=Carvalho SHIKKUI_magenta
+tile.block_ka_magenta_s.name=Abeto SHIKKUI_magenta
+
+tile.block_ka_orange_a.name=Acácia SHIKKUI_laranja
+tile.block_ka_orange_b.name=Bétula SHIKKUI_laranja
+tile.block_ka_orange_d.name=Carvalho escuro SHIKKUI_laranja
+tile.block_ka_orange_j.name=Selva SHIKKUI_laranja
+tile.block_ka_orange_o.name=Carvalho SHIKKUI_laranja
+tile.block_ka_orange_s.name=Abeto SHIKKUI_laranja
+
+tile.block_ka_pink_a.name=Acácia SHIKKUI_rosa
+tile.block_ka_pink_b.name=Bétula SHIKKUI_rosa
+tile.block_ka_pink_d.name=Carvalho escuro SHIKKUI_rosa
+tile.block_ka_pink_j.name=Selva SHIKKUI_rosa
+tile.block_ka_pink_o.name=Carvalho SHIKKUI_rosa
+tile.block_ka_pink_s.name=Abeto SHIKKUI_rosa
+
+tile.block_ka_purple_a.name=Acácia SHIKKUI_roxo
+tile.block_ka_purple_b.name=Bétula SHIKKUI_roxo
+tile.block_ka_purple_d.name=Carvalho escuro SHIKKUI_roxo
+tile.block_ka_purple_j.name=Selva SHIKKUI_roxo
+tile.block_ka_purple_o.name=Carvalho SHIKKUI_roxo
+tile.block_ka_purple_s.name=Abeto SHIKKUI_roxo
+
+tile.block_ka_red_a.name=Acácia SHIKKUI_vermelho
+tile.block_ka_red_b.name=Bétula SHIKKUI_vermelho
+tile.block_ka_red_d.name=Carvalho escuro SHIKKUI_vermelho
+tile.block_ka_red_j.name=Selva SHIKKUI_vermelho
+tile.block_ka_red_o.name=Carvalho SHIKKUI_vermelho
+tile.block_ka_red_s.name=Abeto SHIKKUI_vermelho
+
+tile.block_ka_white_a.name=Acácia SHIKKUI_branco
+tile.block_ka_white_b.name=Bétula SHIKKUI_branco
+tile.block_ka_white_d.name=Carvalho escuro SHIKKUI_branco
+tile.block_ka_white_j.name=Selva SHIKKUI_branco
+tile.block_ka_white_o.name=Carvalho SHIKKUI_branco
+tile.block_ka_white_s.name=Abeto SHIKKUI_branco
+
+tile.block_ka_yellow_a.name=Acácia SHIKKUI_amarelo
+tile.block_ka_yellow_b.name=Bétula SHIKKUI_amarelo
+tile.block_ka_yellow_d.name=Carvalho escuro SHIKKUI_amarelo
+tile.block_ka_yellow_j.name=Selva SHIKKUI_amarelo
+tile.block_ka_yellow_o.name=Carvalho SHIKKUI_amarelo
+tile.block_ka_yellow_s.name=Abeto SHIKKUI_amarelo
+
+#TeaTime
+#Garden
+tile.block_sudare_1.name=SUDARE
+tips.tile.block_sudare.name=Janela cega. Sneaking clicar direito [abrir / fechar].
+
+tile.block_ishitourou_stone.name=ISHITOUROU C
+tile.block_ishitourou_and.name=ISHITOUROU C andesito
+tile.block_ishitourou_dio.name=ISHITOUROU C diorito
+tile.block_ishitourou_gra.name=ISHITOUROU C granito
+tips.tile.block_ishitourou.name=Lanterna de pedra para colocar uma tocha.
+
+tile.block_longtourou_stone.name=ISHITOUROU
+tile.block_longtourou_and.name=ISHITOUROU andesito
+tile.block_longtourou_dio.name=ISHITOUROU diorito
+tile.block_longtourou_gra.name=ISHITOUROU granito
+
+tile.block_chouzubachi_kara.name=CHOZUBACHI
+tile.block_chouzu_and_kara.name=CHOZUBACHI andesito
+tile.block_chouzu_dio_kara.name=CHOZUBACHI diorito
+tile.block_chouzu_gra_kara.name=CHOZUBACHI granito
+tips.tile.block_chouzubachi.name=Uma tigela de pedra para colocar água.
+
+tile.block_longacacia_bot.name=Planta Decorativa acácia
+tile.block_longbirch_bot.name=Planta Decorativa bétula
+tile.block_longdarkoak_bot.name=Planta Decorativa carvalho escuro
+tile.block_longjungle_bot.name=Planta Decorativa selva
+tile.block_longoak_bot.name=Planta Decorativa carvalho
+tile.block_longspruce_bot.name=Planta Decorativa abeto
+
+tile.block_low_acacia.name=Planta Decorativa C acácia
+tile.block_low_birch.name=Planta Decorativa C bétula
+tile.block_low_darkoak.name=Planta Decorativa C carvalho escuro
+tile.block_low_jungle.name=Planta Decorativa C selva
+tile.block_low_oak.name=Planta Decorativa C carvalho
+tile.block_low_spruce.name=Planta Decorativa C abeto
+
+tile.block_teatable.name=Mesa de chá
+
+#Hakkou
+tile.block_bin_koubo_f.name=Frasco de cultura de fermento
+tips.tile.block_bin_koubo.name=Faca leveduras de maca.
+
+tile.block_taru_hakkou.name=Barril de Fermentacao
+tips.tile.block_taru_hakkou.name=Barril usado para fermentacao de alcool e MISO etc.
+
+tile.block_taru_kouji_f.name=KOMEKOUJI Barril
+tips.tile.block_taru_kouji.name=Barril para fazer arroz-malte.
+
+tile.block_taru_shubo_f.name=SHUBO Barril
+tips.tile.block_taru_shubo.name=Barril para fazer pure de fermento. Tome-o com uma Tigela.
+
+tile.block_taru_moromi_f.name=MOROMI Barril
+tips.tile.block_taru_moromi.name=Barril para fazer MOROMI-mash. Tome-o com uma Tigela.
+
+tile.block_taru_jukusei_f.name=SAKE envelhecido Barril
+tips.tile.block_taru_jukusei.name=Barril para fazer SAKE envelhecido. Apos a fermentacao, colete com o botao direito do mouse.
+
+tile.block_taru_ringoshu_f.name=Cidra Barril
+tips.tile.block_taru_ringoshu.name=Barril para fazer Cidra. Apos a fermentacao, colete usando uma garrafa de vinho.
+
+tile.block_taru_budoushu_f.name=Vinho Barril
+tips.tile.block_taru_budoushu.name=Barril para fazer Vinho. Apos a fermentacao, colete usando uma garrafa de vinho.
+
+tile.block_taru_miso_f.name=MISO Barril
+tips.tile.block_taru_miso.name=Barril para fazer MISO.
+
+tile.block_taru_koucha_f.name=Bandejas de cha
+tips.tile.block_taru_koushca_f.name=Bandejas para oxidacao de folhas de cha.
+
+tile.block_bot_sakenama_1.name=SAKE puro
+tips.tile.block_bot_sakenama.name=Queime em um forno, isso se transformar em um SAKE. Pode beber isso com um copo de bebida.
+tile.block_gla_sakenama_1.name=Vidro com SAKE puro
+
+tile.block_bot_sake_1.name=SAKE
+tips.tile.block_bot_sake.name=Pode beber isso com um copo de bebida.
+
+tile.block_gla_sake_1.name=Vidro com SAKE
+tile.block_bot_sakejuku_1.name=SAKE envelhecido
+tile.block_gla_sakejuku_1.name=Vidro com SAKE envelhecido
+tile.block_bot_cider_1.name=Cidra
+tile.block_gla_cider_1.name=Vidro com Cidra
+tile.block_bot_ciderjuku_1.name=Cidra envelhecido
+tile.block_gla_ciderjuku_1.name=Vidro com Cidra envelhecido
+tile.block_bot_wine_1.name=Vinho
+tile.block_gla_wine_1.name=Vidro com Vinho
+tile.block_bot_winejuku_1.name=Vinho envelhecido
+tile.block_gla_winejuku_1.name=Vidro com Vinho envelhecido
+tile.block_food_nabeaz_n.name=DONABE com bolo SAKE
+tile.block_food_nabeaz_1.name=DONABE com doce meio SAKE
+tips.tile.block_food_nabeaz_1.name=Pode beber isso com um YUNOMI.
+
+tile.block_gla_amazake_1.name=Copa com doce meio SAKE
+
+tile.block_food_nabenimame_n.name=DONABE com Soja
+tile.block_food_nabenimame_b.name=DONABE com Soja cozida
+tips.tile.block_food_nabenimame_b.name=Tome-o com uma Tigela.
+
+#Kitchen
+tile.block_kitchen.name=Balcao de cozinha
+tips.tile.block_kitchen.name=Pode armazenar ferramentas de cozinha.
+
+tile.block_kit_board.name=Tabua de cortar
+tips.tile.block_kit_board.name=Pode ser usado como um Bancada de Trabalho.
+
+tile.block_kit_sink1.name=Uma pia
+tips.tile.block_kit_sink.name=Se houver agua abaixo de 2 blocos, clique direito [on / off].
+
+tile.block_kit_stove.name=Fogao / Forno
+container.kitchen_stove=Fogao / Forno dentro
+tips.tile.block_kit_stove.name=Pode ser usado para cozinhar e fundir.
+
+tile.block_irori.name=IRORI
+container.irori=IRORI dentro
+tips.tile.block_irori.name=Lareira japonesa. Pode ser usado para cozinhar e fundir.
+
+tile.block_kit_kanki.name=Ventilador
+tips.tile.block_kit_kanki.name=Clique direito [on / off]. Sneaking clicar direito [mudar tipo].
+
+tile.block_kit_duct.name=Duto de ventilacao
+tile.block_kit_ductend.name=Saida de ar
+tips.tile.block_kit_ductend.name=Sneaking clicar direito [mudar tipo].
+
+tile.block_kit_tana.name=Armario
+tips.tile.block_kit_tana.name=Pode armazenar pratos por tipo.
+
+tile.block_cstove_new.name=Fogao a lenha versoes previas
+container.cstove=Fogao a lenha dentro
+tile.block_cstove_top.name=Fogao a lenha superior
+tile.block_cstove_bot.name=Fogao a lenha inferior
+tips.tile.block_cstove_top.name=Pode ser usado como Fornalha, quando colocado em Fogao a lenha inferior.
+
+#Pantry
+tile.block_boxh_empty.name=Caixa vazia
+tile.block_boxh_apple.name=Caixa de Maca
+tile.block_boxh_beef.name=Caixa de Bife Cru
+tile.block_boxh_beetroot.name=Caixa de Beterraba
+tile.block_boxh_bread.name=Caixa de Pao
+tile.block_boxh_carrot.name=Caixa de Cenoura
+tile.block_boxh_chicken.name=Caixa de Frango Cru
+tile.block_boxh_chorus.name=Caixa de Fruta do Coro
+tile.block_boxh_coco.name=Saco de Cacau
+tile.block_boxh_egg.name=Caixa de Ovo
+tile.block_boxh_fish.name=Caixa de Peixe Cru
+tile.block_boxh_flour.name=Saco de Trigo
+tile.block_boxh_mutton.name=Caixa de Carne de Carneiro Crua
+tile.block_boxh_pork.name=Caixa de Costeleta de Porco Crua
+tile.block_boxh_potato.name=Caixa de Batata
+tile.block_boxh_rabbit.name=Caixa de Carne de Coelho Cru
+
+tile.block_boxh_cabbage.name=Caixa de Repolho
+tile.block_boxh_hakusai.name=Caixa de Repolho chines
+tile.block_boxh_corn.name=Caixa de Milho
+tile.block_boxh_grape.name=Caixa de Uva
+tile.block_boxh_onion.name=Caixa de Cebola
+tile.block_boxh_rice.name=Saco de Arroz
+tile.block_boxh_soy.name=Saco de Soja
+tile.block_boxh_spinach.name=Caixa de Espinafre
+tile.block_boxh_tomato.name=Caixa de Tomate
+tile.block_boxh_tgreen.name=Saco de Cha verde
+tile.block_boxh_tred.name=Saco de Cha preto
+
+tile.block_tea_chadutsu.name=Latas de cha verde
+tile.block_tea_can.name=Latas de cha
+tile.block_tawara_cm.name=TAWARA
+
+#Foodblock
+tips.tile.block_frypan.name=Pode cozinhar em [Fornalha / Fogao].
+tips.tile.block_nabe.name=Pode cozinhar em [Fornalha / Fogao / IRORI].
+tips.tile.block_kettle.name=Ferver agua em [Fornalha / Fogao / IRORI / Fogao a lenha].
+
+tile.block_kettle_full.name=Chaleira com agua
+
+tile.block_food_karanabe.name=DONABE vazio
+tips.tile.block_food_karanabe.name=Cacerola de barro vazia
+
+tile.block_food_nabeshio_n.name=DONABE com agua do mar
+tile.block_food_nabeshio_b.name=DONABE com sal
+tile.block_food_nabetoufu_n.name=DONABE com leite de soja
+tile.block_food_nabetoufu_b.name=DONABE com TOFU
+tips.tile.block_food_nabetoufu_b.name=Tome-o com uma tigela.
+
+tile.block_food_nabe_n.name=DONABE com frango cru
+tile.block_food_nabe_1.name=DONABE com frango cozido
+tips.tile.block_food_nabe_1.name=Tome-o com um TONSUI.
+
+tile.block_food_tonsui_1.name=TONSUI com frango cozido
+tile.block_food_nabegohan_n.name=DONABE com arroz cru
+tile.block_food_nabegohan_1.name=DONABE com arroz cozido
+tips.tile.block_food_nabegohan_1.name=Pegue com um CHAWAN, uma prato ou uma tigela.
+
+tile.block_food_gohan_1.name=CHAWAN com arroz cozido
+tile.block_food_rice_1.name=Prato com arroz cozido
+tile.block_food_nabemiso_n.name=DONABE com sopa crua de MISO
+tile.block_food_nabemiso_1.name=DONABE com sopa MISO
+tips.tile.block_food_nabemiso_1.name=Pegue com um SHIKKI.
+
+tile.block_food_misosp_1.name=Sopa de MISO
+tile.block_food_nabecorns_n.name=DONABE com sopa de milho cru
+tile.block_food_nabecorns_1.name=DONABE com sopa de milho
+tips.tile.block_food_nabecorns_1.name=Pegue com um Prato.
+
+tile.block_food_cornsp_1.name=Sopa de milho
+
+tile.block_food_frypan.name=Frigideira
+tile.block_food_tgy_nama.name=Frigideira com ovo cru
+tile.block_food_tgy_bake.name=Frigideira com omelete
+tips.tile.block_food_tgy_bake.name=Pegue com um Prato.
+
+tile.block_food_tgy_1.name=Prato com omelete
+tile.block_food_tgytei_1.name=Menu de omelete
+tile.block_food_yakizakanatei_1.name=Menu de Peixe Assado
+tile.block_food_egb_nama.name=Frigideira com cru ovo Hamburgo
+tile.block_food_egb_bake.name=Frigideira com ovo Hamburgo
+tips.tile.block_food_egb_bake.name=Pegue com um Prato.
+
+tile.block_food_egb_1.name=Pegue com ovo Hamburgo
+tile.block_food_egbset_1.name=Menu de ovo Hamburgo
+
+tile.block_food_zundou.name=Stockpot
+tile.block_food_cunabe_n.name=Stockpot com curry cru
+tile.block_food_cunabe_1.name=Stockpot com curry cozido
+tips.tile.block_food_cunabe_1.name=Pegue com um Prato com arroz cozido.
+
+tile.block_food_curry_1.name=Curry e arroz
+tile.block_food_curryset_1.name=Menu de Curry e arroz
+tile.block_food_roastchicken_1.name=Frango assado
+tips.tile.block_roastchicken_1.name=Pegue com um Prato.
+
+tile.block_food_chickenb_1.name=Prato con frango assado
+tile.block_food_sconeset_1.name=Tea stand com Scorn
+
+tile.block_food_teastand.name=Tea stand
+tile.block_food_teacup_1.name=Teacup com cha preto
+tile.block_food_teapot_1.name=Bule com cha preto
+tips.tile.block_food_teapot_1.name=Pode beber isso com um Teacup.
+
+tile.block_food_teapot_k.name=Bule vazio
+tile.block_food_teaset_1.name=Cha preto com Scorn
+tile.block_food_jpteacup_1.name=YUNOMI com cha verde
+tile.block_food_kyusu_1.name=KYUSU com cha verde
+tips.tile.block_food_kyusu_1.name=Pode beber isso com um YUNOMI.
+
+tile.block_food_kyusu_k.name=KYUSU vazio
+tile.block_food_jpteaset_1.name=Cha verde com SENBEI
+tile.block_food_icecream_1.name=Sorvete
+
+#FoodItem
+item.item_food_bun.name=Pães
+item.item_food_cake.name=Bolo cortado
+item.item_food_scone.name=Scorn
+item.item_food_senbei.name=SENBEI
+tips.item.item_food_senbei.name=Um biscoito de arroz.
+
+item.item_food_chickensand.name=Sanduíche de frango
+item.item_food_eggsand.name=Sanduíche de ovo
+
+item.item_food_cabbage.name=Repolho
+item.item_food_corn.name=Milho
+item.item_food_grape.name=Uva
+item.item_food_onion.name=Cebola
+item.item_food_spinach.name=Espinafre
+item.item_food_tomato.name=Tomate
+item.item_food_cornb.name=Milho cozido
+item.item_food_hakusai.name=Repolho chinês
+
+#TTimeItem
+item.item_chaba.name=Folha de chá
+item.item_chaba_green.name=Chá verde
+item.item_chaba_red.name=Chá preto
+
+item.item_salt.name=Sal
+item.item_nigari.name=Sal Amargo
+tips.item.item_nigari.name=É usado ao fazer TOFU.
+
+item.item_sakekasu.name=Bolo SAKE
+tips.item.item_sakekasu.name=Usado para doce meio SAKE ou Fertilizante.
+
+item.item_koubo.name=Fermento
+tips.item.item_koubo.name=É usado quando fermentam coisas.
+
+item.item_mushigome.name=Arroz cozido no vapor
+
+item.item_komekouji.name=KOMEKOUJI
+tips.item.item_komekouji.name=É usado quando faz SAKE e MISO.
+
+item.item_shubo.name=SHUBO
+tips.item.item_shubo.name=Fermentando em um barril, torna-se MOROMI.
+
+item.item_moromi.name=MOROMI
+tips.item.item_moromi.name=Crafting torna-se SAKE puro e Bolo SAKE.
+
+item.item_nimame.name=Soja cozida
+item.item_miso.name=MISO
+item.item_food_toufu.name=TOFU
+
+item.item_ine.name=Planta de arroz
+item.item_kome.name=Arroz
+item.item_saya.name=Soja em vagem
+item.item_soy.name=Soja
+item.item_flour.name=Farinha
+item.item_butter.name=Manteiga
+
+item.item_kiji_bun.name=Massa de Pães
+tips.item.item_kiji_bun.name=Queimar em um forno, isso se transforma em um Pão j.
+
+item.item_kiji_burg.name=Hambúrgo de carne crua
+tips.item.item_kiji_burg.name=Cozida em uma frigideira e torna-se uma carne de hamburgo.
+
+item.item_kiji_scone.name=Massa de Scone
+tips.item.item_kiji_scone.name=Queimar em um forno, isso se transforma em um scone.
+
+item.item_kiji_senbei.name=Massa de biscoito de arroz
+tips.item.item_kiji_senbei.name=Queimar em um forno, isso se transforma em um SENBEI.
+
+item.item_match_cm.name=Palito de fósforo
+tips.item.item_match_cm.name=Queimar em um forno, isso se transforma em um Farinha de Osso.
+item.item_kettles_kara.name=Chaleira vazia
+item.item_kettles_boil.name=Chaleira com água quente
+
+item.item_food_sara.name=Prato
+item.item_food_chawan.name=CHAWAN
+tips.item.item_food_chawan.name=Uma tigela de arroz.
+
+item.item_food_shikki.name=SHIKKI
+tips.item.item_food_shikki.name=Prato URUSHI
+
+item.item_food_tonsui.name=TONSUI
+tips.item.item_food_tonsui.name=Uma tigela pequena para cozinhar panelas.
+
+item.item_food_yunomi.name=YUNOMI
+tips.item.item_food_yunomi.name=Copo de chá verde
+
+item.item_food_teacup.name=Teacup
+item.item_food_driglass.name=Beber vidro
+item.item_food_sakebot.name=Garrafa de vinho
+
+item.item_seikeiyunomi.name=Argila de moldagem_YUNOMI
+tips.item.item_seikeiyunomi.name=Queimar em um forno, isso se transforma em um YUNOMI.
+
+item.item_clay_kyusu.name=Argila de moldagem_KYUSU
+tips.item.item_clay_kyusu.name=Queimar em um forno, isso se transforma em um KYUSU.
+
+item.item_clay_teacup.name=Argila de moldagem_Teacup
+tips.item.item_clay_teacup.name=Queimar em um forno, isso se transforma em um Teacup.
+
+item.item_clay_teapot.name=Argila de moldagem_Bule de chá
+tips.item.item_clay_teapot.name=Queimar em um forno, isso se transforma em um Bule de chá.
+
+item.item_clay_sara.name=Argila de moldagem_Prato
+tips.item.item_clay_sara.name=Queimar em um forno, isso se transforma em um Prato.
+
+item.item_clay_chawan.name=Argila de moldagem_CHAWAN
+tips.item.item_clay_chawan.name=Queimar em um forno, isso se transforma em um CHAWAN.
+
+item.item_clay_nabe.name=Argila de moldagem_DONABE
+tips.item.item_clay_nabe.name=Queimar em um forno, isso se transforma em um DONABE.
+
+item.item_clay_tonsui.name=Argila de moldagem_TONSUI
+tips.item.item_clay_tonsui.name=Queimar em um forno, isso se transforma em um TONSUI.
+
+item.item_seeds_cabbage.name=Semente de Repolho
+item.item_seeds_soy.name=Semente de Soja
+item.item_seeds_spinach.name=Semente de Espinafre
+item.item_seeds_tomato.name=Semente de Tomate
+item.item_seeds_corn.name=Semente de Milho
+item.item_seeds_onion.name=Semente de Cebola
+item.item_seeds_rice.name=Semente de Arroz
+item.item_seeds_hakusai.name=Semente de Repolho chinês
+
+item.item_ingot_alumi.name=Alumínio
+tile.block_alumi_block.name=Alumínio quadra
+
+tile.block_seedsbox.name=Saco de sementes
+tips.tile.block_seedsbox.name=Se estiver quebrado, você pode obter novas sementes ao acaso. Todos os 10 tipos.
+
+tile.block_wood_chanoki_nae.name=Sapling da planta de chá
+tips.tile.block_wood_chanoki_nae.name=Plantando em sujeira brilhante, a árvore cresce.
+
+tile.block_wood_grape_nae.name=Sapling da árvore de uva
+tips.tile.block_wood_grape_nae.name=Plantando em sujeira brilhante, a árvore cresce.
+
+tile.block_food_zundou_m.name=Stockpot com água
+tile.block_food_sautoma_n.name=Frigideira com molho de tomate cru
+tile.block_food_sautoma_b.name=Frigideira com molho de tomate
+tips.tile.block_food_sautoma_b.name=Pegue com uma Macarrão.
+tile.block_food_pastatoma_1.name=Massa com molho de tomate
+item.item_food_pasta_n.name=Massa Cru
+item.item_food_pasta_s.name=Massa
+
+#Xmas
+item.item_santaakashi_helmet.name=AKASHI Papai Noel_Chapéu
+item.item_santaakashi_chestplate.name=AKASHI Papai Noel_Capa
+item.item_santaakashi_leggings.name=AKASHI Papai Noel_Vestir
+item.item_santaakashi_boots.name=AKASHI Papai Noel_Bota
+item.item_santakumano_helmet.name=KUMANO Papai Noel_Grampo de cabelo
+item.item_santakumano_chestplate.name=KUMANO Papai Noel_Capa
+item.item_santakumano_leggings.name=KUMANO Papai Noel_Vestir
+item.item_santakumano_boots.name=KUMANO Papai Noel_Bota
+item.item_santasuzuya_helmet.name=SUZUYA Papai Noel_Grampo de cabelo
+item.item_santasuzuya_chestplate.name=SUZUYA Papai Noel_Fita
+item.item_santasuzuya_leggings.name=SUZUYA Papai Noel_Vestir
+item.item_santasuzuya_boots.name=SUZUYA Papai Noel_Bota
+item.item_santaryujou_helmet.name=RYUJOU Papai Noel_Chapéu
+item.item_santaryujou_chestplate.name=RYUJOU Papai Noel_Casaco
+item.item_santaryujou_leggings.name=RYUJOU Papai Noel_Saia
+item.item_santaryujou_boots.name=RYUJOU Papai Noel_Bota
+
+item.item_santattk_helmet.name=Papai Noel_Chapéu
+item.item_santattk_chestplate.name=Papai Noel_Casaco
+item.item_santattk_leggings.name=Papai Noel_Calça
+item.item_santattk_boots.name=Papai Noel_Bota
+
+tile.block_xmastree.name=Árvore de Natal
+tile.block_xmastree_w.name=Árvore de Natal_branco
+
+tile.block_present_app.name=Caixa de presente
+tile.block_present_bla.name=Caixa de presente
+tile.block_present_bok.name=Caixa de presente
+tile.block_present_dia.name=Caixa de presente
+tile.block_present_lap.name=Caixa de presente
